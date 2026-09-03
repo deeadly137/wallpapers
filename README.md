@@ -1,5 +1,3 @@
-# wallpapers
-collection of wallpapers that anyone can commit into
 <h3 align="center">
   wallpapers
   <h5 align="center">
