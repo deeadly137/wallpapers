@@ -13,4 +13,4 @@
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
 </p><br>
 
-- [Index](https://github.com/deeadly137/wallpapers/blob/main/preview/index.md#index)
+- [Index](https://github.com/deeadly137/wallpapers/blob/main/preview/list.md)
