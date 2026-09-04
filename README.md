@@ -14,9 +14,18 @@
 </p><br>
 
 ## Categories
-- [Abstract](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/abstract)
-- [Distro](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro)
-- [Minimal](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/minimal)
-- [Mobile](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/mobile)
-- [Weeb](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/weeb)
+* [Abstract](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/abstract)
+* [Distro](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro)
+  * [nix](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/nix)
+  * [arch](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/arch)
+  * [debain](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/debian)
+  * [void](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/void)
+  * [zorin](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/zorin)
+  * [other](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/other)
+  
+* [Minimal](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/minimal)
+* [Mobile](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/mobile)
+* [Weeb](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/weeb)
+  * [Anime](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/weeb/anime)
+  * [Minimal](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/weeb/minimal)
 
