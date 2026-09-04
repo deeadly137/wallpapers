@@ -1,7 +1,7 @@
 # Minimal
 
-## [3squares.jpg](https://github.com/deeadly137/wallpapers/blob/main/wallpapers/minimal/3squares.png)
+## [3squares.png](https://github.com/deeadly137/wallpapers/blob/main/wallpapers/minimal/3squares.png)
 ![3squares](3squares.png)
  
-## [dark_skulls.jpg](https://github.com/deeadly137/wallpapers/blob/main/wallpapers/minimal/dark_skulls.jpg)
+## [dark_skulls.png](https://github.com/deeadly137/wallpapers/blob/main/wallpapers/minimal/dark_skulls.png)
 ![dark_skulls](dark_skulls.png)
