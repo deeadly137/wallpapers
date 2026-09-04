@@ -18,7 +18,7 @@
 * [Distro](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro)
   * [nix](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/nix)
   * [arch](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/arch)
-  * [debain](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/debian)
+  * [debain-based (ubuntu & mint)](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/debian)
   * [void](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/void)
   * [zorin](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/zorin)
   * [other](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro/other)
