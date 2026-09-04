@@ -13,4 +13,19 @@
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
 </p><br>
 
-- [Index](https://github.com/deeadly137/wallpapers/blob/main/preview/list.md)
+## Categories
+* [Abstract](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/abstract)
+* [Distro](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro)
+  * [nix](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/nix)
+  * [arch](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/arch)
+  * [debain-based (ubuntu & mint)](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/debian)
+  * [void](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/void)
+  * [zorin](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/zorin)
+  * [other](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/other)
+  
+* [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/minimal)
+* [Mobile](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/mobile)
+* [Weeb](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb)
+  * [Anime](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/anime)
+  * [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/minimal)
+
