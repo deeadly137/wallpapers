@@ -1,4 +1,4 @@
-# Debian
+# Debian Based ( Mint, Ubuntu )
 
 ## [Mint1.png](https://github.com/deeadly137/wallpapers/blob/main/wallpapers/distro/debian/Mint1.png)
 <img src="Mint1.png" alt="Mint1" width="500">
