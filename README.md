@@ -14,6 +14,7 @@
 </p><br>
 
 ## Categories
+
 * [Abstract](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/abstract)
 * [Distro](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro)
   * [nix](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/nix)
@@ -28,4 +29,3 @@
 * [Weeb](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb)
   * [Anime](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/anime)
   * [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/minimal)
-
