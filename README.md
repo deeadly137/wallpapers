@@ -13,4 +13,10 @@
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
 </p><br>
 
-- [Index](https://github.com/deeadly137/wallpapers/blob/main/preview/list.md)
+## Categories
+- [Abstract](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/abstract)
+- [Distro](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/distro)
+- [Minimal](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/minimal)
+- [Mobile](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/mobile)
+- [Weeb](https://github.com/futurekismo-oss/wallpapers/tree/main/wallpapers/weeb)
+
