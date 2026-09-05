@@ -1,5 +1,6 @@
 # Wallpapers
 
-## [Desktop](Desktop/README.md)
+A curated collection of wallpapers organized by category.
 
-## [Mobile](Mobile/README.md)
+- [Desktop](Desktop/README.md)
+- [Mobile](Mobile/README.md)

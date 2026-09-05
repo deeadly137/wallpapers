@@ -15,7 +15,7 @@
 
 ## Categories
 
-- [Desktop](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop)
+- **[Desktop](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop)**
   - [Blue](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop/Blue)
   - [Brown](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop/Brown)
   - [Dark](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop/Dark)
@@ -25,4 +25,8 @@
   - [Pink](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop/Pink)
   - [Purple](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop/Purple)
   - [Red / Orange](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Desktop/Red%20⁄%20Orange)
-- [Mobile](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Mobile)
+- **[Mobile](https://github.com/deeadly137/wallpapers/tree/main/Wallpapers/Mobile)**
+
+## License
+
+This project is licensed under the [MIT License](https://lbesson.mit-license.org/).

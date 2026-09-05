@@ -1,13 +1,10 @@
 # Distro
 
-## [Arch](Arch/README.md)
+Wallpapers organized by Linux distribution.
 
-## [Debian](Debian/README.md)
-
-## [Nix](Nix/README.md)
-
-## [Other](Other/README.md)
-
-## [Void](Void/README.md)
-
-## [Zorin](Zorin/README.md)
+- [Arch](Arch/README.md)
+- [Debian](Debian/README.md)
+- [Nix](Nix/README.md)
+- [Other](Other/README.md)
+- [Void](Void/README.md)
+- [Zorin](Zorin/README.md)

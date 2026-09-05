@@ -1,5 +1,7 @@
 # Pink
 
-## [acrylic.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Pink/acrylic.jpg)
+A collection of pink themed desktop wallpapers.
 
-<img src="acrylic.jpg" alt="acrylic" width="300">
+| Preview | File |
+|---|---|
+| <img src="acrylic.jpg" alt="acrylic" width="500"> | [acrylic.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Pink/acrylic.jpg) |
