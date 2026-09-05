@@ -1,5 +1,5 @@
 # Wallpapers
 
-## [desktop](desktop/README.md)
+## [Desktop](Desktop/README.md)
 
-## [mobile](mobile/README.md)
+## [Mobile](Mobile/README.md)
