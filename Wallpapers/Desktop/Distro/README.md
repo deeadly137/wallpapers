@@ -1,13 +1,13 @@
 # Distro
 
-## [arch](arch/README.md)
+## [Arch](Arch/README.md)
 
-## [debian](debian/README.md)
+## [Debian](Debian/README.md)
 
-## [nix](nix/README.md)
+## [Nix](Nix/README.md)
 
-## [other](other/README.md)
+## [Other](Other/README.md)
 
-## [void](void/README.md)
+## [Void](Void/README.md)
 
-## [zorin](zorin/README.md)
+## [Zorin](Zorin/README.md)

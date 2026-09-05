@@ -1,31 +1,13 @@
-<h3 align="center">
-  wallpapers
-  <h5 align="center">
-    your public collection of wallpapers that anyone can commit into<br>
-  </h5>
-</h3>
-<p align="center">
-  <a href="https://github.com/D3Ext/aesthetic-wallpapers/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/D3Ext/aesthetic-wallpapers?style=for-the-badge&logo=starship&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://github.com/D3Ext/aesthetic-wallpapers/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/D3Ext/aesthetic-wallpapers?style=for-the-badge&logo=gitbook&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://lbesson.mit-license.org/">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
-</p><br>
+# Gray / White
 
-## Categories
+## [black_car_girl.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Gray%20⁄%20White/black_car_girl.jpg)
 
-* [Abstract](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/abstract)
-* [Distro](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro)
-  * [nix](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/nix)
-  * [arch](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/arch)
-  * [debain-based (ubuntu & mint)](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/debian)
-  * [void](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/void)
-  * [zorin](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/zorin)
-  * [other](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/other)
-  
-* [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/minimal)
-* [Mobile](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/mobile)
-* [Weeb](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb)
-  * [Anime](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/anime)
-  * [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/minimal)
+<img src="black_car_girl.jpg" alt="black_car_girl" width="300">
+
+## [got_bw.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Gray%20⁄%20White/got_bw.jpg)
+
+<img src="got_bw.jpg" alt="got_bw" width="300">
+
+## [japan2.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Gray%20⁄%20White/japan2.jpg)
+
+<img src="japan2.jpg" alt="japan2" width="300">

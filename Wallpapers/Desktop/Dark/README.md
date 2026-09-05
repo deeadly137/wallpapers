@@ -1,31 +1,61 @@
-<h3 align="center">
-  wallpapers
-  <h5 align="center">
-    your public collection of wallpapers that anyone can commit into<br>
-  </h5>
-</h3>
-<p align="center">
-  <a href="https://github.com/D3Ext/aesthetic-wallpapers/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/D3Ext/aesthetic-wallpapers?style=for-the-badge&logo=starship&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://github.com/D3Ext/aesthetic-wallpapers/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/D3Ext/aesthetic-wallpapers?style=for-the-badge&logo=gitbook&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
-  <a href="https://lbesson.mit-license.org/">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&color=FAB387&logoColor=D9E0EE&labelColor=302D41"></a>
-</p><br>
+# Dark
 
-## Categories
+## [3squares.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/3squares.png)
 
-* [Abstract](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/abstract)
-* [Distro](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro)
-  * [nix](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/nix)
-  * [arch](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/arch)
-  * [debain-based (ubuntu & mint)](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/debian)
-  * [void](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/void)
-  * [zorin](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/zorin)
-  * [other](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/other)
-  
-* [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/minimal)
-* [Mobile](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/mobile)
-* [Weeb](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb)
-  * [Anime](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/anime)
-  * [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/minimal)
+<img src="3squares.png" alt="3squares" width="300">
+
+## [36592_serial_experiments_lain.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/36592_serial_experiments_lain.png)
+
+<img src="36592_serial_experiments_lain.png" alt="36592_serial_experiments_lain" width="300">
+
+## [abstract.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/abstract.jpg)
+
+<img src="abstract.jpg" alt="abstract" width="300">
+
+## [anime-eye-nord.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/anime-eye-nord.png)
+
+<img src="anime-eye-nord.png" alt="anime-eye-nord" width="300">
+
+## [black-white-girl.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/black-white-girl.png)
+
+<img src="black-white-girl.png" alt="black-white-girl" width="300">
+
+## [blue-black-girl.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/blue-black-girl.png)
+
+<img src="blue-black-girl.png" alt="blue-black-girl" width="300">
+
+## [camp_day.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/camp_day.png)
+
+<img src="camp_day.png" alt="camp_day" width="300">
+
+## [chinese.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/chinese.png)
+
+<img src="chinese.png" alt="chinese" width="300">
+
+## [dark_skulls.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/dark_skulls.png)
+
+<img src="dark_skulls.png" alt="dark_skulls" width="300">
+
+## [FULLHD-EVA_01.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/FULLHD-EVA_01.png)
+
+<img src="FULLHD-EVA_01.png" alt="FULLHD-EVA_01" width="300">
+
+## [girl-on-black.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/girl-on-black.png)
+
+<img src="girl-on-black.png" alt="girl-on-black" width="300">
+
+## [hands.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/hands.jpg)
+
+<img src="hands.jpg" alt="hands" width="300">
+
+## [japan.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/japan.png)
+
+<img src="japan.png" alt="japan" width="300">
+
+## [katana.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/katana.jpg)
+
+<img src="katana.jpg" alt="katana" width="300">
+
+## [manga-samurai.png](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Dark/manga-samurai.png)
+
+<img src="manga-samurai.png" alt="manga-samurai" width="300">
