@@ -15,17 +15,14 @@
 
 ## Categories
 
-* [Abstract](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/abstract)
-* [Distro](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro)
-  * [nix](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/nix)
-  * [arch](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/arch)
-  * [debain-based (ubuntu & mint)](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/debian)
-  * [void](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/void)
-  * [zorin](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/zorin)
-  * [other](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/distro/other)
-  
-* [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/minimal)
-* [Mobile](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/mobile)
-* [Weeb](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb)
-  * [Anime](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/anime)
-  * [Minimal](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/weeb/minimal)
+- [Desktop](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop)
+  - [Blue](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/blue)
+  - [Brown](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/brown)
+  - [Dark](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/dark)
+  - [Distro](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/distro)
+  - [Gray / White](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/gray%20⁄%20white)
+  - [Green](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/green)
+  - [Pink](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/pink)
+  - [Purple](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/purple)
+  - [Red / Orange](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/desktop/red%20⁄%20orange)
+- [Mobile](https://github.com/deeadly137/wallpapers/tree/main/wallpapers/mobile)
