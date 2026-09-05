@@ -2,12 +2,12 @@
 
 ## [anime-chick.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Blue/anime-chick.jpg)
 
-<img src="anime-chick.jpg" alt="anime-chick" width="300">
+<img src="anime-chick.jpg" alt="anime-chick" width="500">
 
 ## [girl.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Blue/girl.jpg)
 
-<img src="girl.jpg" alt="girl" width="300">
+<img src="girl.jpg" alt="girl" width="500">
 
 ## [japan3.jpg](https://github.com/deeadly137/wallpapers/blob/main/Wallpapers/Desktop/Blue/japan3.jpg)
 
-<img src="japan3.jpg" alt="japan3" width="300">
+<img src="japan3.jpg" alt="japan3" width="500">
