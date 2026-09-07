@@ -52,7 +52,8 @@ svg .fill { fill: currentColor; stroke: none; }
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 12px 18px;
+  height: 63px;
+  padding: 0 18px;
   background: color-mix(in srgb, var(--bg) 82%, transparent);
   backdrop-filter: blur(14px);
   border-bottom: 1px solid color-mix(in srgb, var(--bg3) 55%, transparent);
@@ -126,7 +127,12 @@ svg .fill { fill: currentColor; stroke: none; }
 .shell { display: flex; min-height: calc(100vh - 63px); }
 
 #sidebar {
+  position: sticky;
+  top: 63px;
+  align-self: flex-start;
   width: 250px;
+  height: calc(100vh - 63px);
+  overflow-y: auto;
   flex-shrink: 0;
   padding: 20px 14px;
   display: flex;
@@ -415,6 +421,7 @@ svg .fill { fill: currentColor; stroke: none; }
     left: 0;
     z-index: 30;
     width: 275px;
+    height: 100vh;
     background: var(--bg1);
     transform: translateX(-105%);
     transition: transform 0.25s ease;
