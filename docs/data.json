@@ -23,6 +23,30 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Blue/gazing-upon-the-void.png",
+      "name": "gazing-upon-the-void",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 4096,
+      "h": 2160,
+      "bytes": 6006430,
+      "color": "#3b58ac",
+      "hue": 225,
+      "light": 34,
+      "tags": [
+        "4k",
+        "blue",
+        "desktop",
+        "gazing",
+        "landscape",
+        "the",
+        "upon",
+        "void"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Blue/girl.jpg",
       "name": "girl",
       "category": [
