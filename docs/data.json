@@ -391,6 +391,52 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-areo.jpg",
+      "name": "arch-areo",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 1236405,
+      "color": "#2a93db",
+      "hue": 204,
+      "light": 51,
+      "tags": [
+        "4k",
+        "arch",
+        "areo",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-bw.png",
+      "name": "arch-bw",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 153165,
+      "color": "#080808",
+      "hue": 0,
+      "light": 3,
+      "tags": [
+        "4k",
+        "arch",
+        "bw",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Distro/Arch/arch-nord-dark.png",
       "name": "arch-nord-dark",
       "category": [
@@ -439,6 +485,97 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-retro.png",
+      "name": "arch-retro",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3852,
+      "h": 2167,
+      "bytes": 271197,
+      "color": "#444954",
+      "hue": 221,
+      "light": 29,
+      "tags": [
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "retro"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-stylishW&B.png",
+      "name": "arch-stylishW&B",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 238879,
+      "color": "#d1d4d9",
+      "hue": 217,
+      "light": 83,
+      "tags": [
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "stylishw&b"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-wall.jpg",
+      "name": "arch-wall",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 239209,
+      "color": "#357597",
+      "hue": 201,
+      "light": 42,
+      "tags": [
+        "1440p",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "wall"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch.png",
+      "name": "arch",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 25001,
+      "color": "#313843",
+      "hue": 217,
+      "light": 22,
+      "tags": [
+        "1080p",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Distro/Arch/arch_purple.png",
       "name": "arch_purple",
       "category": [
@@ -456,6 +593,29 @@
         "1080p",
         "arch",
         "arch_purple",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/archgrey.png",
+      "name": "archgrey",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3413,
+      "h": 1920,
+      "bytes": 173445,
+      "color": "#252525",
+      "hue": 0,
+      "light": 15,
+      "tags": [
+        "1440p",
+        "arch",
+        "archgrey",
         "desktop",
         "distro",
         "landscape"
