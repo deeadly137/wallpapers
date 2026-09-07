@@ -1,0 +1,1234 @@
+{
+  "images": [
+    {
+      "path": "Wallpapers/Desktop/Blue/anime-chick.jpg",
+      "name": "anime-chick",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 227133,
+      "color": "#33314b",
+      "hue": 245,
+      "light": 20,
+      "tags": [
+        "1080p",
+        "anime",
+        "blue",
+        "chick",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/girl.jpg",
+      "name": "girl",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 1000,
+      "h": 707,
+      "bytes": 213991,
+      "color": "#5676af",
+      "hue": 218,
+      "light": 45,
+      "tags": [
+        "blue",
+        "desktop",
+        "girl",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/japan3.jpg",
+      "name": "japan3",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 4420,
+      "h": 2486,
+      "bytes": 5128334,
+      "color": "#4e5765",
+      "hue": 217,
+      "light": 34,
+      "tags": [
+        "4k",
+        "blue",
+        "desktop",
+        "japan3",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/3squares.png",
+      "name": "3squares",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 3815,
+      "color": "#1f1c25",
+      "hue": 260,
+      "light": 11,
+      "tags": [
+        "1080p",
+        "3squares",
+        "dark",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/abstract.jpg",
+      "name": "abstract",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3999,
+      "h": 2999,
+      "bytes": 951653,
+      "color": "#0d1f20",
+      "hue": 183,
+      "light": 11,
+      "tags": [
+        "4k",
+        "abstract",
+        "dark",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/anime-eye-nord.png",
+      "name": "anime-eye-nord",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 4208,
+      "h": 2392,
+      "bytes": 192460,
+      "color": "#333945",
+      "hue": 220,
+      "light": 22,
+      "tags": [
+        "4k",
+        "anime",
+        "dark",
+        "desktop",
+        "eye",
+        "landscape",
+        "nord"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/black-white-girl.png",
+      "name": "black-white-girl",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 469077,
+      "color": "#2c2c2c",
+      "hue": 0,
+      "light": 17,
+      "tags": [
+        "4k",
+        "black",
+        "dark",
+        "desktop",
+        "girl",
+        "landscape",
+        "white"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/blue-black-girl.png",
+      "name": "blue-black-girl",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 814,
+      "h": 458,
+      "bytes": 221123,
+      "color": "#252c36",
+      "hue": 215,
+      "light": 17,
+      "tags": [
+        "black",
+        "blue",
+        "dark",
+        "desktop",
+        "girl",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/camp-day.png",
+      "name": "camp-day",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 2880,
+      "h": 1800,
+      "bytes": 98765,
+      "color": "#333844",
+      "hue": 222,
+      "light": 22,
+      "tags": [
+        "1440p",
+        "camp",
+        "dark",
+        "day",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/chinese.png",
+      "name": "chinese",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 142470,
+      "color": "#313541",
+      "hue": 225,
+      "light": 21,
+      "tags": [
+        "4k",
+        "chinese",
+        "dark",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/dark-skulls.png",
+      "name": "dark-skulls",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 7455687,
+      "color": "#141a17",
+      "hue": 150,
+      "light": 10,
+      "tags": [
+        "4k",
+        "dark",
+        "desktop",
+        "landscape",
+        "skulls"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/fullhd-eva-01.png",
+      "name": "fullhd-eva-01",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 1994369,
+      "color": "#303030",
+      "hue": 0,
+      "light": 19,
+      "tags": [
+        "01",
+        "1080p",
+        "dark",
+        "desktop",
+        "eva",
+        "fullhd",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/girl-on-black.png",
+      "name": "girl-on-black",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 811,
+      "h": 456,
+      "bytes": 445958,
+      "color": "#2a292c",
+      "hue": 260,
+      "light": 16,
+      "tags": [
+        "black",
+        "dark",
+        "desktop",
+        "girl",
+        "landscape",
+        "on"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/hands.jpg",
+      "name": "hands",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 380301,
+      "color": "#151515",
+      "hue": 0,
+      "light": 8,
+      "tags": [
+        "4k",
+        "dark",
+        "desktop",
+        "hands",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/japan.png",
+      "name": "japan",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 2778898,
+      "color": "#20384c",
+      "hue": 207,
+      "light": 21,
+      "tags": [
+        "1080p",
+        "dark",
+        "desktop",
+        "japan",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/katana.jpg",
+      "name": "katana",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 86026,
+      "color": "#2d2427",
+      "hue": 340,
+      "light": 15,
+      "tags": [
+        "1080p",
+        "dark",
+        "desktop",
+        "katana",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/manga-samurai.png",
+      "name": "manga-samurai",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 974105,
+      "color": "#0e0707",
+      "hue": 0,
+      "light": 3,
+      "tags": [
+        "4k",
+        "dark",
+        "desktop",
+        "landscape",
+        "manga",
+        "samurai"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Dark/serial-experiments-lain.png",
+      "name": "serial-experiments-lain",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 1829722,
+      "color": "#2d2d2d",
+      "hue": 0,
+      "light": 18,
+      "tags": [
+        "1080p",
+        "dark",
+        "desktop",
+        "experiments",
+        "lain",
+        "landscape",
+        "serial"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-nord-dark.png",
+      "name": "arch-nord-dark",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 2992,
+      "h": 1680,
+      "bytes": 372990,
+      "color": "#333a45",
+      "hue": 217,
+      "light": 22,
+      "tags": [
+        "1440p",
+        "arch",
+        "dark",
+        "desktop",
+        "distro",
+        "landscape",
+        "nord"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-nord-light.png",
+      "name": "arch-nord-light",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 2992,
+      "h": 1680,
+      "bytes": 359739,
+      "color": "#ebeff7",
+      "hue": 220,
+      "light": 94,
+      "tags": [
+        "1440p",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "light",
+        "nord"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch_purple.png",
+      "name": "arch_purple",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 152022,
+      "color": "#997dcf",
+      "hue": 260,
+      "light": 54,
+      "tags": [
+        "1080p",
+        "arch",
+        "arch_purple",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/catppuccin-rainbow-arch.png",
+      "name": "catppuccin-rainbow-arch",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 36651,
+      "color": "#5b5a6b",
+      "hue": 244,
+      "light": 36,
+      "tags": [
+        "1080p",
+        "arch",
+        "catppuccin",
+        "desktop",
+        "distro",
+        "landscape",
+        "rainbow"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Debian/debian.png",
+      "name": "debian",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Debian"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 235057,
+      "color": "#3b3844",
+      "hue": 255,
+      "light": 23,
+      "tags": [
+        "4k",
+        "debian",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Debian/mint.png",
+      "name": "mint",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Debian"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 405105,
+      "color": "#383c3a",
+      "hue": 150,
+      "light": 23,
+      "tags": [
+        "4k",
+        "debian",
+        "desktop",
+        "distro",
+        "landscape",
+        "mint"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Debian/ubuntu-black-4k.png",
+      "name": "ubuntu-black-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Debian"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 23293,
+      "color": "#242231",
+      "hue": 248,
+      "light": 14,
+      "tags": [
+        "4k",
+        "black",
+        "debian",
+        "desktop",
+        "distro",
+        "landscape",
+        "ubuntu"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Debian/ubuntu-magenta-blue.png",
+      "name": "ubuntu-magenta-blue",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Debian"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 55877,
+      "color": "#b2aee8",
+      "hue": 244,
+      "light": 70,
+      "tags": [
+        "1080p",
+        "blue",
+        "debian",
+        "desktop",
+        "distro",
+        "landscape",
+        "magenta",
+        "ubuntu"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Debian/ubuntu-magenta-pink.png",
+      "name": "ubuntu-magenta-pink",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Debian"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 49346,
+      "color": "#d7a9e1",
+      "hue": 289,
+      "light": 72,
+      "tags": [
+        "1080p",
+        "debian",
+        "desktop",
+        "distro",
+        "landscape",
+        "magenta",
+        "pink",
+        "ubuntu"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Nix/nix.png",
+      "name": "nix",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Nix"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 2152301,
+      "color": "#1e2124",
+      "hue": 210,
+      "light": 13,
+      "tags": [
+        "1080p",
+        "desktop",
+        "distro",
+        "landscape",
+        "nix"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Nix/nixos-declarative.jpg",
+      "name": "nixos-declarative",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Nix"
+      ],
+      "w": 3200,
+      "h": 1800,
+      "bytes": 240777,
+      "color": "#2a2c2f",
+      "hue": 216,
+      "light": 17,
+      "tags": [
+        "1440p",
+        "declarative",
+        "desktop",
+        "distro",
+        "landscape",
+        "nix",
+        "nixos"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Other/tux-magenta-pink.png",
+      "name": "tux-magenta-pink",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Other"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 52909,
+      "color": "#d9abe3",
+      "hue": 289,
+      "light": 72,
+      "tags": [
+        "1080p",
+        "desktop",
+        "distro",
+        "landscape",
+        "magenta",
+        "other",
+        "pink",
+        "tux"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Other/various-arch-1-4k.png",
+      "name": "various-arch-1-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Other"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 73783,
+      "color": "#212232",
+      "hue": 236,
+      "light": 14,
+      "tags": [
+        "1",
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "other",
+        "various"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Other/various-arch-2-4k.png",
+      "name": "various-arch-2-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Other"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 72763,
+      "color": "#212232",
+      "hue": 236,
+      "light": 14,
+      "tags": [
+        "2",
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "other",
+        "various"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Other/various-os-1-4k.png",
+      "name": "various-os-1-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Other"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 73330,
+      "color": "#212231",
+      "hue": 236,
+      "light": 14,
+      "tags": [
+        "1",
+        "4k",
+        "desktop",
+        "distro",
+        "landscape",
+        "os",
+        "other",
+        "various"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Other/various-os-2-4k.png",
+      "name": "various-os-2-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Other"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 85479,
+      "color": "#222433",
+      "hue": 233,
+      "light": 14,
+      "tags": [
+        "2",
+        "4k",
+        "desktop",
+        "distro",
+        "landscape",
+        "os",
+        "other",
+        "various"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Other/various-os-3-4k.png",
+      "name": "various-os-3-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Other"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 47883,
+      "color": "#202131",
+      "hue": 236,
+      "light": 13,
+      "tags": [
+        "3",
+        "4k",
+        "desktop",
+        "distro",
+        "landscape",
+        "os",
+        "other",
+        "various"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Void/void-black-4k.png",
+      "name": "void-black-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Void"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 45149,
+      "color": "#212231",
+      "hue": 236,
+      "light": 14,
+      "tags": [
+        "4k",
+        "black",
+        "desktop",
+        "distro",
+        "landscape",
+        "void"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Void/void-black3.png",
+      "name": "void-black3",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Void"
+      ],
+      "w": 1919,
+      "h": 1078,
+      "bytes": 18511,
+      "color": "#333244",
+      "hue": 243,
+      "light": 20,
+      "tags": [
+        "black3",
+        "desktop",
+        "distro",
+        "landscape",
+        "void"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Void/void-magenta-blue.png",
+      "name": "void-magenta-blue",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Void"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 53682,
+      "color": "#b3afe9",
+      "hue": 244,
+      "light": 71,
+      "tags": [
+        "1080p",
+        "blue",
+        "desktop",
+        "distro",
+        "landscape",
+        "magenta",
+        "void"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Void/void-magenta-pink.png",
+      "name": "void-magenta-pink",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Void"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 46597,
+      "color": "#d8aae2",
+      "hue": 289,
+      "light": 72,
+      "tags": [
+        "1080p",
+        "desktop",
+        "distro",
+        "landscape",
+        "magenta",
+        "pink",
+        "void"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Zorin/zorin-black-4k.png",
+      "name": "zorin-black-4k",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Zorin"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 16954,
+      "color": "#202132",
+      "hue": 237,
+      "light": 13,
+      "tags": [
+        "4k",
+        "black",
+        "desktop",
+        "distro",
+        "landscape",
+        "zorin"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Zorin/zorin-magenta-blue.png",
+      "name": "zorin-magenta-blue",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Zorin"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 49919,
+      "color": "#b3afe9",
+      "hue": 244,
+      "light": 71,
+      "tags": [
+        "1080p",
+        "blue",
+        "desktop",
+        "distro",
+        "landscape",
+        "magenta",
+        "zorin"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Gray-White/black-car-girl.jpg",
+      "name": "black-car-girl",
+      "category": [
+        "Desktop",
+        "Gray-White"
+      ],
+      "w": 1280,
+      "h": 720,
+      "bytes": 69380,
+      "color": "#9c9c9c",
+      "hue": 0,
+      "light": 61,
+      "tags": [
+        "black",
+        "car",
+        "desktop",
+        "girl",
+        "gray-white",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Gray-White/got-bw.jpg",
+      "name": "got-bw",
+      "category": [
+        "Desktop",
+        "Gray-White"
+      ],
+      "w": 3840,
+      "h": 2168,
+      "bytes": 756577,
+      "color": "#b6a7a7",
+      "hue": 0,
+      "light": 67,
+      "tags": [
+        "4k",
+        "bw",
+        "desktop",
+        "got",
+        "gray-white",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Gray-White/japan2.jpg",
+      "name": "japan2",
+      "category": [
+        "Desktop",
+        "Gray-White"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 464581,
+      "color": "#9c8c7b",
+      "hue": 31,
+      "light": 56,
+      "tags": [
+        "1080p",
+        "desktop",
+        "gray-white",
+        "japan2",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Pink/acrylic.jpg",
+      "name": "acrylic",
+      "category": [
+        "Desktop",
+        "Pink"
+      ],
+      "w": 6144,
+      "h": 3456,
+      "bytes": 2733509,
+      "color": "#a38495",
+      "hue": 327,
+      "light": 55,
+      "tags": [
+        "4k",
+        "acrylic",
+        "desktop",
+        "landscape",
+        "pink"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/anime-pond.png",
+      "name": "anime-pond",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 13898367,
+      "color": "#a7a59d",
+      "hue": 48,
+      "light": 65,
+      "tags": [
+        "4k",
+        "anime",
+        "desktop",
+        "landscape",
+        "pond",
+        "purple"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/got-red.jpg",
+      "name": "got-red",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 380559,
+      "color": "#d1686f",
+      "hue": 356,
+      "light": 50,
+      "tags": [
+        "4k",
+        "desktop",
+        "got",
+        "landscape",
+        "red",
+        "red-orange"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/luffy-one-piece-5160x2160.jpeg",
+      "name": "luffy-one-piece-5160x2160",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 5160,
+      "h": 2160,
+      "bytes": 2815252,
+      "color": "#805957",
+      "hue": 3,
+      "light": 38,
+      "tags": [
+        "4k",
+        "5160x2160",
+        "desktop",
+        "landscape",
+        "luffy",
+        "one",
+        "piece",
+        "red-orange"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/android-dark-lines.jpg",
+      "name": "android-dark-lines",
+      "category": [
+        "Mobile"
+      ],
+      "w": 1080,
+      "h": 2340,
+      "bytes": 27615,
+      "color": "#3e3f57",
+      "hue": 238,
+      "light": 25,
+      "tags": [
+        "4k",
+        "android",
+        "dark",
+        "lines",
+        "mobile",
+        "portrait"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/android-sakura.jpg",
+      "name": "android-sakura",
+      "category": [
+        "Mobile"
+      ],
+      "w": 1284,
+      "h": 2778,
+      "bytes": 186312,
+      "color": "#7c5a6e",
+      "hue": 325,
+      "light": 39,
+      "tags": [
+        "4k",
+        "android",
+        "mobile",
+        "portrait",
+        "sakura"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/astronaut-mobile.png",
+      "name": "astronaut-mobile",
+      "category": [
+        "Mobile"
+      ],
+      "w": 1080,
+      "h": 2340,
+      "bytes": 485074,
+      "color": "#323941",
+      "hue": 212,
+      "light": 22,
+      "tags": [
+        "4k",
+        "astronaut",
+        "mobile",
+        "portrait"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/mobile-gradient.png",
+      "name": "mobile-gradient",
+      "category": [
+        "Mobile"
+      ],
+      "w": 2160,
+      "h": 3776,
+      "bytes": 85376,
+      "color": "#9cc5c6",
+      "hue": 181,
+      "light": 74,
+      "tags": [
+        "4k",
+        "gradient",
+        "mobile",
+        "portrait"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/mobile-pacman.jpg",
+      "name": "mobile-pacman",
+      "category": [
+        "Mobile"
+      ],
+      "w": 506,
+      "h": 900,
+      "bytes": 8149,
+      "color": "#080808",
+      "hue": 0,
+      "light": 3,
+      "tags": [
+        "mobile",
+        "pacman",
+        "portrait"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/mobile-spiral.jpg",
+      "name": "mobile-spiral",
+      "category": [
+        "Mobile"
+      ],
+      "w": 1080,
+      "h": 2309,
+      "bytes": 31886,
+      "color": "#383838",
+      "hue": 0,
+      "light": 22,
+      "tags": [
+        "4k",
+        "mobile",
+        "portrait",
+        "spiral"
+      ]
+    },
+    {
+      "path": "Wallpapers/Mobile/wavy-dark.png",
+      "name": "wavy-dark",
+      "category": [
+        "Mobile"
+      ],
+      "w": 1080,
+      "h": 2340,
+      "bytes": 1308478,
+      "color": "#2b2b2b",
+      "hue": 0,
+      "light": 17,
+      "tags": [
+        "4k",
+        "dark",
+        "mobile",
+        "portrait",
+        "wavy"
+      ]
+    }
+  ]
+}
