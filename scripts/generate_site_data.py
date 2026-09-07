@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generates site/data.json for the website from the contents of Wallpapers/.
+"""Generates docs/data.json for the website from the contents of Wallpapers/.
 
 Run it after adding, renaming or removing wallpapers and commit the result.
 The website reads this file to build its sidebar, search and gallery.
@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WALLPAPERS = ROOT / "Wallpapers"
-OUT = ROOT / "site" / "data.json"
+OUT = ROOT / "docs" / "data.json"
 EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 
 

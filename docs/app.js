@@ -454,7 +454,7 @@ function openIssue() {
 
 async function init() {
   loadState();
-  const res = await fetch("site/data.json");
+  const res = await fetch("docs/data.json");
   DATA = (await res.json()).images;
   renderSidebar();
   bind();
