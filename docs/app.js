@@ -258,6 +258,7 @@ function stepLightbox(dir) {
 /* random picker: walks a shuffled deck, so nothing repeats
    until every wallpaper in the pool has been shown */
 let randomDeck = [];
+let lastRandom = null;
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -276,19 +277,18 @@ function randomWallpaper() {
   const paths = new Set(pool.map((img) => img.path));
   randomDeck = randomDeck.filter((path) => paths.has(path));
 
-  // reshuffle once the deck runs out
-  if (randomDeck.length <= 1) {
-    const shown = FILTERED[current] ? FILTERED[current].path : null;
+  // reshuffle when the deck runs out
+  if (!randomDeck.length)
     randomDeck = shuffle(pool.map((img) => img.path));
-    // never show the same wallpaper twice in a row
-    if (randomDeck.length > 1 && randomDeck[randomDeck.length - 1] === shown)
-      [randomDeck[0], randomDeck[randomDeck.length - 1]] = [
-        randomDeck[randomDeck.length - 1],
-        randomDeck[0],
-      ];
-  }
 
-  const path = randomDeck.pop();
+  let path = randomDeck.pop();
+  // never show the same wallpaper twice in a row
+  if (path === lastRandom && randomDeck.length) {
+    const k = Math.floor(Math.random() * randomDeck.length);
+    [path, randomDeck[k]] = [randomDeck[k], path];
+  }
+  lastRandom = path;
+
   const img = pool.find((i) => i.path === path);
   if (!img) return;
   current = FILTERED.indexOf(img);
