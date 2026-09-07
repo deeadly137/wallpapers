@@ -161,8 +161,8 @@ svg .fill { fill: currentColor; stroke: none; }
   position: absolute;
   top: 50%;
   right: 11px;
-  width: 14px;
-  height: 14px;
+  width: 18px;
+  height: 18px;
   color: var(--subtext);
   pointer-events: none;
   transform: translateY(-50%);
