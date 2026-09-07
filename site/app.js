@@ -60,12 +60,13 @@ function catButton(label, count, value) {
   return btn;
 }
 
-function catNode(name, node) {
+function catNode(name, node, parentPath) {
+  const path = parentPath ? parentPath + "/" + name : name;
   const li = document.createElement("li");
-  li.appendChild(catButton(name.toLowerCase(), node.count, name));
+  li.appendChild(catButton(name.toLowerCase(), node.count, path));
   if (node.children.size) {
     const ul = document.createElement("ul");
-    for (const [child, childNode] of node.children) ul.appendChild(catNode(child, childNode));
+    for (const [child, childNode] of node.children) ul.appendChild(catNode(child, childNode, path));
     li.appendChild(ul);
   }
   return li;
@@ -79,7 +80,7 @@ function renderSidebar() {
   const all = document.createElement("li");
   all.appendChild(catButton("all wallpapers", root.count, ""));
   ul.appendChild(all);
-  for (const [name, node] of root.children) ul.appendChild(catNode(name, node));
+  for (const [name, node] of root.children) ul.appendChild(catNode(name, node, ""));
   nav.appendChild(ul);
 
   const counts = new Map();
