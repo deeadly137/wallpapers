@@ -156,14 +156,44 @@ body.sidebar-closed #sidebar {
 
 /* category tree */
 #cat-nav ul { list-style: none; margin: 0; padding: 0; }
-#cat-nav ul ul { padding-left: 14px; }
+
+.cat-row { display: flex; align-items: center; }
+
+.cat-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 8px;
+  color: var(--overlay);
+  cursor: pointer;
+  transition: color 0.2s, background 0.2s;
+}
+.cat-toggle:hover { color: var(--text); background: var(--bg3); }
+.cat-toggle.ghost { visibility: hidden; }
+.cat-toggle svg { width: 14px; height: 14px; transition: transform 0.25s ease; }
+.cat-node.open > .cat-row .cat-toggle:not(.ghost) svg { transform: rotate(90deg); }
+
+.cat-children {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.28s ease;
+}
+.cat-node.open > .cat-children { grid-template-rows: 1fr; }
+.cat-children > ul { overflow: hidden; min-height: 0; padding-left: 20px; }
 
 .cat-btn {
   display: flex;
+  flex: 1;
   align-items: center;
   justify-content: space-between;
   gap: 8px;
-  width: 100%;
+  min-width: 0;
   padding: 8px 12px;
   background: none;
   color: var(--subtext);

@@ -60,14 +60,51 @@ function catButton(label, count, value) {
   return btn;
 }
 
-function catNode(name, node, parentPath) {
-  const path = parentPath ? parentPath + "/" + name : name;
+const OPEN_KEY = "wallpapers-open-cats";
+let openCats;
+try {
+  openCats = new Set(JSON.parse(localStorage.getItem(OPEN_KEY) || '[""]'));
+} catch {
+  openCats = new Set([""]);
+}
+
+const CHEVRON = '<svg viewBox="0 0 24 24"><path d="M9.5 5.5L16 12l-6.5 6.5"/></svg>';
+
+function toggleCat(li, path) {
+  if (openCats.has(path)) openCats.delete(path);
+  else openCats.add(path);
+  localStorage.setItem(OPEN_KEY, JSON.stringify([...openCats]));
+  li.classList.toggle("open");
+}
+
+function catNode(label, node, path) {
   const li = document.createElement("li");
-  li.appendChild(catButton(name.toLowerCase(), node.count, path));
+  li.className = "cat-node" + (openCats.has(path) ? " open" : "");
+  const row = document.createElement("div");
+  row.className = "cat-row";
   if (node.children.size) {
+    const toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "cat-toggle";
+    toggle.setAttribute("aria-label", "toggle " + label);
+    toggle.innerHTML = CHEVRON;
+    toggle.addEventListener("click", () => toggleCat(li, path));
+    row.appendChild(toggle);
+  } else {
+    const ghost = document.createElement("span");
+    ghost.className = "cat-toggle ghost";
+    row.appendChild(ghost);
+  }
+  row.appendChild(catButton(label, node.count, path));
+  li.appendChild(row);
+  if (node.children.size) {
+    const wrap = document.createElement("div");
+    wrap.className = "cat-children";
     const ul = document.createElement("ul");
-    for (const [child, childNode] of node.children) ul.appendChild(catNode(child, childNode, path));
-    li.appendChild(ul);
+    for (const [child, childNode] of node.children)
+      ul.appendChild(catNode(child.toLowerCase(), childNode, path ? path + "/" + child : child));
+    wrap.appendChild(ul);
+    li.appendChild(wrap);
   }
   return li;
 }
@@ -77,10 +114,7 @@ function renderSidebar() {
   nav.innerHTML = "";
   const root = buildCategoryTree();
   const ul = document.createElement("ul");
-  const all = document.createElement("li");
-  all.appendChild(catButton("all wallpapers", root.count, ""));
-  ul.appendChild(all);
-  for (const [name, node] of root.children) ul.appendChild(catNode(name, node, ""));
+  ul.appendChild(catNode("all wallpapers", root, ""));
   nav.appendChild(ul);
 
   const counts = new Map();
