@@ -5,7 +5,6 @@ A collection of dark-themed desktop wallpapers.
 | Preview | File |
 | --- | --- |
 | <img src="3squares.png" alt="3squares" width="500"> | [3squares.png](3squares.png) |
-| <img src="serial-experiments-lain.png" alt="serial-experiments-lain" width="500"> | [serial-experiments-lain.png](serial-experiments-lain.png) |
 | <img src="abstract.jpg" alt="abstract" width="500"> | [abstract.jpg](abstract.jpg) |
 | <img src="anime-eye-nord.png" alt="anime-eye-nord" width="500"> | [anime-eye-nord.png](anime-eye-nord.png) |
 | <img src="black-white-girl.png" alt="black-white-girl" width="500"> | [black-white-girl.png](black-white-girl.png) |
@@ -19,3 +18,4 @@ A collection of dark-themed desktop wallpapers.
 | <img src="japan.png" alt="japan" width="500"> | [japan.png](japan.png) |
 | <img src="katana.jpg" alt="katana" width="500"> | [katana.jpg](katana.jpg) |
 | <img src="manga-samurai.png" alt="manga-samurai" width="500"> | [manga-samurai.png](manga-samurai.png) |
+| <img src="serial-experiments-lain.png" alt="serial-experiments-lain" width="500"> | [serial-experiments-lain.png](serial-experiments-lain.png) |
