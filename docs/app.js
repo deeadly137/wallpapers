@@ -225,11 +225,11 @@ function updateActive() {
 
 function openLightbox(img) {
   current = FILTERED.indexOf(img);
-  showLightbox();
+  showLightbox(img);
 }
 
-function showLightbox() {
-  const img = FILTERED[current];
+function showLightbox(img) {
+  if (!img) img = FILTERED[current];
   if (!img) return;
   const src = encodePath(img.path);
   $("lb-img").src = src;
@@ -252,15 +252,46 @@ function closeLightbox() {
 function stepLightbox(dir) {
   if (!FILTERED.length) return;
   current = (current + dir + FILTERED.length) % FILTERED.length;
-  showLightbox();
+  showLightbox(FILTERED[current]);
+}
+
+/* random picker: walks a shuffled deck, so nothing repeats
+   until every wallpaper in the pool has been shown */
+let randomDeck = [];
+
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
 }
 
 function randomWallpaper() {
   exitUpload();
   const pool = FILTERED.length ? FILTERED : DATA;
   if (!pool.length) return;
-  current = Math.floor(Math.random() * pool.length);
-  showLightbox();
+
+  // drop cards that no longer match the current filter
+  const paths = new Set(pool.map((img) => img.path));
+  randomDeck = randomDeck.filter((path) => paths.has(path));
+
+  // reshuffle once the deck runs out
+  if (randomDeck.length <= 1) {
+    const shown = FILTERED[current] ? FILTERED[current].path : null;
+    randomDeck = shuffle(pool.map((img) => img.path));
+    // never show the same wallpaper twice in a row
+    if (randomDeck.length > 1 && randomDeck[randomDeck.length - 1] === shown)
+      [randomDeck[0], randomDeck[randomDeck.length - 1]] = [
+        randomDeck[randomDeck.length - 1],
+        randomDeck[0],
+      ];
+  }
+
+  const img = pool.find((i) => i.path === randomDeck.pop());
+  if (!img) return;
+  current = FILTERED.indexOf(img);
+  showLightbox(img);
 }
 
 /* routing, sidebar drawer and events */
