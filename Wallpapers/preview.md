@@ -2,5 +2,5 @@
 
 A curated collection of wallpapers organized by category.
 
-- [Desktop](Desktop/README.md)
-- [Mobile](Mobile/README.md)
+- [Desktop](Desktop/preview.md)
+- [Mobile](Mobile/preview.md)

@@ -16,7 +16,6 @@
 ## Categories
 
 See the full [preview index](Preview/list.md) for a browsable list of every category.
-
 ## License
 
 This project is licensed under the [MIT License](https://lbesson.mit-license.org/).
