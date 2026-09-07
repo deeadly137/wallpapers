@@ -144,6 +144,7 @@ svg .fill { fill: currentColor; stroke: none; }
 
 #sort {
   padding: 9px 13px;
+  line-height: 20px;
   background: var(--bg2);
   color: var(--subtext);
   border: none;
