@@ -69,6 +69,7 @@ svg .fill { fill: currentColor; stroke: none; }
 }
 
 .searchbox {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 9px;
@@ -91,6 +92,37 @@ svg .fill { fill: currentColor; stroke: none; }
   font: inherit;
 }
 .searchbox input::placeholder { color: var(--overlay); }
+
+.suggest {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 6px;
+  background: var(--bg2);
+  border-radius: var(--radius-small);
+  box-shadow: 0 14px 40px rgb(0 0 0 / 0.45);
+}
+.suggestion {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 12px;
+  background: none;
+  border: none;
+  border-radius: 9px;
+  color: var(--subtext);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.suggestion:hover, .suggestion.active { color: var(--text); background: var(--bg3); }
+.suggestion .count { font-size: 12px; color: var(--overlay); }
 
 .icon-btn {
   display: inline-flex;

@@ -289,13 +289,84 @@ function toggleSidebar() {
     document.body.classList.toggle("sidebar-closed");
 }
 
+/* tag suggestions under the searchbox */
+
+let suggestItems = [];
+let suggestIndex = -1;
+
+function tagCandidates() {
+  const tokens = state.query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  const last = tokens.length ? tokens[tokens.length - 1] : "";
+  const counts = new Map();
+  for (const img of DATA) for (const t of img.tags) counts.set(t, (counts.get(t) || 0) + 1);
+  return [...counts.entries()]
+    .filter(([t]) => t.includes(last) && t !== state.tag)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, 8);
+}
+
+function hideSuggestions() {
+  $("suggestions").hidden = true;
+  suggestIndex = -1;
+}
+
+function renderSuggestions() {
+  const box = $("suggestions");
+  suggestItems = tagCandidates();
+  suggestIndex = -1;
+  box.innerHTML = "";
+  if (!suggestItems.length) {
+    box.hidden = true;
+    return;
+  }
+  for (const [tag, count] of suggestItems) {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "suggestion";
+    const name = document.createElement("span");
+    name.textContent = tag;
+    const badge = document.createElement("span");
+    badge.className = "count";
+    badge.textContent = count;
+    btn.append(name, badge);
+    btn.addEventListener("pointerdown", (e) => e.preventDefault());
+    btn.addEventListener("click", () => selectSuggestion(tag));
+    box.appendChild(btn);
+  }
+  box.hidden = false;
+}
+
+function moveSuggestion(dir) {
+  const buttons = [...$("suggestions").children];
+  if (!buttons.length) return;
+  suggestIndex = (suggestIndex + dir + buttons.length) % buttons.length;
+  buttons.forEach((b, i) => b.classList.toggle("active", i === suggestIndex));
+}
+
+function selectSuggestion(tag) {
+  const tokens = state.query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  if (tokens.length) tokens[tokens.length - 1] = tag;
+  else tokens.push(tag);
+  $("search").value = tokens.join(" ");
+  state.query = $("search").value;
+  state.tag = tag;
+  hideSuggestions();
+  apply();
+}
+
 function bind() {
   $("menu-btn").addEventListener("click", toggleSidebar);
   $("scrim").addEventListener("click", closeSidebar);
 
   $("search").addEventListener("input", () => {
     state.query = $("search").value;
+    renderSuggestions();
     apply();
+  });
+  $("search").addEventListener("focus", renderSuggestions);
+
+  document.addEventListener("pointerdown", (e) => {
+    if (!$("suggestions").hidden && !e.target.closest(".searchbox")) hideSuggestions();
   });
 
   $("sort").value = state.sort;
@@ -338,6 +409,19 @@ function bind() {
       if (e.key === "Escape") closeLightbox();
       else if (e.key === "ArrowLeft") stepLightbox(-1);
       else if (e.key === "ArrowRight") stepLightbox(1);
+    } else if (!$("suggestions").hidden) {
+      if (e.key === "ArrowDown") {
+        e.preventDefault();
+        moveSuggestion(1);
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault();
+        moveSuggestion(-1);
+      } else if (e.key === "Enter" && suggestIndex >= 0) {
+        e.preventDefault();
+        selectSuggestion(suggestItems[suggestIndex][0]);
+      } else if (e.key === "Escape") {
+        hideSuggestions();
+      }
     } else if (e.key === "/" && document.activeElement !== $("search")) {
       e.preventDefault();
       $("search").focus();
