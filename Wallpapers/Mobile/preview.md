@@ -10,4 +10,4 @@ A collection of mobile wallpapers.
 | <img src="mobile-gradient.png" alt="mobile-gradient" width="500"> | [mobile-gradient.png](mobile-gradient.png) |
 | <img src="mobile-pacman.jpg" alt="mobile-pacman" width="500"> | [mobile-pacman.jpg](mobile-pacman.jpg) |
 | <img src="mobile-spiral.jpg" alt="mobile-spiral" width="500"> | [mobile-spiral.jpg](mobile-spiral.jpg) |
-| <img src="wavy_dark.png" alt="wavy_dark" width="500"> | [wavy_dark.png](wavy_dark.png) |
+| <img src="wavy-dark.png" alt="wavy-dark" width="500"> | [wavy-dark.png](wavy-dark.png) |
