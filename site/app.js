@@ -106,6 +106,7 @@ function renderSidebar() {
 /* filtering, sorting and rendering */
 
 function apply() {
+  exitUpload();
   const tokens = state.query.trim().toLowerCase().split(/\s+/).filter(Boolean);
   FILTERED = DATA.filter((img) => {
     if (state.category) {
@@ -221,6 +222,7 @@ function stepLightbox(dir) {
 }
 
 function randomWallpaper() {
+  exitUpload();
   const pool = FILTERED.length ? FILTERED : DATA;
   if (!pool.length) return;
   current = Math.floor(Math.random() * pool.length);
@@ -234,6 +236,12 @@ function route() {
   $("gallery").hidden = upload;
   $("upload").hidden = !upload;
   closeSidebar();
+}
+
+function exitUpload() {
+  if (location.hash === "#upload")
+    history.replaceState(null, "", location.pathname + location.search);
+  route();
 }
 
 function openSidebar() {
@@ -261,6 +269,7 @@ function bind() {
   });
 
   const setView = (view) => {
+    exitUpload();
     state.view = view;
     saveState();
     $("grid-btn").classList.toggle("active", view === "grid");
