@@ -143,7 +143,7 @@ svg .fill { fill: currentColor; stroke: none; }
 .view-toggle { display: flex; gap: 4px; }
 
 #sort {
-  padding: 9px 13px;
+  padding: 9px 28px 9px 13px;
   background: var(--bg2);
   color: var(--subtext);
   border: none;
