@@ -121,8 +121,6 @@ svg .fill { fill: currentColor; stroke: none; }
 }
 #sort:hover { color: var(--text); }
 
-#menu-btn { display: none; }
-
 /* shell layout */
 .shell { display: flex; min-height: calc(100vh - 63px); }
 
@@ -138,6 +136,13 @@ svg .fill { fill: currentColor; stroke: none; }
   display: flex;
   flex-direction: column;
   gap: 22px;
+  transition: margin-left 0.28s ease, opacity 0.2s ease;
+}
+
+body.sidebar-closed #sidebar {
+  margin-left: -250px;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .side-section h3 {
@@ -411,7 +416,6 @@ svg .fill { fill: currentColor; stroke: none; }
 
 /* responsive */
 @media (max-width: 900px) {
-  #menu-btn { display: inline-flex; }
   .upload-text { display: none; }
   #upload-link { padding: 0 11px; }
   #sidebar {
@@ -426,7 +430,8 @@ svg .fill { fill: currentColor; stroke: none; }
     transform: translateX(-105%);
     transition: transform 0.25s ease;
   }
-  body.sidebar-open #sidebar { transform: none; box-shadow: 0 0 60px rgb(0 0 0 / 0.5); }
+  body.sidebar-closed #sidebar { margin-left: 0; opacity: 1; pointer-events: auto; }
+  body.sidebar-open #sidebar { transform: none; margin-left: 0; opacity: 1; pointer-events: auto; box-shadow: 0 0 60px rgb(0 0 0 / 0.5); }
   body.sidebar-open #scrim { display: block; }
   .searchbox { max-width: none; }
   #sort { display: none; }

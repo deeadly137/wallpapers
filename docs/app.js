@@ -244,16 +244,19 @@ function exitUpload() {
   route();
 }
 
-function openSidebar() {
-  document.body.classList.add("sidebar-open");
-}
-
 function closeSidebar() {
   document.body.classList.remove("sidebar-open");
 }
 
+function toggleSidebar() {
+  if (window.matchMedia("(max-width: 900px)").matches)
+    document.body.classList.toggle("sidebar-open");
+  else
+    document.body.classList.toggle("sidebar-closed");
+}
+
 function bind() {
-  $("menu-btn").addEventListener("click", openSidebar);
+  $("menu-btn").addEventListener("click", toggleSidebar);
   $("scrim").addEventListener("click", closeSidebar);
 
   $("search").addEventListener("input", () => {
