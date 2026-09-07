@@ -288,7 +288,8 @@ function randomWallpaper() {
       ];
   }
 
-  const img = pool.find((i) => i.path === randomDeck.pop());
+  const path = randomDeck.pop();
+  const img = pool.find((i) => i.path === path);
   if (!img) return;
   current = FILTERED.indexOf(img);
   showLightbox(img);
