@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#11111b">
+  <title>wallpapers</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%23181825'/%3E%3Crect x='6' y='7' width='20' height='18' rx='5' fill='%23cba6f7'/%3E%3Ccircle cx='12' cy='13' r='2.4' fill='%2311111b'/%3E%3Cpath d='M8 23l5.5-6 4 4.2L20.5 18l3.5 5z' fill='%2311111b'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <button id="menu-btn" class="icon-btn" aria-label="toggle sidebar">
+      <svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+    <a class="brand" href="./">wallpapers</a>
+    <div class="searchbox">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.5-4.5"/></svg>
+      <input id="search" type="search" placeholder="search wallpapers or tags..." autocomplete="off" spellcheck="false">
+    </div>
+    <div class="view-toggle" role="group" aria-label="view">
+      <button id="grid-btn" class="icon-btn active" aria-label="grid view" title="grid view">
+        <svg viewBox="0 0 24 24"><rect x="3" y="3" width="8" height="8" rx="2"/><rect x="13" y="3" width="8" height="8" rx="2"/><rect x="3" y="13" width="8" height="8" rx="2"/><rect x="13" y="13" width="8" height="8" rx="2"/></svg>
+      </button>
+      <button id="list-btn" class="icon-btn" aria-label="list view" title="list view">
+        <svg viewBox="0 0 24 24"><rect x="3" y="4" width="7" height="7" rx="2"/><path d="M14 6h7M14 9h4"/><rect x="3" y="14" width="7" height="7" rx="2"/><path d="M14 16h7M14 19h4"/></svg>
+      </button>
+    </div>
+    <select id="sort" aria-label="sort order" title="sort order">
+      <option value="alpha">alphabetical</option>
+      <option value="color">by color</option>
+      <option value="res">by resolution</option>
+      <option value="size">by file size</option>
+    </select>
+    <button id="random-btn" class="icon-btn" aria-label="random wallpaper" title="random wallpaper">
+      <svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="8.2" cy="8.2" r="1.4" class="fill"/><circle cx="12" cy="12" r="1.4" class="fill"/><circle cx="15.8" cy="15.8" r="1.4" class="fill"/><circle cx="15.8" cy="8.2" r="1.4" class="fill"/><circle cx="8.2" cy="15.8" r="1.4" class="fill"/></svg>
+    </button>
+  </header>
+  <div class="shell">
+    <aside id="sidebar">
+      <nav id="cat-nav" class="side-section" aria-label="categories"></nav>
+      <section id="tag-cloud" class="side-section">
+        <h3>tags</h3>
+        <div id="tags"></div>
+      </section>
+      <div class="side-footer">
+        <a id="upload-link" href="#upload">
+          <svg viewBox="0 0 24 24"><path d="M12 16V5M7.5 9.5L12 5l4.5 4.5"/><path d="M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+          upload a wallpaper
+        </a>
+      </div>
+    </aside>
+    <div id="scrim"></div>
+
+    <main id="main">
+      <div id="gallery">
+        <p id="results-info"></p>
+        <div id="grid" class="grid"></div>
+        <div id="list" class="list" hidden></div>
+        <div id="empty" hidden>
+          <p>nothing here...</p>
+          <button id="reset-btn" class="pill">reset filters</button>
+        </div>
+      </div>
+      <section id="upload" hidden>
+        <h2>upload a wallpaper</h2>
+        <p class="hint">
+          pick an image to preview it here, then send it to the contributors as a GitHub
+          issue — nothing gets uploaded automatically, wallpapers are always added by hand
+          so the original resolution and file size are kept.
+        </p>
+        <div id="dropzone">
+          <svg viewBox="0 0 24 24"><path d="M12 16V5M7.5 9.5L12 5l4.5 4.5"/><path d="M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+          <p>drop an image here, or <b>browse</b></p>
+          <input id="file-input" type="file" accept="image/png,image/jpeg,image/webp" hidden>
+        </div>
+        <div id="upload-preview" hidden>
+          <img id="preview-img" alt="preview of the selected wallpaper">
+          <div class="preview-info">
+            <h3 id="preview-name"></h3>
+            <dl>
+              <dt>resolution</dt><dd id="preview-res"></dd>
+              <dt>file size</dt><dd id="preview-size"></dd>
+              <dt>average color</dt><dd><span id="preview-swatch" class="swatch"></span><code id="preview-hex"></code></dd>
+              <dt>suggested name</dt><dd><code id="suggested-name"></code></dd>
+              <dt>suggested category</dt><dd><select id="category-select"></select></dd>
+            </dl>
+            <div class="preview-actions">
+              <button id="copy-issue-btn" class="pill">copy issue text</button>
+              <button id="open-issue-btn" class="pill primary">open issue on github</button>
+            </div>
+            <p class="hint">after opening the issue, attach the image to it — contributors will add it to the repo for you.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="lightbox" hidden>
+    <button id="lb-close" class="icon-btn" aria-label="close">
+      <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+    <button id="lb-prev" class="icon-btn" aria-label="previous">
+      <svg viewBox="0 0 24 24"><path d="M14.5 5.5L8 12l6.5 6.5"/></svg>
+    </button>
+    <figure>
+      <a id="lb-link" target="_blank" rel="noopener"><img id="lb-img" alt=""></a>
+      <figcaption>
+        <span id="lb-name"></span>
+        <span id="lb-meta"></span>
+        <a id="lb-download" class="pill" download>
+          <svg viewBox="0 0 24 24"><path d="M12 4v11M7.5 10.5L12 15l4.5-4.5"/><path d="M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+          full size
+        </a>
+      </figcaption>
+    </figure>
+    <button id="lb-next" class="icon-btn" aria-label="next">
+      <svg viewBox="0 0 24 24"><path d="M9.5 5.5L16 12l-6.5 6.5"/></svg>
+    </button>
+  </div>
+
+  <script src="site/app.js"></script>
+</body>
+</html>
