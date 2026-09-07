@@ -142,9 +142,12 @@ svg .fill { fill: currentColor; stroke: none; }
 
 .view-toggle { display: flex; gap: 4px; }
 
+.sort-wrap { position: relative; }
+
 #sort {
-  padding: 9px 13px;
-  line-height: 20px;
+  appearance: none;
+  -webkit-appearance: none;
+  padding: 9px 30px 9px 9px;
   background: var(--bg2);
   color: var(--subtext);
   border: none;
@@ -153,6 +156,19 @@ svg .fill { fill: currentColor; stroke: none; }
   cursor: pointer;
 }
 #sort:hover { color: var(--text); }
+
+.sort-arrow {
+  position: absolute;
+  top: 50%;
+  right: 11px;
+  width: 14px;
+  height: 14px;
+  color: var(--subtext);
+  pointer-events: none;
+  transform: translateY(-50%);
+  transition: color 0.2s;
+}
+.sort-wrap:hover .sort-arrow { color: var(--mauve); }
 
 /* shell layout */
 .shell { display: flex; min-height: calc(100vh - 63px); }
@@ -497,7 +513,7 @@ body.sidebar-closed #sidebar {
   body.sidebar-open #sidebar { transform: none; margin-left: 0; opacity: 1; pointer-events: auto; box-shadow: 0 0 60px rgb(0 0 0 / 0.5); }
   body.sidebar-open #scrim { display: block; }
   .searchbox { max-width: none; }
-  #sort { display: none; }
+  .sort-wrap { display: none; }
 }
 
 ::-webkit-scrollbar { width: 10px; height: 10px; }

@@ -31,12 +31,15 @@
         <svg viewBox="0 0 24 24"><rect x="3" y="4" width="7" height="7" rx="2"/><path d="M14 6h7M14 9h4"/><rect x="3" y="14" width="7" height="7" rx="2"/><path d="M14 16h7M14 19h4"/></svg>
       </button>
     </div>
-    <select id="sort" aria-label="sort order" title="sort order">
-      <option value="alpha">alphabetical</option>
-      <option value="color">by color</option>
-      <option value="res">by resolution</option>
-      <option value="size">by file size</option>
-    </select>
+    <div class="sort-wrap" title="sort order">
+      <select id="sort" aria-label="sort order">
+        <option value="alpha">alphabetical</option>
+        <option value="color">by color</option>
+        <option value="res">by resolution</option>
+        <option value="size">by file size</option>
+      </select>
+      <svg class="sort-arrow" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5"/></svg>
+    </div>
     <button id="random-btn" class="icon-btn" aria-label="random wallpaper" title="random wallpaper">
       <svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="8.2" cy="8.2" r="1.4" class="fill"/><circle cx="12" cy="12" r="1.4" class="fill"/><circle cx="15.8" cy="15.8" r="1.4" class="fill"/><circle cx="15.8" cy="8.2" r="1.4" class="fill"/><circle cx="8.2" cy="15.8" r="1.4" class="fill"/></svg>
     </button>
