@@ -493,6 +493,21 @@ body.sidebar-closed #sidebar {
 }
 .preview-actions { display: flex; flex-wrap: wrap; gap: 10px; }
 
+#oversize a { color: var(--pink); }
+#host-link {
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  padding: 9px 13px;
+  background: var(--bg2);
+  border: 1px solid var(--bg3);
+  border-radius: 9px;
+  color: var(--text);
+  font: inherit;
+}
+#host-link:focus { outline: none; border-color: var(--mauve); }
+#oversize code { color: var(--pink); }
+
 /* responsive */
 @media (max-width: 900px) {
   .upload-text { display: none; }

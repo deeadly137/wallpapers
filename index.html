@@ -91,6 +91,15 @@
               <dt>suggested name</dt><dd><code id="suggested-name"></code></dd>
               <dt>suggested category</dt><dd><select id="category-select"></select></dd>
             </dl>
+            <div id="oversize" class="hint" hidden>
+              this file is over the 10 MB github issue attachment limit —
+              <a href="https://catbox.moe" target="_blank" rel="noopener">catbox.moe</a>
+              hosts files up to 200 MB without an account and keeps the original
+              quality. paste the link here:
+              <input id="host-link" type="url" placeholder="https://files.catbox.moe/xxxxx.png" spellcheck="false">
+              or fork the repo, upload the file into
+              <code>Wallpapers/&lt;category&gt;/</code> and open a pull request instead.
+            </div>
             <div class="preview-actions">
               <button id="copy-issue-btn" class="pill">copy issue text</button>
               <button id="open-issue-btn" class="pill primary">open issue on github</button>

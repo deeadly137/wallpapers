@@ -470,6 +470,10 @@ let uploadFile = null;
 let uploadColor = "#33314b";
 let uploadSuggestion = "Desktop/Dark";
 let uploadName = "";
+let uploadLink = "";
+
+/* github rejects issue attachments over 10 MB */
+const ATTACH_LIMIT = 10 * 1024 * 1024;
 
 function leafCategories() {
   const paths = new Set(DATA.map(catPath));
@@ -527,6 +531,9 @@ function initUpload() {
   });
   $("copy-issue-btn").addEventListener("click", copyIssue);
   $("open-issue-btn").addEventListener("click", openIssue);
+  $("host-link").addEventListener("input", () => {
+    uploadLink = $("host-link").value.trim();
+  });
 }
 
 function handleFile(file) {
@@ -566,12 +573,18 @@ function handleFile(file) {
     select.onchange = () => (uploadSuggestion = select.value);
 
     $("upload-preview").hidden = false;
+
+    // github caps issue attachments at 10 MB, so big files need a hosted link
+    uploadLink = "";
+    $("host-link").value = "";
+    $("oversize").hidden = file.size <= ATTACH_LIMIT;
   };
   preview.src = url;
 }
 
 function issueText() {
-  return [
+  const oversized = uploadFile && uploadFile.size > ATTACH_LIMIT;
+  const lines = [
     "**wallpaper upload**",
     "",
     `- **suggested file name:** \`${uploadName}\` (from \`${uploadFile ? uploadFile.name : ""}\`)`,
@@ -579,9 +592,18 @@ function issueText() {
     `- **resolution:** ${$("preview-res").textContent}`,
     `- **file size:** ${$("preview-size").textContent}`,
     `- **average color:** ${uploadColor}`,
-    "",
-    "attach the image to this issue — contributors will add it to the repo without touching the resolution or file size.",
-  ].join("\n");
+  ];
+  if (uploadLink) lines.push(`- **download link:** ${uploadLink}`);
+  lines.push("");
+  if (oversized && !uploadLink)
+    lines.push(
+      "this file is over the 10 MB issue attachment limit — ask the uploader for a hosted link (catbox.moe etc.) or a pull request.",
+    );
+  else
+    lines.push(
+      "attach the image to this issue — contributors will add it to the repo without touching the resolution or file size.",
+    );
+  return lines.join("\n");
 }
 
 async function copyIssue() {
