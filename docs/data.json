@@ -1190,6 +1190,27 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Gray-White/kita.png",
+      "name": "kita",
+      "category": [
+        "Desktop",
+        "Gray-White"
+      ],
+      "w": 3552,
+      "h": 2246,
+      "bytes": 5179238,
+      "color": "#5b5a66",
+      "hue": 245,
+      "light": 36,
+      "tags": [
+        "4k",
+        "desktop",
+        "gray-white",
+        "kita",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Pink/acrylic.jpg",
       "name": "acrylic",
       "category": [
