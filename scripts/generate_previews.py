@@ -10,7 +10,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 WALLPAPERS = ROOT / "Wallpapers"
 INDEX = ROOT / "Preview" / "list.md"
-EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
+EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
+VIDEO_EXTENSIONS = {".mp4", ".webm", ".mov"}
 
 # folder name -> name shown in titles and index links
 DISPLAY_NAMES = {
@@ -28,9 +29,10 @@ def encode(name):
     return name.replace(" ", "%20")
 
 
-def images_in(directory):
+def media_in(directory):
+    exts = EXTENSIONS | VIDEO_EXTENSIONS
     return sorted(
-        (p for p in directory.iterdir() if p.is_file() and p.suffix.lower() in EXTENSIONS),
+        (p for p in directory.iterdir() if p.is_file() and p.suffix.lower() in exts),
         key=lambda p: p.name.lower(),
     )
 
@@ -61,6 +63,8 @@ def default_header(directory, has_children):
         title, description = "Distro", "Wallpapers organized by Linux distribution."
     elif name == "Mobile":
         title, description = "Mobile", "A collection of mobile wallpapers."
+    elif name == "Animated":
+        title, description = "Animated", "Video wallpapers (mp4/webm) that loop as your desktop background."
     elif has_children:
         title, description = name, f"Wallpapers organized by {name.lower()}."
     else:
@@ -70,12 +74,15 @@ def default_header(directory, has_children):
 
 def table_for(directory):
     lines = ["| Preview | File |", "| --- | --- |"]
-    for image in images_in(directory):
-        name = image.stem
-        lines.append(
-            f'| <img src="{image.name}" alt="{name}" width="500"> '
-            f"| [{image.name}]({encode(image.name)}) |"
-        )
+    for file in media_in(directory):
+        name = file.stem
+        if file.suffix.lower() in VIDEO_EXTENSIONS:
+            lines.append(f"| *animated wallpaper* | [{file.name}]({encode(file.name)}) |")
+        else:
+            lines.append(
+                f'| <img src="{file.name}" alt="{name}" width="500"> '
+                f"| [{file.name}]({encode(file.name)}) |"
+            )
     return "\n".join(lines)
 
 
@@ -122,7 +129,7 @@ def main():
     for directory in [WALLPAPERS, *WALLPAPERS.rglob("*")]:
         if not directory.is_dir():
             continue
-        if not images_in(directory) and not subdirectories_of(directory):
+        if not media_in(directory) and not subdirectories_of(directory):
             continue
         write_preview(directory)
         count += 1

@@ -167,6 +167,30 @@ function apply() {
   $("results-info").textContent = bits.join("  ·  ");
 }
 
+function mediaElement(img, hoverPlay) {
+  const src = encodePath(img.path);
+  if (img.animated) {
+    const video = document.createElement("video");
+    video.src = src + "#t=0.1";
+    video.muted = true;
+    video.loop = true;
+    video.playsInline = true;
+    video.preload = "metadata";
+    video.style.aspectRatio = `${img.w} / ${img.h}`;
+    if (hoverPlay) {
+      video.addEventListener("pointerenter", () => video.play().catch(() => {}));
+      video.addEventListener("pointerleave", () => video.pause());
+    }
+    return video;
+  }
+  const image = document.createElement("img");
+  image.loading = "lazy";
+  image.src = src;
+  image.alt = img.name;
+  image.style.aspectRatio = `${img.w} / ${img.h}`;
+  return image;
+}
+
 function render() {
   const grid = $("grid");
   const list = $("list");
@@ -177,26 +201,19 @@ function render() {
     if (state.view === "grid") {
       const fig = document.createElement("figure");
       fig.className = "card";
-      const image = document.createElement("img");
-      image.loading = "lazy";
-      image.src = src;
-      image.alt = img.name;
-      image.style.aspectRatio = `${img.w} / ${img.h}`;
+      const media = mediaElement(img, true);
       const caption = document.createElement("figcaption");
-      caption.textContent = img.name;
-      fig.append(image, caption);
+      caption.textContent = (img.animated ? "▶ " : "") + img.name;
+      fig.append(media, caption);
       fig.addEventListener("click", () => openLightbox(img));
       grid.appendChild(fig);
     } else {
       const row = document.createElement("div");
       row.className = "row";
-      const image = document.createElement("img");
-      image.loading = "lazy";
-      image.src = src;
-      image.alt = img.name;
+      const media = mediaElement(img, false);
       const name = document.createElement("span");
       name.className = "row-name";
-      name.textContent = img.name;
+      name.textContent = (img.animated ? "▶ " : "") + img.name;
       const meta = document.createElement("span");
       meta.className = "row-meta";
       meta.textContent = `${img.w}×${img.h} · ${fmtBytes(img.bytes)}`;
@@ -204,7 +221,7 @@ function render() {
       dot.className = "dot";
       dot.style.background = img.color;
       dot.title = img.color;
-      row.append(image, name, meta, dot);
+      row.append(media, name, meta, dot);
       row.addEventListener("click", () => openLightbox(img));
       list.appendChild(row);
     }
@@ -232,12 +249,21 @@ function showLightbox(img) {
   if (!img) img = FILTERED[current];
   if (!img) return;
   const src = encodePath(img.path);
-  $("lb-img").src = src;
-  $("lb-img").alt = img.name;
+  $("lb-img").hidden = !!img.animated;
+  $("lb-link").hidden = !!img.animated;
+  $("lb-video").hidden = !img.animated;
+  if (img.animated) {
+    $("lb-video").src = src;
+    $("lb-video").play().catch(() => {});
+  } else {
+    $("lb-img").src = src;
+    $("lb-img").alt = img.name;
+  }
   $("lb-link").href = src;
   $("lb-name").textContent = img.name;
   $("lb-meta").textContent =
-    `${img.category.join(" / ")} · ${img.w}×${img.h} · ${fmtBytes(img.bytes)} · ${img.color}`;
+    `${img.category.join(" / ")} · ${img.w}×${img.h} · ${fmtBytes(img.bytes)} · ${img.color}` +
+    (img.animated ? " · animated" : "");
   $("lb-download").href = src;
   $("lb-download").download = img.path.split("/").pop();
   $("lightbox").hidden = false;
@@ -245,6 +271,7 @@ function showLightbox(img) {
 }
 
 function closeLightbox() {
+  $("lb-video").pause();
   $("lightbox").hidden = true;
   document.body.style.overflow = "";
 }
@@ -537,27 +564,33 @@ function initUpload() {
 }
 
 function handleFile(file) {
-  if (!file.type.startsWith("image/")) return;
+  if (!file.type.startsWith("image/") && !file.type.startsWith("video/")) return;
   uploadFile = file;
+  const isVideo = file.type.startsWith("video/");
   const url = URL.createObjectURL(file);
-  const preview = $("preview-img");
-  preview.onload = () => {
+  const preview = isVideo ? $("preview-video") : $("preview-img");
+  $("preview-img").hidden = isVideo;
+  $("preview-video").hidden = !isVideo;
+  const measure = () => {
     const canvas = document.createElement("canvas");
     canvas.width = canvas.height = 1;
     canvas.getContext("2d").drawImage(preview, 0, 0, 1, 1);
     const [r, g, b] = canvas.getContext("2d").getImageData(0, 0, 1, 1).data;
     uploadColor = "#" + [r, g, b].map((c) => c.toString(16).padStart(2, "0")).join("");
 
-    $("preview-res").textContent = `${preview.naturalWidth}×${preview.naturalHeight}`;
+    const w = isVideo ? preview.videoWidth : preview.naturalWidth;
+    const h = isVideo ? preview.videoHeight : preview.naturalHeight;
+    $("preview-res").textContent = `${w}×${h}`;
     $("preview-size").textContent = fmtBytes(file.size);
     $("preview-swatch").style.background = uploadColor;
     $("preview-hex").textContent = uploadColor;
 
-    uploadName = kebabCase(file.name) + (file.type === "image/png" ? ".png" : ".jpg");
+    const ext = (file.name.match(/\.[a-z0-9]+$/i) || [""])[0].toLowerCase();
+    uploadName = kebabCase(file.name) + (ext || (isVideo ? ".mp4" : ".jpg"));
     $("suggested-name").textContent = uploadName;
 
-    const portrait = preview.naturalHeight > preview.naturalWidth;
-    uploadSuggestion = portrait ? "Mobile" : colorCategory(r, g, b);
+    const portrait = h > w;
+    uploadSuggestion = portrait ? "Mobile" : isVideo ? "Animated" : colorCategory(r, g, b);
     if (!leafCategories().includes(uploadSuggestion))
       uploadSuggestion = portrait ? "Mobile" : "Desktop/Dark";
 
@@ -579,6 +612,12 @@ function handleFile(file) {
     $("host-link").value = "";
     $("oversize").hidden = file.size <= ATTACH_LIMIT;
   };
+  if (isVideo) {
+    preview.muted = true;
+    preview.onloadeddata = measure;
+  } else {
+    preview.onload = measure;
+  }
   preview.src = url;
 }
 
@@ -593,6 +632,8 @@ function issueText() {
     `- **file size:** ${$("preview-size").textContent}`,
     `- **average color:** ${uploadColor}`,
   ];
+  if (uploadFile && uploadFile.type.startsWith("video/"))
+    lines.push("- **animated:** yes (video wallpaper, mp4/webm)");
   if (uploadLink) lines.push(`- **download link:** ${uploadLink}`);
   lines.push("");
   if (oversized && !uploadLink)
@@ -601,7 +642,7 @@ function issueText() {
     );
   else
     lines.push(
-      "attach the image to this issue — contributors will add it to the repo without touching the resolution or file size.",
+      "attach the file to this issue — contributors will add it to the repo without touching the resolution or file size.",
     );
   return lines.join("\n");
 }

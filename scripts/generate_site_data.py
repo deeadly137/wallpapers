@@ -13,7 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 WALLPAPERS = ROOT / "Wallpapers"
 OUT = ROOT / "docs" / "data.json"
-EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
+EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
+VIDEO_EXTENSIONS = {".mp4", ".webm", ".mov"}
 
 
 def im(*args):
@@ -45,12 +46,36 @@ def average_color(path):
     return tuple(int(hexpart[i:i + 2], 16) for i in (0, 2, 4))
 
 
-def tags_for(name, categories, w, h):
+def video_dimensions(path):
+    out = subprocess.run(
+        ["ffprobe", "-v", "error", "-select_streams", "v:0",
+         "-show_entries", "stream=width,height", "-of", "csv=p=0", str(path)],
+        capture_output=True, text=True, check=True,
+    ).stdout
+    w, h = out.strip().split(",")[:2]
+    return int(w), int(h)
+
+
+def video_average_color(path):
+    """Average color of the first frame as (r, g, b)."""
+    out = subprocess.run(
+        ["ffmpeg", "-nostdin", "-loglevel", "error", "-i", str(path),
+         "-frames:v", "1", "-vf", "scale=1:1", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
+        capture_output=True, check=True,
+    ).stdout
+    if len(out) < 3:
+        raise RuntimeError(f"could not read the average color of {path}")
+    return out[0], out[1], out[2]
+
+
+def tags_for(name, categories, w, h, animated=False):
     tags = set()
     for part in categories:
         tags.update(part.lower().replace("/", " ").split())
     tags.update(name.lower().split("-"))
     tags.add("landscape" if w > h else "portrait")
+    if animated:
+        tags.update(("animated", "video"))
     if w >= 3840 or h >= 2160:
         tags.add("4k")
     elif w >= 2560 or h >= 1440:
@@ -61,16 +86,21 @@ def tags_for(name, categories, w, h):
 
 
 def main():
-    images = []
+    media = []
     for path in sorted(WALLPAPERS.rglob("*")):
-        if not (path.is_file() and path.suffix.lower() in EXTENSIONS):
+        ext = path.suffix.lower()
+        if path.is_file() and ext in VIDEO_EXTENSIONS:
+            animated = True
+        elif path.is_file() and ext in EXTENSIONS:
+            animated = False
+        else:
             continue
         rel = path.relative_to(ROOT)
         categories = path.parent.relative_to(WALLPAPERS).parts
-        w, h = dimensions(path)
-        r, g, b = average_color(path)
+        w, h = video_dimensions(path) if animated else dimensions(path)
+        r, g, b = video_average_color(path) if animated else average_color(path)
         hue, _, _ = rgb_to_hsv(r / 255, g / 255, b / 255)
-        images.append({
+        media.append({
             "path": rel.as_posix(),
             "name": path.stem,
             "category": list(categories),
@@ -80,12 +110,13 @@ def main():
             "color": f"#{r:02x}{g:02x}{b:02x}",
             "hue": round(hue * 360),
             "light": round((0.2126 * r + 0.7152 * g + 0.0722 * b) / 2.55),
-            "tags": tags_for(path.stem, categories, w, h),
+            "animated": animated,
+            "tags": tags_for(path.stem, categories, w, h, animated),
         })
 
     OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text(json.dumps({"images": images}, indent=2) + "\n", encoding="utf-8")
-    print(f"wrote {OUT.relative_to(ROOT)} with {len(images)} wallpapers")
+    OUT.write_text(json.dumps({"images": media}, indent=2) + "\n", encoding="utf-8")
+    print(f"wrote {OUT.relative_to(ROOT)} with {len(media)} wallpapers")
 
 
 if __name__ == "__main__":

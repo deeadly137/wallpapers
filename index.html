@@ -71,17 +71,18 @@
       <section id="upload" hidden>
         <h2>upload a wallpaper</h2>
         <p class="hint">
-          pick an image to preview it here, then send it to the contributors as a GitHub
-          issue — nothing gets uploaded automatically, wallpapers are always added by hand
-          so the original resolution and file size are kept.
+          pick an image or video to preview it here, then send it to the contributors as a
+          GitHub issue — nothing gets uploaded automatically, wallpapers are always added by
+          hand so the original resolution and file size are kept.
         </p>
         <div id="dropzone">
           <svg viewBox="0 0 24 24"><path d="M12 16V5M7.5 9.5L12 5l4.5 4.5"/><path d="M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
-          <p>drop an image here, or <b>browse</b></p>
-          <input id="file-input" type="file" accept="image/png,image/jpeg,image/webp" hidden>
+          <p>drop an image or video here, or <b>browse</b></p>
+          <input id="file-input" type="file" accept="image/png,image/jpeg,image/webp,image/gif,video/mp4,video/webm,video/quicktime" hidden>
         </div>
         <div id="upload-preview" hidden>
-          <img id="preview-img" alt="preview of the selected wallpaper">
+          <img id="preview-img" alt="preview of the selected wallpaper" hidden>
+          <video id="preview-video" muted loop playsinline alt="preview of the selected wallpaper" hidden></video>
           <div class="preview-info">
             <h3 id="preview-name"></h3>
             <dl>
@@ -120,6 +121,7 @@
     </button>
     <figure>
       <a id="lb-link" target="_blank" rel="noopener"><img id="lb-img" alt=""></a>
+      <video id="lb-video" controls loop playsinline hidden></video>
       <figcaption>
         <span id="lb-name"></span>
         <span id="lb-meta"></span>

@@ -325,7 +325,7 @@ body.sidebar-closed #sidebar {
   transition: border-color 0.2s, transform 0.2s;
 }
 .card:hover { border-color: var(--mauve); transform: translateY(-2px); }
-.card img { display: block; width: 100%; height: auto; }
+.card img, .card video { display: block; width: 100%; height: auto; }
 .card figcaption {
   padding: 8px 12px;
   font-size: 13px;
@@ -348,7 +348,7 @@ body.sidebar-closed #sidebar {
   transition: border-color 0.2s;
 }
 .row:hover { border-color: var(--mauve); }
-.row img {
+.row img, .row video {
   width: 96px;
   height: 54px;
   object-fit: cover;
@@ -402,13 +402,14 @@ body.sidebar-closed #sidebar {
   max-height: 100%;
 }
 #lb-link { display: flex; min-height: 0; max-width: 100%; }
-#lb-img {
+#lb-img, #lb-video {
   max-width: 100%;
   max-height: calc(100vh - 160px);
   border-radius: var(--radius);
   box-shadow: 0 18px 60px rgb(0 0 0 / 0.55);
   background: var(--bg1);
 }
+#lb-video { max-height: calc(100vh - 190px); }
 #lightbox figcaption {
   display: flex;
   align-items: center;
@@ -457,7 +458,7 @@ body.sidebar-closed #sidebar {
   background: var(--bg1);
   border-radius: var(--radius);
 }
-#preview-img {
+#preview-img, #preview-video {
   max-width: min(420px, 100%);
   max-height: 340px;
   border-radius: var(--radius-small);

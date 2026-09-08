@@ -16,6 +16,7 @@ Anyone can contribute, but here's how you do it:
 And then, repository maintainers are going to check if they match the wanted criterion:
 
 - PNG or JPEG (JPEG preferred for photos, PNG for flat/gradient art)
+- Animated wallpapers are welcome too — mp4 or webm under `Wallpapers/Animated/`
 - Github caps issue attachments at 10 MB, so bigger files can't be attached, so host them (e.g. catbox.moe, keeps original quality) and paste the link in the issue, or use the fork + upload + pull request flow above
 
 > [!NOTE]
