@@ -16,6 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: install imagemagick
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq imagemagick
+          identify -version
+
       - name: regenerate previews and site data
         run: |
           python3 scripts/generate_previews.py

@@ -18,11 +18,16 @@ EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 
 def im(*args):
     """Run ImageMagick (IMv7 prefers magick, IM6 only ships convert/identify)."""
+    error = None
     for binary in ("magick", "convert"):
-        result = subprocess.run([binary, *args], capture_output=True, text=True)
+        try:
+            result = subprocess.run([binary, *args], capture_output=True, text=True)
+        except FileNotFoundError:
+            continue
         if result.returncode == 0:
             return result.stdout
-    raise RuntimeError(f"ImageMagick failed on {args[-1]}: {result.stderr.strip()}")
+        error = result.stderr.strip()
+    raise RuntimeError(f"ImageMagick is not available or failed: {error}")
 
 
 def dimensions(path):
