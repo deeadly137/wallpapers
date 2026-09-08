@@ -2,6 +2,7 @@
 
 Full preview index of all wallpaper categories in this repository.
 
+- [Animated](../Wallpapers/Animated/preview.md)
 - **[Desktop](../Wallpapers/Desktop/preview.md)**
   - [Blue](../Wallpapers/Desktop/Blue/preview.md)
   - [Brown](../Wallpapers/Desktop/Brown/preview.md)

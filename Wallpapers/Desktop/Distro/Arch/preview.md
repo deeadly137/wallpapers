@@ -12,6 +12,7 @@ A collection of Arch Linux themed desktop wallpapers.
 | <img src="arch-stylishW&B.png" alt="arch-stylishW&B" width="500"> | [arch-stylishW&B.png](arch-stylishW&B.png) |
 | <img src="arch-wall.jpg" alt="arch-wall" width="500"> | [arch-wall.jpg](arch-wall.jpg) |
 | <img src="arch.png" alt="arch" width="500"> | [arch.png](arch.png) |
+| <img src="arch2.png" alt="arch2" width="500"> | [arch2.png](arch2.png) |
 | <img src="arch_purple.png" alt="arch_purple" width="500"> | [arch_purple.png](arch_purple.png) |
 | <img src="archgrey.png" alt="archgrey" width="500"> | [archgrey.png](archgrey.png) |
 | <img src="catppuccin-rainbow-arch.png" alt="catppuccin-rainbow-arch" width="500"> | [catppuccin-rainbow-arch.png](catppuccin-rainbow-arch.png) |
