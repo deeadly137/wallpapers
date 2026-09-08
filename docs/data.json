@@ -109,6 +109,27 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Dark/9376367.jpg",
+      "name": "9376367",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 461942,
+      "color": "#1a2c4a",
+      "hue": 218,
+      "light": 17,
+      "tags": [
+        "4k",
+        "9376367",
+        "dark",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Dark/abstract.jpg",
       "name": "abstract",
       "category": [
@@ -1125,6 +1146,29 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Gray-White/angel-chained-down.png",
+      "name": "angel-chained-down",
+      "category": [
+        "Desktop",
+        "Gray-White"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 3754354,
+      "color": "#92959a",
+      "hue": 217,
+      "light": 58,
+      "tags": [
+        "1080p",
+        "angel",
+        "chained",
+        "desktop",
+        "down",
+        "gray-white",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Gray-White/black-car-girl.jpg",
       "name": "black-car-girl",
       "category": [
@@ -1250,6 +1294,27 @@
         "desktop",
         "landscape",
         "pond",
+        "purple"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/columbina.jpg",
+      "name": "columbina",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 2048,
+      "h": 1128,
+      "bytes": 191704,
+      "color": "#7b7c82",
+      "hue": 231,
+      "light": 49,
+      "tags": [
+        "1080p",
+        "columbina",
+        "desktop",
+        "landscape",
         "purple"
       ]
     },

@@ -5,6 +5,7 @@ A collection of dark-themed desktop wallpapers.
 | Preview | File |
 | --- | --- |
 | <img src="3squares.png" alt="3squares" width="500"> | [3squares.png](3squares.png) |
+| <img src="9376367.jpg" alt="9376367" width="500"> | [9376367.jpg](9376367.jpg) |
 | <img src="abstract.jpg" alt="abstract" width="500"> | [abstract.jpg](abstract.jpg) |
 | <img src="anime-eye-nord.png" alt="anime-eye-nord" width="500"> | [anime-eye-nord.png](anime-eye-nord.png) |
 | <img src="black-white-girl.png" alt="black-white-girl" width="500"> | [black-white-girl.png](black-white-girl.png) |
