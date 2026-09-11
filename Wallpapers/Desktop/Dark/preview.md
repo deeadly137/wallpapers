@@ -20,6 +20,8 @@ A collection of dark-themed desktop wallpapers.
 | <img src="hands.jpg" alt="hands" width="500"> | [hands.jpg](hands.jpg) |
 | <img src="japan.png" alt="japan" width="500"> | [japan.png](japan.png) |
 | <img src="katana.jpg" alt="katana" width="500"> | [katana.jpg](katana.jpg) |
+| <img src="macchiato.png" alt="macchiato" width="500"> | [macchiato.png](macchiato.png) |
 | <img src="manga-samurai.png" alt="manga-samurai" width="500"> | [manga-samurai.png](manga-samurai.png) |
 | <img src="planets.png" alt="planets" width="500"> | [planets.png](planets.png) |
 | <img src="serial-experiments-lain.png" alt="serial-experiments-lain" width="500"> | [serial-experiments-lain.png](serial-experiments-lain.png) |
+| <img src="vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg" alt="vhs-glitch-aesthetic-abstract-desktop-wallpaper" width="500"> | [vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg](vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg) |

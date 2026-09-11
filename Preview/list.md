@@ -2,7 +2,17 @@
 
 Full preview index of all wallpaper categories in this repository.
 
-- [Animated](../Wallpapers/Animated/preview.md)
+- **[Animated](../Wallpapers/Animated/preview.md)**
+  - [dark](../Wallpapers/Animated/dark/preview.md)
+  - [light](../Wallpapers/Animated/light/preview.md)
+  - [nature](../Wallpapers/Animated/nature/preview.md)
+  - [ocean](../Wallpapers/Animated/ocean/preview.md)
+  - [space](../Wallpapers/Animated/space/preview.md)
+  - [towns](../Wallpapers/Animated/towns/preview.md)
+  - **[videogames](../Wallpapers/Animated/videogames/preview.md)**
+    - [doom](../Wallpapers/Animated/videogames/doom/preview.md)
+    - [minecraft](../Wallpapers/Animated/videogames/minecraft/preview.md)
+    - [tf2](../Wallpapers/Animated/videogames/tf2/preview.md)
 - **[Desktop](../Wallpapers/Desktop/preview.md)**
   - [Blue](../Wallpapers/Desktop/Blue/preview.md)
   - [Brown](../Wallpapers/Desktop/Brown/preview.md)
