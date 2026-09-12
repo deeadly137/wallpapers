@@ -1,10 +1,10 @@
-#!/usr/bin/env python3
 """Regenerates the preview.md pages and Preview/list.md from the contents of Wallpapers/.
 
 Run it after adding, renaming or removing wallpapers and commit the result.
 CI runs this on every pull request and fails if the pages are out of date,
 and regenerates them automatically on main.
 """
+
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -13,7 +13,6 @@ INDEX = ROOT / "Preview" / "list.md"
 EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 VIDEO_EXTENSIONS = {".mp4", ".webm", ".mov"}
 
-# folder name -> name shown in titles and index links
 DISPLAY_NAMES = {
     "Gray-White": "Gray / White",
     "Red-Orange": "Red / Orange",
@@ -38,7 +37,9 @@ def media_in(directory):
 
 
 def subdirectories_of(directory):
-    return sorted((p for p in directory.iterdir() if p.is_dir()), key=lambda p: p.name.lower())
+    return sorted(
+        (p for p in directory.iterdir() if p.is_dir()), key=lambda p: p.name.lower()
+    )
 
 
 def existing_header(directory):
@@ -56,7 +57,10 @@ def existing_header(directory):
 def default_header(directory, has_children):
     name = display_name(directory)
     if directory == WALLPAPERS:
-        title, description = "Wallpapers", "A curated collection of wallpapers organized by category."
+        title, description = (
+            "Wallpapers",
+            "A curated collection of wallpapers organized by category.",
+        )
     elif name == "Desktop":
         title, description = "Desktop", "Wallpapers organized by color theme."
     elif name == "Distro":
@@ -64,7 +68,10 @@ def default_header(directory, has_children):
     elif name == "Mobile":
         title, description = "Mobile", "A collection of mobile wallpapers."
     elif name == "Animated":
-        title, description = "Animated", "Video wallpapers (mp4/webm) that loop as your desktop background."
+        title, description = (
+            "Animated",
+            "Video wallpapers (mp4/webm) that loop as your desktop background.",
+        )
     elif has_children:
         title, description = name, f"Wallpapers organized by {name.lower()}."
     else:
@@ -77,7 +84,9 @@ def table_for(directory):
     for file in media_in(directory):
         name = file.stem
         if file.suffix.lower() in VIDEO_EXTENSIONS:
-            lines.append(f"| *animated wallpaper* | [{file.name}]({encode(file.name)}) |")
+            lines.append(
+                f"| *animated wallpaper* | [{file.name}]({encode(file.name)}) |"
+            )
         else:
             lines.append(
                 f'| <img src="{file.name}" alt="{name}" width="500"> '
@@ -110,7 +119,9 @@ def write_index():
 
     def entry(directory, depth):
         children = subdirectories_of(directory)
-        link = f"../Wallpapers/{directory.relative_to(WALLPAPERS).as_posix()}/preview.md"
+        link = (
+            f"../Wallpapers/{directory.relative_to(WALLPAPERS).as_posix()}/preview.md"
+        )
         label = f"[{display_name(directory)}]({encode(link)})"
         if children:
             label = f"**{label}**"

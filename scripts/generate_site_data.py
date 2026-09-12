@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
 """Generates docs/data.json for the website from the contents of Wallpapers/.
 
 Run it after adding, renaming or removing wallpapers and commit the result.
 The website reads this file to build its sidebar, search and gallery.
 """
+
 import json
 import re
 import subprocess
@@ -43,14 +43,26 @@ def average_color(path):
     if not match:
         raise RuntimeError(f"could not read the average color of {path}")
     hexpart = match.group(1)
-    return tuple(int(hexpart[i:i + 2], 16) for i in (0, 2, 4))
+    return tuple(int(hexpart[i : i + 2], 16) for i in (0, 2, 4))
 
 
 def video_dimensions(path):
     out = subprocess.run(
-        ["ffprobe", "-v", "error", "-select_streams", "v:0",
-         "-show_entries", "stream=width,height", "-of", "csv=p=0", str(path)],
-        capture_output=True, text=True, check=True,
+        [
+            "ffprobe",
+            "-v",
+            "error",
+            "-select_streams",
+            "v:0",
+            "-show_entries",
+            "stream=width,height",
+            "-of",
+            "csv=p=0",
+            str(path),
+        ],
+        capture_output=True,
+        text=True,
+        check=True,
     ).stdout
     w, h = out.strip().split(",")[:2]
     return int(w), int(h)
@@ -59,9 +71,25 @@ def video_dimensions(path):
 def video_average_color(path):
     """Average color of the first frame as (r, g, b)."""
     out = subprocess.run(
-        ["ffmpeg", "-nostdin", "-loglevel", "error", "-i", str(path),
-         "-frames:v", "1", "-vf", "scale=1:1", "-f", "rawvideo", "-pix_fmt", "rgb24", "-"],
-        capture_output=True, check=True,
+        [
+            "ffmpeg",
+            "-nostdin",
+            "-loglevel",
+            "error",
+            "-i",
+            str(path),
+            "-frames:v",
+            "1",
+            "-vf",
+            "scale=1:1",
+            "-f",
+            "rawvideo",
+            "-pix_fmt",
+            "rgb24",
+            "-",
+        ],
+        capture_output=True,
+        check=True,
     ).stdout
     if len(out) < 3:
         raise RuntimeError(f"could not read the average color of {path}")
@@ -100,19 +128,21 @@ def main():
         w, h = video_dimensions(path) if animated else dimensions(path)
         r, g, b = video_average_color(path) if animated else average_color(path)
         hue, _, _ = rgb_to_hsv(r / 255, g / 255, b / 255)
-        media.append({
-            "path": rel.as_posix(),
-            "name": path.stem,
-            "category": list(categories),
-            "w": w,
-            "h": h,
-            "bytes": path.stat().st_size,
-            "color": f"#{r:02x}{g:02x}{b:02x}",
-            "hue": round(hue * 360),
-            "light": round((0.2126 * r + 0.7152 * g + 0.0722 * b) / 2.55),
-            "animated": animated,
-            "tags": tags_for(path.stem, categories, w, h, animated),
-        })
+        media.append(
+            {
+                "path": rel.as_posix(),
+                "name": path.stem,
+                "category": list(categories),
+                "w": w,
+                "h": h,
+                "bytes": path.stat().st_size,
+                "color": f"#{r:02x}{g:02x}{b:02x}",
+                "hue": round(hue * 360),
+                "light": round((0.2126 * r + 0.7152 * g + 0.0722 * b) / 2.55),
+                "animated": animated,
+                "tags": tags_for(path.stem, categories, w, h, animated),
+            }
+        )
 
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps({"images": media}, indent=2) + "\n", encoding="utf-8")

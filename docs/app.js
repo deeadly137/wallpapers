@@ -8,12 +8,8 @@ let FILTERED = [];
 let current = -1;
 
 const $ = (id) => document.getElementById(id);
-
-const fmtBytes = (b) =>
-  b >= 1048576 ? (b / 1048576).toFixed(1) + " MB" : Math.max(1, Math.round(b / 1024)) + " KB";
-
+const fmtBytes = (b) => b >= 1048576 ? (b / 1048576).toFixed(1) + " MB" : Math.max(1, Math.round(b / 1024)) + " KB";
 const encodePath = (p) => p.split("/").map(encodeURIComponent).join("/");
-
 const catPath = (img) => img.category.join("/");
 
 function saveState() {
@@ -25,8 +21,6 @@ function loadState() {
   state.view = localStorage.getItem("wallpapers-view") || "grid";
   state.sort = localStorage.getItem("wallpapers-sort") || "alpha";
 }
-
-/* sidebar: category tree built from the data */
 
 function buildCategoryTree() {
   const root = { children: new Map(), count: 0 };
@@ -119,9 +113,7 @@ function renderSidebar() {
 
   const counts = new Map();
   for (const img of DATA) for (const t of img.tags) counts.set(t, (counts.get(t) || 0) + 1);
-  const top = [...counts.entries()]
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    .slice(0, 24);
+  const top = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 24);
   const tags = $("tags");
   tags.innerHTML = "";
   for (const [tag] of top) {
@@ -136,8 +128,6 @@ function renderSidebar() {
     tags.appendChild(chip);
   }
 }
-
-/* filtering, sorting and rendering */
 
 function apply() {
   exitUpload();
@@ -178,7 +168,7 @@ function mediaElement(img, hoverPlay) {
     video.preload = "metadata";
     video.style.aspectRatio = `${img.w} / ${img.h}`;
     if (hoverPlay) {
-      video.addEventListener("pointerenter", () => video.play().catch(() => {}));
+      video.addEventListener("pointerenter", () => video.play().catch(() => { }));
       video.addEventListener("pointerleave", () => video.pause());
     }
     return video;
@@ -238,8 +228,6 @@ function updateActive() {
     chip.classList.toggle("active", chip.dataset.tag === state.tag);
 }
 
-/* lightbox */
-
 function openLightbox(img) {
   current = FILTERED.indexOf(img);
   showLightbox(img);
@@ -254,7 +242,7 @@ function showLightbox(img) {
   $("lb-video").hidden = !img.animated;
   if (img.animated) {
     $("lb-video").src = src;
-    $("lb-video").play().catch(() => {});
+    $("lb-video").play().catch(() => { });
   } else {
     $("lb-img").src = src;
     $("lb-img").alt = img.name;
@@ -282,8 +270,6 @@ function stepLightbox(dir) {
   showLightbox(FILTERED[current]);
 }
 
-/* random picker: walks a shuffled deck, so nothing repeats
-   until every wallpaper in the pool has been shown */
 let randomDeck = [];
 let lastRandom = null;
 
@@ -300,16 +286,13 @@ function randomWallpaper() {
   const pool = FILTERED.length ? FILTERED : DATA;
   if (!pool.length) return;
 
-  // drop cards that no longer match the current filter
   const paths = new Set(pool.map((img) => img.path));
   randomDeck = randomDeck.filter((path) => paths.has(path));
 
-  // reshuffle when the deck runs out
   if (!randomDeck.length)
     randomDeck = shuffle(pool.map((img) => img.path));
 
   let path = randomDeck.pop();
-  // never show the same wallpaper twice in a row
   if (path === lastRandom && randomDeck.length) {
     const k = Math.floor(Math.random() * randomDeck.length);
     [path, randomDeck[k]] = [randomDeck[k], path];
@@ -321,8 +304,6 @@ function randomWallpaper() {
   current = FILTERED.indexOf(img);
   showLightbox(img);
 }
-
-/* routing, sidebar drawer and events */
 
 function route() {
   const upload = location.hash === "#upload";
@@ -348,8 +329,6 @@ function toggleSidebar() {
     document.body.classList.toggle("sidebar-closed");
 }
 
-/* tag suggestions under the searchbox */
-
 let suggestItems = [];
 let suggestIndex = -1;
 
@@ -358,10 +337,7 @@ function tagCandidates() {
   const last = tokens.length ? tokens[tokens.length - 1] : "";
   const counts = new Map();
   for (const img of DATA) for (const t of img.tags) counts.set(t, (counts.get(t) || 0) + 1);
-  return [...counts.entries()]
-    .filter(([t]) => t.includes(last) && t !== state.tag)
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    .slice(0, 8);
+  return [...counts.entries()].filter(([t]) => t.includes(last) && t !== state.tag).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 8);
 }
 
 function hideSuggestions() {
@@ -491,15 +467,12 @@ function bind() {
   initUpload();
 }
 
-/* upload page: everything happens locally, contributors add the file by hand */
-
 let uploadFile = null;
 let uploadColor = "#33314b";
 let uploadSuggestion = "Desktop/Dark";
 let uploadName = "";
 let uploadLink = "";
 
-/* github rejects issue attachments over 10 MB */
 const ATTACH_LIMIT = 10 * 1024 * 1024;
 
 function leafCategories() {
@@ -531,12 +504,7 @@ function colorCategory(r, g, b) {
 }
 
 function kebabCase(name) {
-  return name
-    .toLowerCase()
-    .replace(/\.[a-z0-9]+$/, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .slice(0, 60) || "wallpaper";
+  return name.toLowerCase().replace(/\.[a-z0-9]+$/, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60) || "wallpaper";
 }
 
 function initUpload() {
@@ -607,7 +575,6 @@ function handleFile(file) {
 
     $("upload-preview").hidden = false;
 
-    // github caps issue attachments at 10 MB, so big files need a hosted link
     uploadLink = "";
     $("host-link").value = "";
     $("oversize").hidden = file.size <= ATTACH_LIMIT;
@@ -660,13 +627,9 @@ async function copyIssue() {
 
 function openIssue() {
   const name = uploadName || "wallpaper";
-  const url = `https://github.com/${REPO}/issues/new?title=${
-    encodeURIComponent(`upload: ${name}`)
-  }&body=${encodeURIComponent(issueText())}`;
+  const url = `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(`upload: ${name}`)}&body=${encodeURIComponent(issueText())}`;
   window.open(url, "_blank", "noopener");
 }
-
-/* boot */
 
 async function init() {
   loadState();
