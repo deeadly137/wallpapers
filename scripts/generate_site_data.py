@@ -64,7 +64,9 @@ def video_dimensions(path):
         text=True,
         check=True,
     ).stdout
-    w, h = out.strip().split(",")[:2]
+    # some files carry extra cover-art streams, so only trust the first line
+    first = next(line for line in out.splitlines() if line.strip())
+    w, h = first.split(",")[:2]
     return int(w), int(h)
 
 
