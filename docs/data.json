@@ -1,10 +1,369 @@
 {
   "images": [
     {
-      "path": "Wallpapers/Animated/anime-girl-tattoos-and-orchids-moewalls-com.mp4",
+      "path": "Wallpapers/Animated/dark/crimson-bonsai-minimalist-moewalls-com.mp4",
+      "name": "crimson-bonsai-minimalist-moewalls-com",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 24169465,
+      "color": "#1c0b07",
+      "hue": 11,
+      "light": 6,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "bonsai",
+        "com",
+        "crimson",
+        "dark",
+        "landscape",
+        "minimalist",
+        "moewalls",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/deltarune-forgotten-man-moewalls-com.mp4",
+      "name": "deltarune-forgotten-man-moewalls-com",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 95267505,
+      "color": "#0e0405",
+      "hue": 354,
+      "light": 2,
+      "animated": true,
+      "tags": [
+        "4k",
+        "animated",
+        "com",
+        "dark",
+        "deltarune",
+        "forgotten",
+        "landscape",
+        "man",
+        "moewalls",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/dune-1.mp4",
+      "name": "dune-1",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 3841733,
+      "color": "#000000",
+      "hue": 0,
+      "light": 0,
+      "animated": true,
+      "tags": [
+        "1",
+        "1080p",
+        "animated",
+        "dark",
+        "dune",
+        "landscape",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/flare-sub-01.mp4",
+      "name": "flare-sub-01",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 102880292,
+      "color": "#030305",
+      "hue": 240,
+      "light": 1,
+      "animated": true,
+      "tags": [
+        "01",
+        "1080p",
+        "animated",
+        "dark",
+        "flare",
+        "landscape",
+        "sub",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/hacking-green-4k.mp4",
+      "name": "hacking-green-4k",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 8014318,
+      "color": "#06110d",
+      "hue": 158,
+      "light": 6,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "4k",
+        "animated",
+        "dark",
+        "green",
+        "hacking",
+        "landscape",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/matrix-rain-codes-3840x2160.mp4",
+      "name": "matrix-rain-codes-3840x2160",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 23745132,
+      "color": "#041e0b",
+      "hue": 136,
+      "light": 9,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "3840x2160",
+        "animated",
+        "codes",
+        "dark",
+        "landscape",
+        "matrix",
+        "rain",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/purple-thundercloud-moewalls-com.mp4",
+      "name": "purple-thundercloud-moewalls-com",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 9650320,
+      "color": "#331e61",
+      "hue": 259,
+      "light": 15,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "com",
+        "dark",
+        "landscape",
+        "moewalls",
+        "purple",
+        "thundercloud",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/rayquaza-flying-in-the-clouds-pokemon-moewalls-com.mp4",
+      "name": "rayquaza-flying-in-the-clouds-pokemon-moewalls-com",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 2560,
+      "h": 1080,
+      "bytes": 92441843,
+      "color": "#3e454d",
+      "hue": 212,
+      "light": 27,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "clouds",
+        "com",
+        "dark",
+        "flying",
+        "in",
+        "landscape",
+        "moewalls",
+        "pokemon",
+        "rayquaza",
+        "the",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/rayquaza-pokemon-moewalls-com.mp4",
+      "name": "rayquaza-pokemon-moewalls-com",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 94805663,
+      "color": "#595f63",
+      "hue": 204,
+      "light": 37,
+      "animated": true,
+      "tags": [
+        "4k",
+        "animated",
+        "com",
+        "dark",
+        "landscape",
+        "moewalls",
+        "pokemon",
+        "rayquaza",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/saturn-monochrome-moewalls-com.mp4",
+      "name": "saturn-monochrome-moewalls-com",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 22640175,
+      "color": "#050505",
+      "hue": 0,
+      "light": 2,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "com",
+        "dark",
+        "landscape",
+        "moewalls",
+        "monochrome",
+        "saturn",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/scp-foundation-computer-terminal.mp4",
+      "name": "scp-foundation-computer-terminal",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 77876641,
+      "color": "#141414",
+      "hue": 0,
+      "light": 8,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "computer",
+        "dark",
+        "foundation",
+        "landscape",
+        "scp",
+        "terminal",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/unknown-bleak-honeybadger.mp4",
+      "name": "unknown-bleak-honeybadger",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 9423029,
+      "color": "#1c393f",
+      "hue": 190,
+      "light": 20,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "bleak",
+        "dark",
+        "honeybadger",
+        "landscape",
+        "unknown",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/video-1.mp4",
+      "name": "video-1",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 43494335,
+      "color": "#010b00",
+      "hue": 115,
+      "light": 3,
+      "animated": true,
+      "tags": [
+        "1",
+        "1440p",
+        "animated",
+        "dark",
+        "landscape",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/dark/video.mp4",
+      "name": "video",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 39559086,
+      "color": "#090600",
+      "hue": 40,
+      "light": 2,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "dark",
+        "landscape",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/light/anime-girl-tattoos-and-orchids-moewalls-com.mp4",
       "name": "anime-girl-tattoos-and-orchids-moewalls-com",
       "category": [
-        "Animated"
+        "Animated",
+        "light"
       ],
       "w": 3440,
       "h": 1440,
@@ -21,6 +380,7 @@
         "com",
         "girl",
         "landscape",
+        "light",
         "moewalls",
         "orchids",
         "tattoos",
@@ -28,60 +388,11 @@
       ]
     },
     {
-      "path": "Wallpapers/Animated/crimson-bonsai-minimalist-moewalls-com.mp4",
-      "name": "crimson-bonsai-minimalist-moewalls-com",
-      "category": [
-        "Animated"
-      ],
-      "w": 1920,
-      "h": 1080,
-      "bytes": 24169465,
-      "color": "#1c0b07",
-      "hue": 11,
-      "light": 6,
-      "animated": true,
-      "tags": [
-        "1080p",
-        "animated",
-        "bonsai",
-        "com",
-        "crimson",
-        "landscape",
-        "minimalist",
-        "moewalls",
-        "video"
-      ]
-    },
-    {
-      "path": "Wallpapers/Animated/deltarune-forgotten-man-moewalls-com.mp4",
-      "name": "deltarune-forgotten-man-moewalls-com",
-      "category": [
-        "Animated"
-      ],
-      "w": 3840,
-      "h": 2160,
-      "bytes": 95267505,
-      "color": "#0e0405",
-      "hue": 354,
-      "light": 2,
-      "animated": true,
-      "tags": [
-        "4k",
-        "animated",
-        "com",
-        "deltarune",
-        "forgotten",
-        "landscape",
-        "man",
-        "moewalls",
-        "video"
-      ]
-    },
-    {
-      "path": "Wallpapers/Animated/infinite-pool-corridor-dreamcore-moewalls-com.mp4",
+      "path": "Wallpapers/Animated/light/infinite-pool-corridor-dreamcore-moewalls-com.mp4",
       "name": "infinite-pool-corridor-dreamcore-moewalls-com",
       "category": [
-        "Animated"
+        "Animated",
+        "light"
       ],
       "w": 2560,
       "h": 1080,
@@ -98,16 +409,18 @@
         "dreamcore",
         "infinite",
         "landscape",
+        "light",
         "moewalls",
         "pool",
         "video"
       ]
     },
     {
-      "path": "Wallpapers/Animated/iron-knight-meadow-minecraft-moewalls-com.mp4",
+      "path": "Wallpapers/Animated/light/iron-knight-meadow-minecraft-moewalls-com.mp4",
       "name": "iron-knight-meadow-minecraft-moewalls-com",
       "category": [
-        "Animated"
+        "Animated",
+        "light"
       ],
       "w": 2560,
       "h": 1440,
@@ -123,6 +436,7 @@
         "iron",
         "knight",
         "landscape",
+        "light",
         "meadow",
         "minecraft",
         "moewalls",
@@ -130,86 +444,41 @@
       ]
     },
     {
-      "path": "Wallpapers/Animated/rayquaza-flying-in-the-clouds-pokemon-moewalls-com.mp4",
-      "name": "rayquaza-flying-in-the-clouds-pokemon-moewalls-com",
+      "path": "Wallpapers/Animated/light/monkey-driving-grand-theft-auto-v-moewalls-com.mp4",
+      "name": "monkey-driving-grand-theft-auto-v-moewalls-com",
       "category": [
-        "Animated"
-      ],
-      "w": 2560,
-      "h": 1080,
-      "bytes": 92441843,
-      "color": "#3e454d",
-      "hue": 212,
-      "light": 27,
-      "animated": true,
-      "tags": [
-        "1440p",
-        "animated",
-        "clouds",
-        "com",
-        "flying",
-        "in",
-        "landscape",
-        "moewalls",
-        "pokemon",
-        "rayquaza",
-        "the",
-        "video"
-      ]
-    },
-    {
-      "path": "Wallpapers/Animated/rayquaza-pokemon-moewalls-com.mp4",
-      "name": "rayquaza-pokemon-moewalls-com",
-      "category": [
-        "Animated"
-      ],
-      "w": 3840,
-      "h": 2160,
-      "bytes": 94805663,
-      "color": "#595f63",
-      "hue": 204,
-      "light": 37,
-      "animated": true,
-      "tags": [
-        "4k",
-        "animated",
-        "com",
-        "landscape",
-        "moewalls",
-        "pokemon",
-        "rayquaza",
-        "video"
-      ]
-    },
-    {
-      "path": "Wallpapers/Animated/saturn-monochrome-moewalls-com.mp4",
-      "name": "saturn-monochrome-moewalls-com",
-      "category": [
-        "Animated"
+        "Animated",
+        "light"
       ],
       "w": 1920,
       "h": 1080,
-      "bytes": 22640175,
-      "color": "#050505",
+      "bytes": 25858640,
+      "color": "#000000",
       "hue": 0,
-      "light": 2,
+      "light": 0,
       "animated": true,
       "tags": [
         "1080p",
         "animated",
+        "auto",
         "com",
+        "driving",
+        "grand",
         "landscape",
+        "light",
         "moewalls",
-        "monochrome",
-        "saturn",
+        "monkey",
+        "theft",
+        "v",
         "video"
       ]
     },
     {
-      "path": "Wallpapers/Animated/yuta-okkotsu-chilling-jujutsu-kaisen-moewalls-com.mp4",
+      "path": "Wallpapers/Animated/light/yuta-okkotsu-chilling-jujutsu-kaisen-moewalls-com.mp4",
       "name": "yuta-okkotsu-chilling-jujutsu-kaisen-moewalls-com",
       "category": [
-        "Animated"
+        "Animated",
+        "light"
       ],
       "w": 3840,
       "h": 2160,
@@ -226,10 +495,1812 @@
         "jujutsu",
         "kaisen",
         "landscape",
+        "light",
         "moewalls",
         "okkotsu",
         "video",
         "yuta"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/china-s-great-wall-daylight-macos-sonoma-live-wallpaper.mp4",
+      "name": "china-s-great-wall-daylight-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 45126577,
+      "color": "#575a3e",
+      "hue": 66,
+      "light": 34,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "china",
+        "daylight",
+        "great",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "s",
+        "sonoma",
+        "video",
+        "wall",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/china-s-great-wall-macos-sonoma-live-wallpaper.mp4",
+      "name": "china-s-great-wall-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 56196655,
+      "color": "#5d5f4d",
+      "hue": 67,
+      "light": 37,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "china",
+        "great",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "s",
+        "sonoma",
+        "video",
+        "wall",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/china-silhouette-macos-sonoma-live-wallpaper.mp4",
+      "name": "china-silhouette-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 14919319,
+      "color": "#80704f",
+      "hue": 40,
+      "light": 44,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "china",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "silhouette",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc.mp4",
+      "name": "comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 8264155,
+      "color": "#636048",
+      "hue": 53,
+      "light": 37,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc",
+        "landscape",
+        "nature",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/grand-canyon-sunset-macos-sonoma-live-wallpaper.mp4",
+      "name": "grand-canyon-sunset-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 80548199,
+      "color": "#383434",
+      "hue": 0,
+      "light": 21,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "canyon",
+        "grand",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "sonoma",
+        "sunset",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/greenland-evening-macos-sonoma-live-wallpaper.mp4",
+      "name": "greenland-evening-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 60083447,
+      "color": "#60515a",
+      "hue": 324,
+      "light": 33,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "evening",
+        "greenland",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/liwa-horizon-macos-sonoma-live-wallpaper.mp4",
+      "name": "liwa-horizon-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 17526894,
+      "color": "#a39a8d",
+      "hue": 35,
+      "light": 61,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "horizon",
+        "landscape",
+        "live",
+        "liwa",
+        "macos",
+        "nature",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/sonoma-clouds-macos-sonoma-live-wallpaper.mp4",
+      "name": "sonoma-clouds-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 73666501,
+      "color": "#5a666f",
+      "hue": 206,
+      "light": 39,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "clouds",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/sonoma-evening-macos-sonoma-live-wallpaper.mp4",
+      "name": "sonoma-evening-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 94029584,
+      "color": "#3b4e2e",
+      "hue": 96,
+      "light": 28,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "evening",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/sonoma-from-above-macos-sonoma-live-wallpaper.mp4",
+      "name": "sonoma-from-above-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 45483659,
+      "color": "#454a48",
+      "hue": 156,
+      "light": 29,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "above",
+        "animated",
+        "from",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/nature/sonoma-river-macos-sonoma-live-wallpaper.mp4",
+      "name": "sonoma-river-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "nature"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 97268128,
+      "color": "#475961",
+      "hue": 198,
+      "light": 34,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "nature",
+        "river",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/ocean/barracuda-battery-macos-sonoma-live-wallpaper.mp4",
+      "name": "barracuda-battery-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "ocean"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 71931993,
+      "color": "#546582",
+      "hue": 218,
+      "light": 39,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "barracuda",
+        "battery",
+        "landscape",
+        "live",
+        "macos",
+        "ocean",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/ocean/palau-jellies-blue-macos-sonoma-live-wallpaper.mp4",
+      "name": "palau-jellies-blue-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "ocean"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 97228029,
+      "color": "#3e74a4",
+      "hue": 208,
+      "light": 42,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "blue",
+        "jellies",
+        "landscape",
+        "live",
+        "macos",
+        "ocean",
+        "palau",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/ocean/palau-jellies-light-macos-sonoma-live-wallpaper.mp4",
+      "name": "palau-jellies-light-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "ocean"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 84195157,
+      "color": "#939c7a",
+      "hue": 76,
+      "light": 59,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "jellies",
+        "landscape",
+        "light",
+        "live",
+        "macos",
+        "ocean",
+        "palau",
+        "sonoma",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/ocean/tahiti-coast-macos-sonoma-live-wallpaper.mp4",
+      "name": "tahiti-coast-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "ocean"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 27505639,
+      "color": "#3d88ab",
+      "hue": 199,
+      "light": 48,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "coast",
+        "landscape",
+        "live",
+        "macos",
+        "ocean",
+        "sonoma",
+        "tahiti",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/africa-macos-sonoma-live-wallpaper.mp4",
+      "name": "africa-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 62451220,
+      "color": "#6c4c3a",
+      "hue": 22,
+      "light": 32,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "africa",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/antarctica-s-southern-lights-macos-sonoma-live-wallpaper.mp4",
+      "name": "antarctica-s-southern-lights-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 12106704,
+      "color": "#070504",
+      "hue": 20,
+      "light": 2,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "antarctica",
+        "landscape",
+        "lights",
+        "live",
+        "macos",
+        "s",
+        "sonoma",
+        "southern",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/australia-macos-sonoma-live-wallpaper.mp4",
+      "name": "australia-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 9207897,
+      "color": "#2f363d",
+      "hue": 210,
+      "light": 21,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "australia",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/barracuda-battery-macos-sonoma-live-wallpaper.mp4",
+      "name": "barracuda-battery-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 71931993,
+      "color": "#546582",
+      "hue": 218,
+      "light": 39,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "barracuda",
+        "battery",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/black_hole_wp.mp4",
+      "name": "black_hole_wp",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 5932707,
+      "color": "#60656e",
+      "hue": 219,
+      "light": 39,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "black_hole_wp",
+        "landscape",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/california-macos-sonoma-live-wallpaper.mp4",
+      "name": "california-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 21907631,
+      "color": "#394e68",
+      "hue": 213,
+      "light": 30,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "california",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/caribbean-islands-macos-sonoma-live-wallpaper.mp4",
+      "name": "caribbean-islands-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 80461904,
+      "color": "#8f98af",
+      "hue": 223,
+      "light": 60,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "caribbean",
+        "islands",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/caribbean-sea-macos-sonoma-live-wallpaper.mp4",
+      "name": "caribbean-sea-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 85094957,
+      "color": "#283a68",
+      "hue": 223,
+      "light": 23,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "caribbean",
+        "landscape",
+        "live",
+        "macos",
+        "sea",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/comp_a083_c002_1130kz_v04_2k_hevc.mp4",
+      "name": "comp_a083_c002_1130kz_v04_2k_hevc",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 4398313,
+      "color": "#101a2c",
+      "hue": 219,
+      "light": 10,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "comp_a083_c002_1130kz_v04_2k_hevc",
+        "landscape",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/comp_a083_c002_1130kz_v04_sdr_ps_final_20180725_sdr_4k_hevc.mp4",
+      "name": "comp_a083_c002_1130kz_v04_sdr_ps_final_20180725_sdr_4k_hevc",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 4398313,
+      "color": "#101a2c",
+      "hue": 219,
+      "light": 10,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "comp_a083_c002_1130kz_v04_sdr_ps_final_20180725_sdr_4k_hevc",
+        "landscape",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/comp_a105_c003_0212ct_flare_v10_sdr_ps_final_20180711_sdr_4k_hevc.mp4",
+      "name": "comp_a105_c003_0212ct_flare_v10_sdr_ps_final_20180711_sdr_4k_hevc",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 34499576,
+      "color": "#0f161c",
+      "hue": 208,
+      "light": 8,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "comp_a105_c003_0212ct_flare_v10_sdr_ps_final_20180711_sdr_4k_hevc",
+        "landscape",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/east-asia-macos-sonoma-live-wallpaper.mp4",
+      "name": "east-asia-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 85867587,
+      "color": "#253b5d",
+      "hue": 216,
+      "light": 22,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "asia",
+        "east",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/europe-night-macos-sonoma-live-wallpaper.mp4",
+      "name": "europe-night-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 55627134,
+      "color": "#131013",
+      "hue": 300,
+      "light": 7,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "europe",
+        "landscape",
+        "live",
+        "macos",
+        "night",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/final.mp4",
+      "name": "final",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 39132354,
+      "color": "#2e2139",
+      "hue": 272,
+      "light": 15,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "final",
+        "landscape",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/gargantua-live-wallpaper-mylivewallpapers.com.mp4",
+      "name": "gargantua-live-wallpaper-mylivewallpapers.com",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 6484898,
+      "color": "#3b3633",
+      "hue": 22,
+      "light": 22,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "gargantua",
+        "landscape",
+        "live",
+        "mylivewallpapers.com",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/img_5099.mp4",
+      "name": "img_5099",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 5396032,
+      "color": "#3f4440",
+      "hue": 132,
+      "light": 26,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "img_5099",
+        "landscape",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/loop.mp4",
+      "name": "loop",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 67439866,
+      "color": "#090a15",
+      "hue": 235,
+      "light": 4,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "loop",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/middle-east-macos-sonoma-live-wallpaper.mp4",
+      "name": "middle-east-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 6268294,
+      "color": "#101a2c",
+      "hue": 219,
+      "light": 10,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "east",
+        "landscape",
+        "live",
+        "macos",
+        "middle",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/mylivewallpapers-com-mega-black-hole-4k.mp4",
+      "name": "mylivewallpapers-com-mega-black-hole-4k",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 4193350,
+      "color": "#433e32",
+      "hue": 42,
+      "light": 24,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "4k",
+        "animated",
+        "black",
+        "com",
+        "hole",
+        "landscape",
+        "mega",
+        "mylivewallpapers",
+        "space",
+        "video"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/new-york-macos-sonoma-live-wallpaper.mp4",
+      "name": "new-york-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 87203063,
+      "color": "#35414d",
+      "hue": 210,
+      "light": 25,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "new",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper",
+        "york"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/new-zealand-macos-sonoma-live-wallpaper.mp4",
+      "name": "new-zealand-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 40805158,
+      "color": "#0f161d",
+      "hue": 210,
+      "light": 8,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "new",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper",
+        "zealand"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/nile-delta-macos-sonoma-live-wallpaper.mp4",
+      "name": "nile-delta-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 86942270,
+      "color": "#7e849b",
+      "hue": 228,
+      "light": 52,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "delta",
+        "landscape",
+        "live",
+        "macos",
+        "nile",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/north-africa-macos-sonoma-live-wallpaper.mp4",
+      "name": "north-africa-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 53020622,
+      "color": "#575162",
+      "hue": 261,
+      "light": 33,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "africa",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "north",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/north-america-aurora-macos-sonoma-live-wallpaper.mp4",
+      "name": "north-america-aurora-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 55063137,
+      "color": "#0a0708",
+      "hue": 340,
+      "light": 3,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "america",
+        "animated",
+        "aurora",
+        "landscape",
+        "live",
+        "macos",
+        "north",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/north-atlantic-macos-sonoma-live-wallpaper.mp4",
+      "name": "north-atlantic-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 34888348,
+      "color": "#3b4858",
+      "hue": 213,
+      "light": 28,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "atlantic",
+        "landscape",
+        "live",
+        "macos",
+        "north",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/sahara-macos-sonoma-live-wallpaper.mp4",
+      "name": "sahara-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 62109582,
+      "color": "#565057",
+      "hue": 291,
+      "light": 32,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "sahara",
+        "sonoma",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/south-africa-macos-sonoma-live-wallpaper.mp4",
+      "name": "south-africa-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 94850624,
+      "color": "#3a455b",
+      "hue": 220,
+      "light": 27,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "africa",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "south",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/southern-california-macos-sonoma-live-wallpaper.mp4",
+      "name": "southern-california-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 83208096,
+      "color": "#6a6f85",
+      "hue": 229,
+      "light": 44,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "california",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "southern",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/space/southern-europe-night-macos-sonoma-live-wallpaper.mp4",
+      "name": "southern-europe-night-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "space"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 28290681,
+      "color": "#1d1824",
+      "hue": 265,
+      "light": 10,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "europe",
+        "landscape",
+        "live",
+        "macos",
+        "night",
+        "sonoma",
+        "southern",
+        "space",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/dubai-skyline-macos-sonoma-live-wallpaper.mp4",
+      "name": "dubai-skyline-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 25860358,
+      "color": "#8f788c",
+      "hue": 308,
+      "light": 50,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "dubai",
+        "landscape",
+        "live",
+        "macos",
+        "skyline",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/hong-kong-horizon-macos-sonoma-live-wallpaper.mp4",
+      "name": "hong-kong-horizon-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 67092797,
+      "color": "#466274",
+      "hue": 203,
+      "light": 37,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "hong",
+        "horizon",
+        "kong",
+        "landscape",
+        "live",
+        "macos",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/london-evening-macos-sonoma-live-wallpaper.mp4",
+      "name": "london-evening-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 47100237,
+      "color": "#806c54",
+      "hue": 33,
+      "light": 43,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "evening",
+        "landscape",
+        "live",
+        "london",
+        "macos",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/london-skyline-macos-sonoma-live-wallpaper.mp4",
+      "name": "london-skyline-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 95468528,
+      "color": "#5b5a56",
+      "hue": 48,
+      "light": 35,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "london",
+        "macos",
+        "skyline",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/london-thames-macos-sonoma-live-wallpaper.mp4",
+      "name": "london-thames-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 99836807,
+      "color": "#37373a",
+      "hue": 240,
+      "light": 22,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "london",
+        "macos",
+        "sonoma",
+        "thames",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/los-angeles-hills-macos-sonoma-live-wallpaper.mp4",
+      "name": "los-angeles-hills-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 54382029,
+      "color": "#554c52",
+      "hue": 320,
+      "light": 31,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "angeles",
+        "animated",
+        "hills",
+        "landscape",
+        "live",
+        "los",
+        "macos",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/los-angeles-overpass-macos-sonoma-live-wallpaper.mp4",
+      "name": "los-angeles-overpass-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 71666503,
+      "color": "#69736b",
+      "hue": 132,
+      "light": 44,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "angeles",
+        "animated",
+        "landscape",
+        "live",
+        "los",
+        "macos",
+        "overpass",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/los-angeles-sunset-macos-sonoma-live-wallpaper.mp4",
+      "name": "los-angeles-sunset-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 13790083,
+      "color": "#5a4345",
+      "hue": 355,
+      "light": 28,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "angeles",
+        "animated",
+        "landscape",
+        "live",
+        "los",
+        "macos",
+        "sonoma",
+        "sunset",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/new-york-midtown-macos-sonoma-live-wallpaper.mp4",
+      "name": "new-york-midtown-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 76173556,
+      "color": "#777879",
+      "hue": 210,
+      "light": 47,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "midtown",
+        "new",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper",
+        "york"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/new-york-night-macos-sonoma-live-wallpaper.mp4",
+      "name": "new-york-night-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 76334782,
+      "color": "#0d0c04",
+      "hue": 53,
+      "light": 5,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "new",
+        "night",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper",
+        "york"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/new-york-skyline-macos-sonoma-live-wallpaper.mp4",
+      "name": "new-york-skyline-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 28745233,
+      "color": "#9d9183",
+      "hue": 32,
+      "light": 57,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "landscape",
+        "live",
+        "macos",
+        "new",
+        "skyline",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper",
+        "york"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/san-francisco-bay-macos-sonoma-live-wallpaper.mp4",
+      "name": "san-francisco-bay-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 91241526,
+      "color": "#7c8a8a",
+      "hue": 180,
+      "light": 53,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "bay",
+        "francisco",
+        "landscape",
+        "live",
+        "macos",
+        "san",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/san-francisco-evening-macos-sonoma-live-wallpaper.mp4",
+      "name": "san-francisco-evening-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 37217014,
+      "color": "#73654b",
+      "hue": 39,
+      "light": 40,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "evening",
+        "francisco",
+        "landscape",
+        "live",
+        "macos",
+        "san",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/san-francisco-s-ferry-building-macos-sonoma-live-wallpaper.mp4",
+      "name": "san-francisco-s-ferry-building-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 55929426,
+      "color": "#5b4d49",
+      "hue": 13,
+      "light": 31,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "building",
+        "ferry",
+        "francisco",
+        "landscape",
+        "live",
+        "macos",
+        "s",
+        "san",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/towns/san-francisco-s-golden-gate-bridge-macos-sonoma-live-wallpaper.mp4",
+      "name": "san-francisco-s-golden-gate-bridge-macos-sonoma-live-wallpaper",
+      "category": [
+        "Animated",
+        "towns"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 99745494,
+      "color": "#293231",
+      "hue": 173,
+      "light": 19,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "bridge",
+        "francisco",
+        "gate",
+        "golden",
+        "landscape",
+        "live",
+        "macos",
+        "s",
+        "san",
+        "sonoma",
+        "towns",
+        "video",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/videogames/doom/psx-playstation-doom-fire-loop.mp4",
+      "name": "psx-playstation-doom-fire-loop",
+      "category": [
+        "Animated",
+        "videogames",
+        "doom"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 12466058,
+      "color": "#270500",
+      "hue": 8,
+      "light": 5,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "doom",
+        "fire",
+        "landscape",
+        "loop",
+        "playstation",
+        "psx",
+        "video",
+        "videogames"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/videogames/minecraft/minecraft-soothing-scenes-relaxing-aquarium.mp4",
+      "name": "minecraft-soothing-scenes-relaxing-aquarium",
+      "category": [
+        "Animated",
+        "videogames",
+        "minecraft"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 50446705,
+      "color": "#447aa8",
+      "hue": 208,
+      "light": 45,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "aquarium",
+        "landscape",
+        "minecraft",
+        "relaxing",
+        "scenes",
+        "soothing",
+        "video",
+        "videogames"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/videogames/minecraft/minecraft-soothing-scenes-relaxing-falling-snow.mp4",
+      "name": "minecraft-soothing-scenes-relaxing-falling-snow",
+      "category": [
+        "Animated",
+        "videogames",
+        "minecraft"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 92478735,
+      "color": "#544f60",
+      "hue": 258,
+      "light": 32,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "falling",
+        "landscape",
+        "minecraft",
+        "relaxing",
+        "scenes",
+        "snow",
+        "soothing",
+        "video",
+        "videogames"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/videogames/minecraft/minecraft-soothing-scenes-relaxing-fireplace.mp4",
+      "name": "minecraft-soothing-scenes-relaxing-fireplace",
+      "category": [
+        "Animated",
+        "videogames",
+        "minecraft"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 19288344,
+      "color": "#632c14",
+      "hue": 18,
+      "light": 21,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "fireplace",
+        "landscape",
+        "minecraft",
+        "relaxing",
+        "scenes",
+        "soothing",
+        "video",
+        "videogames"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/videogames/minecraft/minecraft-soothing-scenes-relaxing-rainy-swamp.mp4",
+      "name": "minecraft-soothing-scenes-relaxing-rainy-swamp",
+      "category": [
+        "Animated",
+        "videogames",
+        "minecraft"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 30269373,
+      "color": "#344139",
+      "hue": 143,
+      "light": 24,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "landscape",
+        "minecraft",
+        "rainy",
+        "relaxing",
+        "scenes",
+        "soothing",
+        "swamp",
+        "video",
+        "videogames"
+      ]
+    },
+    {
+      "path": "Wallpapers/Animated/videogames/tf2/b-roll-short-tf2-architecture-shots.mp4",
+      "name": "b-roll-short-tf2-architecture-shots",
+      "category": [
+        "Animated",
+        "videogames",
+        "tf2"
+      ],
+      "w": 1280,
+      "h": 720,
+      "bytes": 68662533,
+      "color": "#000000",
+      "hue": 0,
+      "light": 0,
+      "animated": true,
+      "tags": [
+        "animated",
+        "architecture",
+        "b",
+        "landscape",
+        "roll",
+        "short",
+        "shots",
+        "tf2",
+        "video",
+        "videogames"
       ]
     },
     {
@@ -252,6 +2323,27 @@
         "blue",
         "chick",
         "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/emesteve.png",
+      "name": "emesteve",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 677,
+      "h": 414,
+      "bytes": 209429,
+      "color": "#0d76aa",
+      "hue": 200,
+      "light": 39,
+      "animated": false,
+      "tags": [
+        "blue",
+        "desktop",
+        "emesteve",
         "landscape"
       ]
     },
@@ -685,6 +2777,28 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Dark/macchiato.png",
+      "name": "macchiato",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 2559,
+      "h": 1439,
+      "bytes": 311370,
+      "color": "#2c2a39",
+      "hue": 248,
+      "light": 17,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "dark",
+        "desktop",
+        "landscape",
+        "macchiato"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Dark/manga-samurai.png",
       "name": "manga-samurai",
       "category": [
@@ -754,6 +2868,118 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Dark/vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg",
+      "name": "vhs-glitch-aesthetic-abstract-desktop-wallpaper",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 3908659,
+      "color": "#343d55",
+      "hue": 224,
+      "light": 24,
+      "animated": false,
+      "tags": [
+        "4k",
+        "abstract",
+        "aesthetic",
+        "dark",
+        "desktop",
+        "glitch",
+        "landscape",
+        "vhs",
+        "wallpaper"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/3840x2160-arch-linux-vhs-glitch-regular-and-black-inverted-v0-5bfd9b5l2kmf1.png",
+      "name": "3840x2160-arch-linux-vhs-glitch-regular-and-black-inverted-v0-5bfd9b5l2kmf1",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 11355564,
+      "color": "#313950",
+      "hue": 225,
+      "light": 22,
+      "animated": false,
+      "tags": [
+        "3840x2160",
+        "4k",
+        "5bfd9b5l2kmf1",
+        "and",
+        "arch",
+        "black",
+        "desktop",
+        "distro",
+        "glitch",
+        "inverted",
+        "landscape",
+        "linux",
+        "regular",
+        "v0",
+        "vhs"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/4k-arch-planet.png",
+      "name": "4k-arch-planet",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 4667675,
+      "color": "#2b2616",
+      "hue": 46,
+      "light": 15,
+      "animated": false,
+      "tags": [
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "planet"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/a37ae0b9-bf58-44a0-8e26-8f1584154513_archlinux-wallpapers-for-desktop.jpg",
+      "name": "a37ae0b9-bf58-44a0-8e26-8f1584154513_archlinux-wallpapers-for-desktop",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 780,
+      "h": 439,
+      "bytes": 10180,
+      "color": "#131c28",
+      "hue": 214,
+      "light": 11,
+      "animated": false,
+      "tags": [
+        "44a0",
+        "8e26",
+        "8f1584154513_archlinux",
+        "a37ae0b9",
+        "arch",
+        "bf58",
+        "desktop",
+        "distro",
+        "for",
+        "landscape",
+        "wallpapers"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Distro/Arch/arch-areo.jpg",
       "name": "arch-areo",
       "category": [
@@ -798,6 +3024,30 @@
         "bw",
         "desktop",
         "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-kde.png",
+      "name": "arch-kde",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 6024,
+      "h": 3401,
+      "bytes": 389627,
+      "color": "#0e1931",
+      "hue": 221,
+      "light": 10,
+      "animated": false,
+      "tags": [
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "kde",
         "landscape"
       ]
     },
@@ -971,6 +3221,30 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch_nz.png",
+      "name": "arch_nz",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 424254,
+      "color": "#17536c",
+      "hue": 198,
+      "light": 28,
+      "animated": false,
+      "tags": [
+        "4k",
+        "arch",
+        "arch_nz",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Distro/Arch/arch_purple.png",
       "name": "arch_purple",
       "category": [
@@ -995,6 +3269,54 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Distro/Arch/archbtw.png",
+      "name": "archbtw",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 5120,
+      "h": 3475,
+      "bytes": 376279,
+      "color": "#151414",
+      "hue": 0,
+      "light": 8,
+      "animated": false,
+      "tags": [
+        "4k",
+        "arch",
+        "archbtw",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/archglich.png",
+      "name": "archglich",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 1335372,
+      "color": "#98497e",
+      "hue": 320,
+      "light": 37,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "arch",
+        "archglich",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Distro/Arch/archgrey.png",
       "name": "archgrey",
       "category": [
@@ -1013,6 +3335,30 @@
         "1440p",
         "arch",
         "archgrey",
+        "desktop",
+        "distro",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/archtv.png",
+      "name": "archtv",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 993875,
+      "color": "#232c32",
+      "hue": 204,
+      "light": 17,
+      "animated": false,
+      "tags": [
+        "4k",
+        "arch",
+        "archtv",
         "desktop",
         "distro",
         "landscape"
