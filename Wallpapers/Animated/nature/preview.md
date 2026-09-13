@@ -7,7 +7,7 @@ A collection of nature themed desktop wallpapers.
 | *animated wallpaper* | [china-s-great-wall-daylight-macos-sonoma-live-wallpaper.mp4](china-s-great-wall-daylight-macos-sonoma-live-wallpaper.mp4) |
 | *animated wallpaper* | [china-s-great-wall-macos-sonoma-live-wallpaper.mp4](china-s-great-wall-macos-sonoma-live-wallpaper.mp4) |
 | *animated wallpaper* | [china-silhouette-macos-sonoma-live-wallpaper.mp4](china-silhouette-macos-sonoma-live-wallpaper.mp4) |
-| *animated wallpaper* | [comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc.mp4](comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc.mp4) |
+| *animated wallpaper* | [comp-h004-c007-ps-v02-sdr-ps-20180925-sdr-4k-hevc.mp4](comp-h004-c007-ps-v02-sdr-ps-20180925-sdr-4k-hevc.mp4) |
 | *animated wallpaper* | [grand-canyon-sunset-macos-sonoma-live-wallpaper.mp4](grand-canyon-sunset-macos-sonoma-live-wallpaper.mp4) |
 | *animated wallpaper* | [greenland-evening-macos-sonoma-live-wallpaper.mp4](greenland-evening-macos-sonoma-live-wallpaper.mp4) |
 | *animated wallpaper* | [liwa-horizon-macos-sonoma-live-wallpaper.mp4](liwa-horizon-macos-sonoma-live-wallpaper.mp4) |

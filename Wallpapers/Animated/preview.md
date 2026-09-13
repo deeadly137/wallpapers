@@ -9,3 +9,8 @@ Video wallpapers (mp4/webm) that loop as your desktop background.
 - [space](space/preview.md)
 - [towns](towns/preview.md)
 - [videogames](videogames/preview.md)
+
+| Preview | File |
+| --- | --- |
+| *animated wallpaper* | [monochrome-death-animated.mp4](monochrome-death-animated.mp4) |
+| *animated wallpaper* | [wp4.mp4](wp4.mp4) |
