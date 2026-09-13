@@ -233,6 +233,137 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Blue/AkazaEyes.jpg",
+      "name": "AkazaEyes",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 1539772,
+      "color": "#3565ab",
+      "hue": 216,
+      "light": 38,
+      "animated": false,
+      "tags": [
+        "4k",
+        "akazaeyes",
+        "blue",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/BlueNebula.png",
+      "name": "BlueNebula",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 15802994,
+      "color": "#191f29",
+      "hue": 218,
+      "light": 12,
+      "animated": false,
+      "tags": [
+        "4k",
+        "blue",
+        "bluenebula",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/BlueSpace.png",
+      "name": "BlueSpace",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 6999422,
+      "color": "#053755",
+      "hue": 202,
+      "light": 18,
+      "animated": false,
+      "tags": [
+        "4k",
+        "blue",
+        "bluespace",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/EvaWLonginus.webp",
+      "name": "EvaWLonginus",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 1477,
+      "h": 861,
+      "bytes": 64784,
+      "color": "#454d59",
+      "hue": 216,
+      "light": 30,
+      "animated": false,
+      "tags": [
+        "blue",
+        "desktop",
+        "evawlonginus",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/FlyingMan.jpg",
+      "name": "FlyingMan",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 2048,
+      "h": 1228,
+      "bytes": 123232,
+      "color": "#3c4452",
+      "hue": 218,
+      "light": 26,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "blue",
+        "desktop",
+        "flyingman",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/SamuraiStrike.jpg",
+      "name": "SamuraiStrike",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 1802463,
+      "color": "#4c6375",
+      "hue": 206,
+      "light": 37,
+      "animated": false,
+      "tags": [
+        "4k",
+        "blue",
+        "desktop",
+        "landscape",
+        "samuraistrike"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Blue/anime-chick.jpg",
       "name": "anime-chick",
       "category": [
@@ -252,6 +383,72 @@
         "blue",
         "chick",
         "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/astronautBlue.png",
+      "name": "astronautBlue",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 1997251,
+      "color": "#43536b",
+      "hue": 216,
+      "light": 32,
+      "animated": false,
+      "tags": [
+        "4k",
+        "astronautblue",
+        "blue",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/clouds.jpg",
+      "name": "clouds",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 4821,
+      "h": 2712,
+      "bytes": 963407,
+      "color": "#3e5671",
+      "hue": 212,
+      "light": 32,
+      "animated": false,
+      "tags": [
+        "4k",
+        "blue",
+        "clouds",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/eva1.jpg",
+      "name": "eva1",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 1026962,
+      "color": "#5c727d",
+      "hue": 200,
+      "light": 43,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "blue",
+        "desktop",
+        "eva1",
         "landscape"
       ]
     },
@@ -321,6 +518,49 @@
         "desktop",
         "japan3",
         "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/reiRebuild.jpg",
+      "name": "reiRebuild",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 2205,
+      "h": 1215,
+      "bytes": 966778,
+      "color": "#5e6769",
+      "hue": 191,
+      "light": 40,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "blue",
+        "desktop",
+        "landscape",
+        "reirebuild"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Blue/tojikid.jpg",
+      "name": "tojikid",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 1565,
+      "h": 964,
+      "bytes": 611220,
+      "color": "#5a7583",
+      "hue": 200,
+      "light": 44,
+      "animated": false,
+      "tags": [
+        "blue",
+        "desktop",
+        "landscape",
+        "tojikid"
       ]
     },
     {
@@ -1655,6 +1895,116 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Green/BotanicGardenJapan.png",
+      "name": "BotanicGardenJapan",
+      "category": [
+        "Desktop",
+        "Green"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 4177456,
+      "color": "#586138",
+      "hue": 73,
+      "light": 36,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "botanicgardenjapan",
+        "desktop",
+        "green",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Green/aurora.png",
+      "name": "aurora",
+      "category": [
+        "Desktop",
+        "Green"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 3633080,
+      "color": "#103127",
+      "hue": 162,
+      "light": 16,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "aurora",
+        "desktop",
+        "green",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Green/cabinInTheWoods.jpg",
+      "name": "cabinInTheWoods",
+      "category": [
+        "Desktop",
+        "Green"
+      ],
+      "w": 4627,
+      "h": 2603,
+      "bytes": 2970830,
+      "color": "#22231b",
+      "hue": 68,
+      "light": 13,
+      "animated": false,
+      "tags": [
+        "4k",
+        "cabininthewoods",
+        "desktop",
+        "green",
+        "landscape"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Green/lonelylodge.jpeg",
+      "name": "lonelylodge",
+      "category": [
+        "Desktop",
+        "Green"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 1064639,
+      "color": "#606247",
+      "hue": 64,
+      "light": 38,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "green",
+        "landscape",
+        "lonelylodge"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Green/thelastofus.jpg",
+      "name": "thelastofus",
+      "category": [
+        "Desktop",
+        "Green"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 4798292,
+      "color": "#35372f",
+      "hue": 75,
+      "light": 21,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "green",
+        "landscape",
+        "thelastofus"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Pink/acrylic.jpg",
       "name": "acrylic",
       "category": [
@@ -1719,6 +2069,182 @@
         "desktop",
         "landscape",
         "purple"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/kurzgesagt.png",
+      "name": "kurzgesagt",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 2384279,
+      "color": "#3f2140",
+      "hue": 298,
+      "light": 16,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "kurzgesagt",
+        "landscape",
+        "purple"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/naoyaPunching.png",
+      "name": "naoyaPunching",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 14570359,
+      "color": "#463751",
+      "hue": 275,
+      "light": 24,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "landscape",
+        "naoyapunching",
+        "purple"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/purpleSpace.jpg",
+      "name": "purpleSpace",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 491178,
+      "color": "#161019",
+      "hue": 280,
+      "light": 7,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "desktop",
+        "landscape",
+        "purple",
+        "purplespace"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/Alone.jpg",
+      "name": "Alone",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 374774,
+      "color": "#301507",
+      "hue": 20,
+      "light": 10,
+      "animated": false,
+      "tags": [
+        "1440p",
+        "alone",
+        "desktop",
+        "landscape",
+        "red-orange"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/RedEvaU1.jpg",
+      "name": "RedEvaU1",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 1920,
+      "h": 975,
+      "bytes": 1378738,
+      "color": "#672c23",
+      "hue": 8,
+      "light": 22,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "desktop",
+        "landscape",
+        "red-orange",
+        "redevau1"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/RedNge.jpg",
+      "name": "RedNge",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 2038,
+      "h": 1147,
+      "bytes": 85670,
+      "color": "#4f373e",
+      "hue": 342,
+      "light": 24,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "desktop",
+        "landscape",
+        "red-orange",
+        "rednge"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/RedSpace.png",
+      "name": "RedSpace",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 6583254,
+      "color": "#432827",
+      "hue": 2,
+      "light": 18,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "landscape",
+        "red-orange",
+        "redspace"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Red-Orange/chosoJjk.png",
+      "name": "chosoJjk",
+      "category": [
+        "Desktop",
+        "Red-Orange"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 17534598,
+      "color": "#856a66",
+      "hue": 8,
+      "light": 44,
+      "animated": false,
+      "tags": [
+        "4k",
+        "chosojjk",
+        "desktop",
+        "landscape",
+        "red-orange"
       ]
     },
     {
