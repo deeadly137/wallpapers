@@ -6,6 +6,8 @@ on:
     paths:
       - "Wallpapers/**"
       - "scripts/**"
+      - ".github/workflows/regenerate.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write
