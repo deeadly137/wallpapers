@@ -16,11 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: install imagemagick
+      - name: install imagemagick and ffmpeg
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq imagemagick
+          sudo apt-get install -y -qq imagemagick ffmpeg
           identify -version
+          ffprobe -version
 
       - name: regenerate previews and site data
         run: |
