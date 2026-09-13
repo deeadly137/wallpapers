@@ -155,6 +155,30 @@
       ]
     },
     {
+      "path": "Wallpapers/Animated/dark/monochrome-death-animated.mp4",
+      "name": "monochrome-death-animated",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 3840,
+      "h": 1620,
+      "bytes": 92730846,
+      "color": "#282729",
+      "hue": 270,
+      "light": 15,
+      "animated": true,
+      "tags": [
+        "4k",
+        "animated",
+        "dark",
+        "death",
+        "landscape",
+        "monochrome",
+        "video"
+      ]
+    },
+    {
       "path": "Wallpapers/Animated/dark/purple-thundercloud-moewalls-com.mp4",
       "name": "purple-thundercloud-moewalls-com",
       "category": [
@@ -359,6 +383,29 @@
       ]
     },
     {
+      "path": "Wallpapers/Animated/dark/wp4.mp4",
+      "name": "wp4",
+      "category": [
+        "Animated",
+        "dark"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 31713375,
+      "color": "#0c0c0c",
+      "hue": 0,
+      "light": 5,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "dark",
+        "landscape",
+        "video",
+        "wp4"
+      ]
+    },
+    {
       "path": "Wallpapers/Animated/light/anime-girl-tattoos-and-orchids-moewalls-com.mp4",
       "name": "anime-girl-tattoos-and-orchids-moewalls-com",
       "category": [
@@ -500,28 +547,6 @@
         "okkotsu",
         "video",
         "yuta"
-      ]
-    },
-    {
-      "path": "Wallpapers/Animated/monochrome-death-animated.mp4",
-      "name": "monochrome-death-animated",
-      "category": [
-        "Animated"
-      ],
-      "w": 3840,
-      "h": 1620,
-      "bytes": 92730846,
-      "color": "#282729",
-      "hue": 270,
-      "light": 15,
-      "animated": true,
-      "tags": [
-        "4k",
-        "animated",
-        "death",
-        "landscape",
-        "monochrome",
-        "video"
       ]
     },
     {
@@ -2362,27 +2387,6 @@
         "tf2",
         "video",
         "videogames"
-      ]
-    },
-    {
-      "path": "Wallpapers/Animated/wp4.mp4",
-      "name": "wp4",
-      "category": [
-        "Animated"
-      ],
-      "w": 1920,
-      "h": 1080,
-      "bytes": 31713375,
-      "color": "#0c0c0c",
-      "hue": 0,
-      "light": 5,
-      "animated": true,
-      "tags": [
-        "1080p",
-        "animated",
-        "landscape",
-        "video",
-        "wp4"
       ]
     },
     {
