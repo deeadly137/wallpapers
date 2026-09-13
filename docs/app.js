@@ -471,7 +471,6 @@ let uploadFile = null;
 let uploadColor = "#33314b";
 let uploadSuggestion = "Desktop/Dark";
 let uploadName = "";
-let uploadLink = "";
 
 const ATTACH_LIMIT = 10 * 1024 * 1024;
 
@@ -526,9 +525,6 @@ function initUpload() {
   });
   $("copy-issue-btn").addEventListener("click", copyIssue);
   $("open-issue-btn").addEventListener("click", openIssue);
-  $("host-link").addEventListener("input", () => {
-    uploadLink = $("host-link").value.trim();
-  });
 }
 
 function handleFile(file) {
@@ -575,8 +571,6 @@ function handleFile(file) {
 
     $("upload-preview").hidden = false;
 
-    uploadLink = "";
-    $("host-link").value = "";
     $("oversize").hidden = file.size <= ATTACH_LIMIT;
   };
   if (isVideo) {
@@ -601,11 +595,10 @@ function issueText() {
   ];
   if (uploadFile && uploadFile.type.startsWith("video/"))
     lines.push("- **animated:** yes (video wallpaper, mp4/webm)");
-  if (uploadLink) lines.push(`- **download link:** ${uploadLink}`);
   lines.push("");
-  if (oversized && !uploadLink)
+  if (oversized)
     lines.push(
-      "this file is over the 10 MB issue attachment limit — ask the uploader for a hosted link (catbox.moe etc.) or a pull request.",
+      "this file is over the 10 MB issue attachment limit — please add it through a pull request instead: fork, upload into Wallpapers/<category>/, open the PR. see CONTRIBUTING.md.",
     );
   else
     lines.push(
