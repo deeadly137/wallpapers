@@ -503,6 +503,28 @@
       ]
     },
     {
+      "path": "Wallpapers/Animated/monochrome-death-animated.mp4",
+      "name": "monochrome-death-animated",
+      "category": [
+        "Animated"
+      ],
+      "w": 3840,
+      "h": 1620,
+      "bytes": 92730846,
+      "color": "#282729",
+      "hue": 270,
+      "light": 15,
+      "animated": true,
+      "tags": [
+        "4k",
+        "animated",
+        "death",
+        "landscape",
+        "monochrome",
+        "video"
+      ]
+    },
+    {
       "path": "Wallpapers/Animated/nature/china-s-great-wall-daylight-macos-sonoma-live-wallpaper.mp4",
       "name": "china-s-great-wall-daylight-macos-sonoma-live-wallpaper",
       "category": [
@@ -592,8 +614,8 @@
       ]
     },
     {
-      "path": "Wallpapers/Animated/nature/comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc.mp4",
-      "name": "comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc",
+      "path": "Wallpapers/Animated/nature/comp-h004-c007-ps-v02-sdr-ps-20180925-sdr-4k-hevc.mp4",
+      "name": "comp-h004-c007-ps-v02-sdr-ps-20180925-sdr-4k-hevc",
       "category": [
         "Animated",
         "nature"
@@ -607,10 +629,18 @@
       "animated": true,
       "tags": [
         "1440p",
+        "20180925",
+        "4k",
         "animated",
-        "comp_h004_c007_ps_v02_sdr_ps_20180925_sdr_4k_hevc",
+        "c007",
+        "comp",
+        "h004",
+        "hevc",
         "landscape",
         "nature",
+        "ps",
+        "sdr",
+        "v02",
         "video"
       ]
     },
@@ -1035,8 +1065,8 @@
       ]
     },
     {
-      "path": "Wallpapers/Animated/space/black_hole_wp.mp4",
-      "name": "black_hole_wp",
+      "path": "Wallpapers/Animated/space/black-hole-wp.mp4",
+      "name": "black-hole-wp",
       "category": [
         "Animated",
         "space"
@@ -1051,10 +1081,12 @@
       "tags": [
         "1440p",
         "animated",
-        "black_hole_wp",
+        "black",
+        "hole",
         "landscape",
         "space",
-        "video"
+        "video",
+        "wp"
       ]
     },
     {
@@ -1141,8 +1173,8 @@
       ]
     },
     {
-      "path": "Wallpapers/Animated/space/comp_a083_c002_1130kz_v04_2k_hevc.mp4",
-      "name": "comp_a083_c002_1130kz_v04_2k_hevc",
+      "path": "Wallpapers/Animated/space/comp-a083-c002-1130kz-v04-2k-hevc.mp4",
+      "name": "comp-a083-c002-1130kz-v04-2k-hevc",
       "category": [
         "Animated",
         "space"
@@ -1155,17 +1187,23 @@
       "light": 10,
       "animated": true,
       "tags": [
+        "1130kz",
         "1440p",
+        "2k",
+        "a083",
         "animated",
-        "comp_a083_c002_1130kz_v04_2k_hevc",
+        "c002",
+        "comp",
+        "hevc",
         "landscape",
         "space",
+        "v04",
         "video"
       ]
     },
     {
-      "path": "Wallpapers/Animated/space/comp_a083_c002_1130kz_v04_sdr_ps_final_20180725_sdr_4k_hevc.mp4",
-      "name": "comp_a083_c002_1130kz_v04_sdr_ps_final_20180725_sdr_4k_hevc",
+      "path": "Wallpapers/Animated/space/comp-a083-c002-1130kz-v04-sdr-ps-final-20180725-sdr-4k-hevc.mp4",
+      "name": "comp-a083-c002-1130kz-v04-sdr-ps-final-20180725-sdr-4k-hevc",
       "category": [
         "Animated",
         "space"
@@ -1178,17 +1216,27 @@
       "light": 10,
       "animated": true,
       "tags": [
+        "1130kz",
         "1440p",
+        "20180725",
+        "4k",
+        "a083",
         "animated",
-        "comp_a083_c002_1130kz_v04_sdr_ps_final_20180725_sdr_4k_hevc",
+        "c002",
+        "comp",
+        "final",
+        "hevc",
         "landscape",
+        "ps",
+        "sdr",
         "space",
+        "v04",
         "video"
       ]
     },
     {
-      "path": "Wallpapers/Animated/space/comp_a105_c003_0212ct_flare_v10_sdr_ps_final_20180711_sdr_4k_hevc.mp4",
-      "name": "comp_a105_c003_0212ct_flare_v10_sdr_ps_final_20180711_sdr_4k_hevc",
+      "path": "Wallpapers/Animated/space/comp-a105-c003-0212ct-flare-v10-sdr-ps-final-20180711-sdr-4k-hevc.mp4",
+      "name": "comp-a105-c003-0212ct-flare-v10-sdr-ps-final-20180711-sdr-4k-hevc",
       "category": [
         "Animated",
         "space"
@@ -1201,11 +1249,22 @@
       "light": 8,
       "animated": true,
       "tags": [
+        "0212ct",
         "1440p",
+        "20180711",
+        "4k",
+        "a105",
         "animated",
-        "comp_a105_c003_0212ct_flare_v10_sdr_ps_final_20180711_sdr_4k_hevc",
+        "c003",
+        "comp",
+        "final",
+        "flare",
+        "hevc",
         "landscape",
+        "ps",
+        "sdr",
         "space",
+        "v10",
         "video"
       ]
     },
@@ -1289,8 +1348,8 @@
       ]
     },
     {
-      "path": "Wallpapers/Animated/space/gargantua-live-wallpaper-mylivewallpapers.com.mp4",
-      "name": "gargantua-live-wallpaper-mylivewallpapers.com",
+      "path": "Wallpapers/Animated/space/gargantua-live-wallpaper-mylivewallpapers-com.mp4",
+      "name": "gargantua-live-wallpaper-mylivewallpapers-com",
       "category": [
         "Animated",
         "space"
@@ -1305,18 +1364,19 @@
       "tags": [
         "1440p",
         "animated",
+        "com",
         "gargantua",
         "landscape",
         "live",
-        "mylivewallpapers.com",
+        "mylivewallpapers",
         "space",
         "video",
         "wallpaper"
       ]
     },
     {
-      "path": "Wallpapers/Animated/space/img_5099.mp4",
-      "name": "img_5099",
+      "path": "Wallpapers/Animated/space/img-5099.mp4",
+      "name": "img-5099",
       "category": [
         "Animated",
         "space"
@@ -1330,8 +1390,9 @@
       "animated": true,
       "tags": [
         "1440p",
+        "5099",
         "animated",
-        "img_5099",
+        "img",
         "landscape",
         "space",
         "video"
@@ -2304,6 +2365,27 @@
       ]
     },
     {
+      "path": "Wallpapers/Animated/wp4.mp4",
+      "name": "wp4",
+      "category": [
+        "Animated"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 31713375,
+      "color": "#0c0c0c",
+      "hue": 0,
+      "light": 5,
+      "animated": true,
+      "tags": [
+        "1080p",
+        "animated",
+        "landscape",
+        "video",
+        "wp4"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Blue/anime-chick.jpg",
       "name": "anime-chick",
       "category": [
@@ -2822,6 +2904,29 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Dark/monochrome-death.png",
+      "name": "monochrome-death",
+      "category": [
+        "Desktop",
+        "Dark"
+      ],
+      "w": 4000,
+      "h": 1684,
+      "bytes": 3629251,
+      "color": "#232324",
+      "hue": 240,
+      "light": 14,
+      "animated": false,
+      "tags": [
+        "4k",
+        "dark",
+        "death",
+        "desktop",
+        "landscape",
+        "monochrome"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Dark/planets.png",
       "name": "planets",
       "category": [
@@ -2951,8 +3056,8 @@
       ]
     },
     {
-      "path": "Wallpapers/Desktop/Distro/Arch/a37ae0b9-bf58-44a0-8e26-8f1584154513_archlinux-wallpapers-for-desktop.jpg",
-      "name": "a37ae0b9-bf58-44a0-8e26-8f1584154513_archlinux-wallpapers-for-desktop",
+      "path": "Wallpapers/Desktop/Distro/Arch/a37ae0b9-bf58-44a0-8e26-8f1584154513-archlinux-wallpapers-for-desktop.jpg",
+      "name": "a37ae0b9-bf58-44a0-8e26-8f1584154513-archlinux-wallpapers-for-desktop",
       "category": [
         "Desktop",
         "Distro",
@@ -2968,9 +3073,10 @@
       "tags": [
         "44a0",
         "8e26",
-        "8f1584154513_archlinux",
+        "8f1584154513",
         "a37ae0b9",
         "arch",
+        "archlinux",
         "bf58",
         "desktop",
         "distro",
@@ -3102,6 +3208,54 @@
       ]
     },
     {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-nz.png",
+      "name": "arch-nz",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 5120,
+      "h": 2880,
+      "bytes": 424254,
+      "color": "#17536c",
+      "hue": 198,
+      "light": 28,
+      "animated": false,
+      "tags": [
+        "4k",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "nz"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-purple.png",
+      "name": "arch-purple",
+      "category": [
+        "Desktop",
+        "Distro",
+        "Arch"
+      ],
+      "w": 1920,
+      "h": 1080,
+      "bytes": 152022,
+      "color": "#997dcf",
+      "hue": 260,
+      "light": 54,
+      "animated": false,
+      "tags": [
+        "1080p",
+        "arch",
+        "desktop",
+        "distro",
+        "landscape",
+        "purple"
+      ]
+    },
+    {
       "path": "Wallpapers/Desktop/Distro/Arch/arch-retro.png",
       "name": "arch-retro",
       "category": [
@@ -3126,8 +3280,8 @@
       ]
     },
     {
-      "path": "Wallpapers/Desktop/Distro/Arch/arch-stylishW&B.png",
-      "name": "arch-stylishW&B",
+      "path": "Wallpapers/Desktop/Distro/Arch/arch-stylishw-b.png",
+      "name": "arch-stylishw-b",
       "category": [
         "Desktop",
         "Distro",
@@ -3143,10 +3297,11 @@
       "tags": [
         "4k",
         "arch",
+        "b",
         "desktop",
         "distro",
         "landscape",
-        "stylishw&b"
+        "stylishw"
       ]
     },
     {
@@ -3215,54 +3370,6 @@
         "4k",
         "arch",
         "arch2",
-        "desktop",
-        "distro",
-        "landscape"
-      ]
-    },
-    {
-      "path": "Wallpapers/Desktop/Distro/Arch/arch_nz.png",
-      "name": "arch_nz",
-      "category": [
-        "Desktop",
-        "Distro",
-        "Arch"
-      ],
-      "w": 5120,
-      "h": 2880,
-      "bytes": 424254,
-      "color": "#17536c",
-      "hue": 198,
-      "light": 28,
-      "animated": false,
-      "tags": [
-        "4k",
-        "arch",
-        "arch_nz",
-        "desktop",
-        "distro",
-        "landscape"
-      ]
-    },
-    {
-      "path": "Wallpapers/Desktop/Distro/Arch/arch_purple.png",
-      "name": "arch_purple",
-      "category": [
-        "Desktop",
-        "Distro",
-        "Arch"
-      ],
-      "w": 1920,
-      "h": 1080,
-      "bytes": 152022,
-      "color": "#997dcf",
-      "hue": 260,
-      "light": 54,
-      "animated": false,
-      "tags": [
-        "1080p",
-        "arch",
-        "arch_purple",
         "desktop",
         "distro",
         "landscape"
@@ -4065,6 +4172,51 @@
         "desktop",
         "landscape",
         "purple"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/tsvmb3s2cw8h1.png",
+      "name": "tsvmb3s2cw8h1",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 8843321,
+      "color": "#5448ba",
+      "hue": 246,
+      "light": 32,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "landscape",
+        "purple",
+        "tsvmb3s2cw8h1"
+      ]
+    },
+    {
+      "path": "Wallpapers/Desktop/Purple/wallhaven-w5x3qr.jpg",
+      "name": "wallhaven-w5x3qr",
+      "category": [
+        "Desktop",
+        "Purple"
+      ],
+      "w": 4218,
+      "h": 2454,
+      "bytes": 4764631,
+      "color": "#5c5485",
+      "hue": 250,
+      "light": 35,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "landscape",
+        "purple",
+        "w5x3qr",
+        "wallhaven"
       ]
     },
     {
