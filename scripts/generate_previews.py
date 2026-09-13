@@ -104,8 +104,14 @@ def links_for(directory):
 
 def write_preview(directory):
     has_children = bool(subdirectories_of(directory))
+    has_media = bool(media_in(directory))
     header = existing_header(directory) or default_header(directory, has_children)
-    body = links_for(directory) if has_children else table_for(directory)
+    parts = []
+    if has_children:
+        parts.append(links_for(directory))
+    if has_media:
+        parts.append(table_for(directory))
+    body = "\n\n".join(parts)
     (directory / "preview.md").write_text(f"{header}\n\n{body}\n", encoding="utf-8")
 
 
