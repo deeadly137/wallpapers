@@ -3,11 +3,9 @@
 Wallpapers organized by color theme.
 
 - [Blue](Blue/preview.md)
-- [Brown](Brown/preview.md)
 - [Dark](Dark/preview.md)
 - [Distro](Distro/preview.md)
-- [Gray / White](Gray-White/preview.md)
+- [Light](Light/preview.md)
 - [Green](Green/preview.md)
-- [Pink](Pink/preview.md)
-- [Purple](Purple/preview.md)
-- [Red / Orange](Red-Orange/preview.md)
+- [Pink / Purple](Pink_Purple/preview.md)
+- [Red / Orange / Brown](Red_Orange_Brown/preview.md)
