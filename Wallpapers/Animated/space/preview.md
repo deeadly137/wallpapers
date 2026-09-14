@@ -4,6 +4,7 @@ A collection of space themed desktop wallpapers.
 
 | Preview | File |
 | --- | --- |
+| *animated wallpaper* | [Acheron Black Hole 4K Live Wallpaper - AFKraza (1080p, h264).mp4](Acheron%20Black%20Hole%204K%20Live%20Wallpaper%20-%20AFKraza%20(1080p,%20h264).mp4) |
 | *animated wallpaper* | [africa-macos-sonoma-live-wallpaper.mp4](africa-macos-sonoma-live-wallpaper.mp4) |
 | *animated wallpaper* | [antarctica-s-southern-lights-macos-sonoma-live-wallpaper.mp4](antarctica-s-southern-lights-macos-sonoma-live-wallpaper.mp4) |
 | *animated wallpaper* | [australia-macos-sonoma-live-wallpaper.mp4](australia-macos-sonoma-live-wallpaper.mp4) |

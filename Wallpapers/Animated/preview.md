@@ -3,6 +3,7 @@
 Video wallpapers (mp4/webm) that loop as your desktop background.
 
 - [dark](dark/preview.md)
+- [dump](dump/preview.md)
 - [light](light/preview.md)
 - [nature](nature/preview.md)
 - [ocean](ocean/preview.md)
