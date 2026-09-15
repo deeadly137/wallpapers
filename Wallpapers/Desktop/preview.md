@@ -8,4 +8,4 @@ Wallpapers organized by color theme.
 - [Green](Green/preview.md)
 - [Light](Light/preview.md)
 - [Pink_Purple](Pink_Purple/preview.md)
-- [Red_Orange_Brown](Red_Orange_Brown/preview.md)
+- [Red / Orange / Brown](Red_Orange_Brown/preview.md)

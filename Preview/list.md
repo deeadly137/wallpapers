@@ -27,5 +27,5 @@ Full preview index of all wallpaper categories in this repository.
   - [Green](../Wallpapers/Desktop/Green/preview.md)
   - [Light](../Wallpapers/Desktop/Light/preview.md)
   - [Pink_Purple](../Wallpapers/Desktop/Pink_Purple/preview.md)
-  - [Red_Orange_Brown](../Wallpapers/Desktop/Red_Orange_Brown/preview.md)
+  - [Red / Orange / Brown](../Wallpapers/Desktop/Red_Orange_Brown/preview.md)
 - [Mobile](../Wallpapers/Mobile/preview.md)

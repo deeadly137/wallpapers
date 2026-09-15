@@ -670,6 +670,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="2531 - 3724556.png" alt="2531 - 3724556" width="500"> | [2531 - 3724556.png](2531%20-%203724556.png) |
 | <img src="akazaeyes.jpg" alt="akazaeyes" width="500"> | [akazaeyes.jpg](akazaeyes.jpg) |
 | <img src="anime-chick.jpg" alt="anime-chick" width="500"> | [anime-chick.jpg](anime-chick.jpg) |
+| <img src="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png" alt="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic" width="500"> | [ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png](ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png) |
 | <img src="astronautblue.png" alt="astronautblue" width="500"> | [astronautblue.png](astronautblue.png) |
 | <img src="bluenebula.png" alt="bluenebula" width="500"> | [bluenebula.png](bluenebula.png) |
 | <img src="bluespace.png" alt="bluespace" width="500"> | [bluespace.png](bluespace.png) |
@@ -682,5 +683,8 @@ A collection of blue-themed desktop wallpapers.
 | <img src="girl.jpg" alt="girl" width="500"> | [girl.jpg](girl.jpg) |
 | <img src="japan3.jpg" alt="japan3" width="500"> | [japan3.jpg](japan3.jpg) |
 | <img src="reirebuild.jpg" alt="reirebuild" width="500"> | [reirebuild.jpg](reirebuild.jpg) |
+| <img src="rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg" alt="rider-on-horse-overlooking-green-valley-t7-1830x1145" width="500"> | [rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg](rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg) |
 | <img src="samuraistrike.jpg" alt="samuraistrike" width="500"> | [samuraistrike.jpg](samuraistrike.jpg) |
 | <img src="tojikid.jpg" alt="tojikid" width="500"> | [tojikid.jpg](tojikid.jpg) |
+| <img src="wallhaven-1pol63.png" alt="wallhaven-1pol63" width="500"> | [wallhaven-1pol63.png](wallhaven-1pol63.png) |
+| <img src="wallhaven-mlyoq8.jpg" alt="wallhaven-mlyoq8" width="500"> | [wallhaven-mlyoq8.jpg](wallhaven-mlyoq8.jpg) |

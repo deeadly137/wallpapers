@@ -218,3 +218,5 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="got-bw.jpg" alt="got-bw" width="500"> | [got-bw.jpg](got-bw.jpg) |
 | <img src="japan2.jpg" alt="japan2" width="500"> | [japan2.jpg](japan2.jpg) |
 | <img src="kita.png" alt="kita" width="500"> | [kita.png](kita.png) |
+| <img src="wallhaven-6d7zew.jpg" alt="wallhaven-6d7zew" width="500"> | [wallhaven-6d7zew.jpg](wallhaven-6d7zew.jpg) |
+| <img src="wallhaven-gp1l97.jpg" alt="wallhaven-gp1l97" width="500"> | [wallhaven-gp1l97.jpg](wallhaven-gp1l97.jpg) |

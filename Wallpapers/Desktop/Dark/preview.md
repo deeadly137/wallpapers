@@ -443,6 +443,7 @@ A collection of dark-themed desktop wallpapers.
 | <img src="2360 - dominik-mayer-7.jpg" alt="2360 - dominik-mayer-7" width="500"> | [2360 - dominik-mayer-7.jpg](2360%20-%20dominik-mayer-7.jpg) |
 | <img src="2386 - a_city_skyline_with_a_tall_tower_lit_up_at_night.jpeg" alt="2386 - a_city_skyline_with_a_tall_tower_lit_up_at_night" width="500"> | [2386 - a_city_skyline_with_a_tall_tower_lit_up_at_night.jpeg](2386%20-%20a_city_skyline_with_a_tall_tower_lit_up_at_night.jpeg) |
 | <img src="2394 - ign_sunset.png" alt="2394 - ign_sunset" width="500"> | [2394 - ign_sunset.png](2394%20-%20ign_sunset.png) |
+| <img src="23ff6da78360cd32feea9fa6adedc675.png" alt="23ff6da78360cd32feea9fa6adedc675" width="500"> | [23ff6da78360cd32feea9fa6adedc675.png](23ff6da78360cd32feea9fa6adedc675.png) |
 | <img src="2417 - a_planter_in_a_courtyard.jpg" alt="2417 - a_planter_in_a_courtyard" width="500"> | [2417 - a_planter_in_a_courtyard.jpg](2417%20-%20a_planter_in_a_courtyard.jpg) |
 | <img src="2432 - yohoho.jpg" alt="2432 - yohoho" width="500"> | [2432 - yohoho.jpg](2432%20-%20yohoho.jpg) |
 | <img src="2436 - waneella-2.gif" alt="2436 - waneella-2" width="500"> | [2436 - waneella-2.gif](2436%20-%20waneella-2.gif) |
@@ -479,4 +480,5 @@ A collection of dark-themed desktop wallpapers.
 | <img src="monochrome-death.png" alt="monochrome-death" width="500"> | [monochrome-death.png](monochrome-death.png) |
 | <img src="planets.png" alt="planets" width="500"> | [planets.png](planets.png) |
 | <img src="serial-experiments-lain.png" alt="serial-experiments-lain" width="500"> | [serial-experiments-lain.png](serial-experiments-lain.png) |
+| <img src="the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg" alt="the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145" width="500"> | [the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg](the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg) |
 | <img src="vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg" alt="vhs-glitch-aesthetic-abstract-desktop-wallpaper" width="500"> | [vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg](vhs-glitch-aesthetic-abstract-desktop-wallpaper.jpg) |

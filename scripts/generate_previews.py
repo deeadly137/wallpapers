@@ -14,8 +14,8 @@ EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 VIDEO_EXTENSIONS = {".mp4", ".webm", ".mov"}
 
 DISPLAY_NAMES = {
-    "Gray-White": "Gray / White",
-    "Red-Orange": "Red / Orange",
+    "Light": "Light",
+    "Red_Orange_Brown": "Red / Orange / Brown",
 }
 
 
