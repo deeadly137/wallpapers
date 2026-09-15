@@ -21,9 +21,8 @@ A growing collection of desktop and mobile wallpapers, organized into categories
 
 | | | |
 | --- | --- | --- |
-| [Blue](Wallpapers/Desktop/Blue/preview.md) | [Brown](Wallpapers/Desktop/Brown/preview.md) | [Dark](Wallpapers/Desktop/Dark/preview.md) |
-| [Gray / White](Wallpapers/Desktop/Gray-White/preview.md) | [Green](Wallpapers/Desktop/Green/preview.md) | [Pink](Wallpapers/Desktop/Pink/preview.md) |
-| [Purple](Wallpapers/Desktop/Purple/preview.md) | [Red / Orange](Wallpapers/Desktop/Red-Orange/preview.md) | |
+| [Blue](Wallpapers/Desktop/Blue/preview.md) | [Light](Wallpapers/Desktop/Light/preview.md) | [Dark](Wallpapers/Desktop/Dark/preview.md) |
+| [Red / Orange / Brown](Wallpapers/Desktop/Red_Orange_Brown/preview.md) | [Green](Wallpapers/Desktop/Green/preview.md) | [Pink / Purple](Wallpapers/Desktop/Pink_Purple/preview.md) |
 
 ### Distro
 
