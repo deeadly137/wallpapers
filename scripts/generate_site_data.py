@@ -32,13 +32,14 @@ def im(*args):
 
 
 def dimensions(path):
-    w, h = im(str(path), "-format", "%w %h", "info:").split()
-    return int(w), int(h)
+    # Append [0] so ImageMagick only inspects the first frame/layer
+    tokens = im(f"{path}[0]", "-format", "%w %h", "info:").split()
+    return int(tokens[0]), int(tokens[1])
 
 
 def average_color(path):
     """Average color as (r, g, b), from a 1x1 resize done by ImageMagick."""
-    out = im(str(path), "-resize", "1x1!", "-alpha", "off", "txt:-")
+    out = im(f"{path}[0]", "-resize", "1x1!", "-alpha", "off", "txt:-")
     match = re.search(r"#([0-9A-Fa-f]{6})", out)
     if not match:
         raise RuntimeError(f"could not read the average color of {path}")
