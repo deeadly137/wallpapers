@@ -9,7 +9,16 @@ let current = -1;
 
 const $ = (id) => document.getElementById(id);
 const fmtBytes = (b) => b >= 1048576 ? (b / 1048576).toFixed(1) + " MB" : Math.max(1, Math.round(b / 1024)) + " KB";
-const encodePath = (p) => p.split("/").map(encodeURIComponent).join("/");
+const encodePath = (p) => const encodePath = (p) => {
+  if (p.startsWith("http://") || p.startsWith("https://")) {
+    const [protocol, rest] = p.split("://");
+    const parts = rest.split("/");
+    const domain = parts[0];
+    const path = parts.slice(1).map(encodeURIComponent).join("/");
+    return `${protocol}://${domain}/${path}`;
+  }
+  return p.split("/").map(encodeURIComponent).join("/");
+};
 const catPath = (img) => img.category.join("/");
 
 function saveState() {
