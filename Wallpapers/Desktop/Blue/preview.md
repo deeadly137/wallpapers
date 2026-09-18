@@ -334,7 +334,6 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1376 - wallhaven-jedp9q.jpg" alt="1376 - wallhaven-jedp9q" width="500"> | [1376 - wallhaven-jedp9q.jpg](1376%20-%20wallhaven-jedp9q.jpg) |
 | <img src="1377 - a_ship_in_the_water.jpg" alt="1377 - a_ship_in_the_water" width="500"> | [1377 - a_ship_in_the_water.jpg](1377%20-%20a_ship_in_the_water.jpg) |
 | <img src="1378 - Zooey.full.4692459.png" alt="1378 - Zooey.full.4692459" width="500"> | [1378 - Zooey.full.4692459.png](1378%20-%20Zooey.full.4692459.png) |
-| <img src="1379 - blue-black-girl.png" alt="1379 - blue-black-girl" width="500"> | [1379 - blue-black-girl.png](1379%20-%20blue-black-girl.png) |
 | <img src="1380 - a_mountain_with_clouds_and_trees.jpg" alt="1380 - a_mountain_with_clouds_and_trees" width="500"> | [1380 - a_mountain_with_clouds_and_trees.jpg](1380%20-%20a_mountain_with_clouds_and_trees.jpg) |
 | <img src="1381 - 3977764.jpg" alt="1381 - 3977764" width="500"> | [1381 - 3977764.jpg](1381%20-%203977764.jpg) |
 | <img src="1382 - 122440215_p0.png" alt="1382 - 122440215_p0" width="500"> | [1382 - 122440215_p0.png](1382%20-%20122440215_p0.png) |
@@ -668,23 +667,15 @@ A collection of blue-themed desktop wallpapers.
 | <img src="2406 - a_cartoon_of_a_woman_in_a_store.jpg" alt="2406 - a_cartoon_of_a_woman_in_a_store" width="500"> | [2406 - a_cartoon_of_a_woman_in_a_store.jpg](2406%20-%20a_cartoon_of_a_woman_in_a_store.jpg) |
 | <img src="2499 - a_group_of_people_sitting_on_a_rock_by_a_body_of_water.jpg" alt="2499 - a_group_of_people_sitting_on_a_rock_by_a_body_of_water" width="500"> | [2499 - a_group_of_people_sitting_on_a_rock_by_a_body_of_water.jpg](2499%20-%20a_group_of_people_sitting_on_a_rock_by_a_body_of_water.jpg) |
 | <img src="2531 - 3724556.png" alt="2531 - 3724556" width="500"> | [2531 - 3724556.png](2531%20-%203724556.png) |
-| <img src="akazaeyes.jpg" alt="akazaeyes" width="500"> | [akazaeyes.jpg](akazaeyes.jpg) |
 | <img src="anime-chick.jpg" alt="anime-chick" width="500"> | [anime-chick.jpg](anime-chick.jpg) |
 | <img src="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png" alt="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic" width="500"> | [ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png](ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png) |
 | <img src="astronautblue.png" alt="astronautblue" width="500"> | [astronautblue.png](astronautblue.png) |
-| <img src="bluenebula.png" alt="bluenebula" width="500"> | [bluenebula.png](bluenebula.png) |
 | <img src="bluespace.png" alt="bluespace" width="500"> | [bluespace.png](bluespace.png) |
 | <img src="clouds.jpg" alt="clouds" width="500"> | [clouds.jpg](clouds.jpg) |
 | <img src="emesteve.png" alt="emesteve" width="500"> | [emesteve.png](emesteve.png) |
-| <img src="eva1.jpg" alt="eva1" width="500"> | [eva1.jpg](eva1.jpg) |
-| <img src="evawlonginus.webp" alt="evawlonginus" width="500"> | [evawlonginus.webp](evawlonginus.webp) |
-| <img src="flyingman.jpg" alt="flyingman" width="500"> | [flyingman.jpg](flyingman.jpg) |
 | <img src="gazing-upon-the-void.png" alt="gazing-upon-the-void" width="500"> | [gazing-upon-the-void.png](gazing-upon-the-void.png) |
-| <img src="girl.jpg" alt="girl" width="500"> | [girl.jpg](girl.jpg) |
-| <img src="japan3.jpg" alt="japan3" width="500"> | [japan3.jpg](japan3.jpg) |
 | <img src="reirebuild.jpg" alt="reirebuild" width="500"> | [reirebuild.jpg](reirebuild.jpg) |
 | <img src="rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg" alt="rider-on-horse-overlooking-green-valley-t7-1830x1145" width="500"> | [rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg](rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg) |
 | <img src="samuraistrike.jpg" alt="samuraistrike" width="500"> | [samuraistrike.jpg](samuraistrike.jpg) |
-| <img src="tojikid.jpg" alt="tojikid" width="500"> | [tojikid.jpg](tojikid.jpg) |
 | <img src="wallhaven-1pol63.png" alt="wallhaven-1pol63" width="500"> | [wallhaven-1pol63.png](wallhaven-1pol63.png) |
 | <img src="wallhaven-mlyoq8.jpg" alt="wallhaven-mlyoq8" width="500"> | [wallhaven-mlyoq8.jpg](wallhaven-mlyoq8.jpg) |

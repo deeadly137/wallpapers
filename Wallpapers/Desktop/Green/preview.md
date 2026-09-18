@@ -229,8 +229,6 @@ A collection of green-themed desktop wallpapers.
 | <img src="1016 - a_foggy_landscape_with_trees_and_grass.jpg" alt="1016 - a_foggy_landscape_with_trees_and_grass" width="500"> | [1016 - a_foggy_landscape_with_trees_and_grass.jpg](1016%20-%20a_foggy_landscape_with_trees_and_grass.jpg) |
 | <img src="1041 - bliss-windows-xp-remastered-2025-5k-vt.jpg" alt="1041 - bliss-windows-xp-remastered-2025-5k-vt" width="500"> | [1041 - bliss-windows-xp-remastered-2025-5k-vt.jpg](1041%20-%20bliss-windows-xp-remastered-2025-5k-vt.jpg) |
 | <img src="1042 - 灯火阑珊.png" alt="1042 - 灯火阑珊" width="500"> | [1042 - 灯火阑珊.png](1042%20-%20灯火阑珊.png) |
-| <img src="aurora.png" alt="aurora" width="500"> | [aurora.png](aurora.png) |
-| <img src="botanicgardenjapan.png" alt="botanicgardenjapan" width="500"> | [botanicgardenjapan.png](botanicgardenjapan.png) |
-| <img src="cabininthewoods.jpg" alt="cabininthewoods" width="500"> | [cabininthewoods.jpg](cabininthewoods.jpg) |
+| <img src="blapples-11.png" alt="blapples-11" width="500"> | [blapples-11.png](blapples-11.png) |
 | <img src="lonelylodge.jpeg" alt="lonelylodge" width="500"> | [lonelylodge.jpeg](lonelylodge.jpeg) |
 | <img src="thelastofus.jpg" alt="thelastofus" width="500"> | [thelastofus.jpg](thelastofus.jpg) |

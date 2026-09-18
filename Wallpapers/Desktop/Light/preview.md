@@ -212,11 +212,9 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="2494 - qv3f7jv.jpg" alt="2494 - qv3f7jv" width="500"> | [2494 - qv3f7jv.jpg](2494%20-%20qv3f7jv.jpg) |
 | <img src="2502 - frieren.jpeg" alt="2502 - frieren" width="500"> | [2502 - frieren.jpeg](2502%20-%20frieren.jpeg) |
 | <img src="2512 - 20260614_195131.jpg" alt="2512 - 20260614_195131" width="500"> | [2512 - 20260614_195131.jpg](2512%20-%2020260614_195131.jpg) |
-| <img src="angel-chained-down.png" alt="angel-chained-down" width="500"> | [angel-chained-down.png](angel-chained-down.png) |
 | <img src="black-car-girl.jpg" alt="black-car-girl" width="500"> | [black-car-girl.jpg](black-car-girl.jpg) |
 | <img src="die-twice.jpg" alt="die-twice" width="500"> | [die-twice.jpg](die-twice.jpg) |
 | <img src="got-bw.jpg" alt="got-bw" width="500"> | [got-bw.jpg](got-bw.jpg) |
 | <img src="japan2.jpg" alt="japan2" width="500"> | [japan2.jpg](japan2.jpg) |
-| <img src="kita.png" alt="kita" width="500"> | [kita.png](kita.png) |
 | <img src="wallhaven-6d7zew.jpg" alt="wallhaven-6d7zew" width="500"> | [wallhaven-6d7zew.jpg](wallhaven-6d7zew.jpg) |
 | <img src="wallhaven-gp1l97.jpg" alt="wallhaven-gp1l97" width="500"> | [wallhaven-gp1l97.jpg](wallhaven-gp1l97.jpg) |

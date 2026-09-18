@@ -175,7 +175,6 @@ A collection of purple themed desktop wallpapers.
 | <img src="2025 - d0ttr13.png" alt="2025 - d0ttr13" width="500"> | [2025 - d0ttr13.png](2025%20-%20d0ttr13.png) |
 | <img src="2027 - lantern-light-room.png" alt="2027 - lantern-light-room" width="500"> | [2027 - lantern-light-room.png](2027%20-%20lantern-light-room.png) |
 | <img src="2029 - cabin-4.png" alt="2029 - cabin-4" width="500"> | [2029 - cabin-4.png](2029%20-%20cabin-4.png) |
-| <img src="2030 - anime-chick.jpg" alt="2030 - anime-chick" width="500"> | [2030 - anime-chick.jpg](2030%20-%20anime-chick.jpg) |
 | <img src="2031 - card_after_training60_converted.jpg" alt="2031 - card_after_training60_converted" width="500"> | [2031 - card_after_training60_converted.jpg](2031%20-%20card_after_training60_converted.jpg) |
 | <img src="2032 - Anime-Purple-eyes.png" alt="2032 - Anime-Purple-eyes" width="500"> | [2032 - Anime-Purple-eyes.png](2032%20-%20Anime-Purple-eyes.png) |
 | <img src="2033 - village-gate.jpg" alt="2033 - village-gate" width="500"> | [2033 - village-gate.jpg](2033%20-%20village-gate.jpg) |
@@ -537,15 +536,10 @@ A collection of purple themed desktop wallpapers.
 | <img src="2565 - random_wallpaper_2.png" alt="2565 - random_wallpaper_2" width="500"> | [2565 - random_wallpaper_2.png](2565%20-%20random_wallpaper_2.png) |
 | <img src="2566 - wallhaven-je1535.jpg" alt="2566 - wallhaven-je1535" width="500"> | [2566 - wallhaven-je1535.jpg](2566%20-%20wallhaven-je1535.jpg) |
 | <img src="2572 - a_sword_with_flowers_on_it.jpg" alt="2572 - a_sword_with_flowers_on_it" width="500"> | [2572 - a_sword_with_flowers_on_it.jpg](2572%20-%20a_sword_with_flowers_on_it.jpg) |
-| <img src="3048953.jpg" alt="3048953" width="500"> | [3048953.jpg](3048953.jpg) |
 | <img src="acrylic.jpg" alt="acrylic" width="500"> | [acrylic.jpg](acrylic.jpg) |
 | <img src="anime-pond.png" alt="anime-pond" width="500"> | [anime-pond.png](anime-pond.png) |
-| <img src="clouds.jpg" alt="clouds" width="500"> | [clouds.jpg](clouds.jpg) |
-| <img src="columbina.jpg" alt="columbina" width="500"> | [columbina.jpg](columbina.jpg) |
 | <img src="girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg" alt="girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145" width="500"> | [girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg](girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg) |
-| <img src="kurzgesagt.png" alt="kurzgesagt" width="500"> | [kurzgesagt.png](kurzgesagt.png) |
 | <img src="naoyapunching.png" alt="naoyapunching" width="500"> | [naoyapunching.png](naoyapunching.png) |
-| <img src="purplespace.jpg" alt="purplespace" width="500"> | [purplespace.jpg](purplespace.jpg) |
 | <img src="tsvmb3s2cw8h1.png" alt="tsvmb3s2cw8h1" width="500"> | [tsvmb3s2cw8h1.png](tsvmb3s2cw8h1.png) |
 | <img src="wallhaven-d6qr6o.png" alt="wallhaven-d6qr6o" width="500"> | [wallhaven-d6qr6o.png](wallhaven-d6qr6o.png) |
 | <img src="wallhaven-w5x3qr.jpg" alt="wallhaven-w5x3qr" width="500"> | [wallhaven-w5x3qr.jpg](wallhaven-w5x3qr.jpg) |
