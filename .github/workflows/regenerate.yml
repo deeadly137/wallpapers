@@ -25,6 +25,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: main
+          lfs: true
 
       - name: install imagemagick and ffmpeg
         run: |
