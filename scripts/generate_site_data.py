@@ -16,6 +16,7 @@ OUT = ROOT / "docs" / "data.json"
 EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 VIDEO_EXTENSIONS = {".mp4", ".webm", ".mov"}
 
+RAW_BASE = "https://media.githubusercontent.com/media/deeadly137/wallpapers/refs/heads/main"
 
 def im(*args):
     """Run ImageMagick (IMv7 prefers magick, IM6 only ships convert/identify)."""
@@ -133,7 +134,7 @@ def main():
         hue, _, _ = rgb_to_hsv(r / 255, g / 255, b / 255)
         media.append(
             {
-                "path": rel.as_posix(),
+                "path": f"{RAW_BASE}/{rel.as_posix()}",
                 "name": path.stem,
                 "category": list(categories),
                 "w": w,
