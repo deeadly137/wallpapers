@@ -16,7 +16,7 @@ OUT = ROOT / "docs" / "data.json"
 EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 VIDEO_EXTENSIONS = {".mp4", ".webm", ".mov"}
 
-RAW_BASE = "https://media.githubusercontent.com/media/deeadly137/wallpapers/refs/heads/main"
+RAW_BASE = "https://media.githubusercontent.com/media/deeadly137/wallpapers/main"
 
 def im(*args):
     """Run ImageMagick (IMv7 prefers magick, IM6 only ships convert/identify)."""
