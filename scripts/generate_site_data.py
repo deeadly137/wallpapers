@@ -33,7 +33,6 @@ def im(*args):
 
 
 def dimensions(path):
-    # Append [0] so ImageMagick only inspects the first frame/layer
     tokens = im(f"{path}[0]", "-format", "%w %h", "info:").split()
     return int(tokens[0]), int(tokens[1])
 
