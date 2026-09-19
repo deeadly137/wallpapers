@@ -320,6 +320,7 @@ A collection of purple themed desktop wallpapers.
 | <img src="2197 - HO9cDoEWYAAIFEg.jpg" alt="2197 - HO9cDoEWYAAIFEg" width="500"> | [2197 - HO9cDoEWYAAIFEg.jpg](2197%20-%20HO9cDoEWYAAIFEg.jpg) |
 | <img src="2198 - HFsq531aEAAJht_.png" alt="2198 - HFsq531aEAAJht_" width="500"> | [2198 - HFsq531aEAAJht_.png](2198%20-%20HFsq531aEAAJht_.png) |
 | <img src="2199 - 507732eda0faf631.jpg" alt="2199 - 507732eda0faf631" width="500"> | [2199 - 507732eda0faf631.jpg](2199%20-%20507732eda0faf631.jpg) |
+| <img src="22 - lighthouse.jpg" alt="22 - lighthouse" width="500"> | [22 - lighthouse.jpg](22%20-%20lighthouse.jpg) |
 | <img src="2200 - ign_about_to_die.png" alt="2200 - ign_about_to_die" width="500"> | [2200 - ign_about_to_die.png](2200%20-%20ign_about_to_die.png) |
 | <img src="2201 - card_after_training101_converted.jpg" alt="2201 - card_after_training101_converted" width="500"> | [2201 - card_after_training101_converted.jpg](2201%20-%20card_after_training101_converted.jpg) |
 | <img src="2202 - anime_skyline.png" alt="2202 - anime_skyline" width="500"> | [2202 - anime_skyline.png](2202%20-%20anime_skyline.png) |
@@ -406,6 +407,7 @@ A collection of purple themed desktop wallpapers.
 | <img src="2296 - HJ6h6kEW0AAR25r.jpeg" alt="2296 - HJ6h6kEW0AAR25r" width="500"> | [2296 - HJ6h6kEW0AAR25r.jpeg](2296%20-%20HJ6h6kEW0AAR25r.jpeg) |
 | <img src="2297 - b-751.jpg" alt="2297 - b-751" width="500"> | [2297 - b-751.jpg](2297%20-%20b-751.jpg) |
 | <img src="2298 - wallpaper_4.png" alt="2298 - wallpaper_4" width="500"> | [2298 - wallpaper_4.png](2298%20-%20wallpaper_4.png) |
+| <img src="23 - Reze_in_Purple_Graffiti_Glow.png" alt="23 - Reze_in_Purple_Graffiti_Glow" width="500"> | [23 - Reze_in_Purple_Graffiti_Glow.png](23%20-%20Reze_in_Purple_Graffiti_Glow.png) |
 | <img src="2300 - Reze.jpg" alt="2300 - Reze" width="500"> | [2300 - Reze.jpg](2300%20-%20Reze.jpg) |
 | <img src="2301 - pixel-alley.png" alt="2301 - pixel-alley" width="500"> | [2301 - pixel-alley.png](2301%20-%20pixel-alley.png) |
 | <img src="2303 - 20260627_193756.jpg" alt="2303 - 20260627_193756" width="500"> | [2303 - 20260627_193756.jpg](2303%20-%2020260627_193756.jpg) |
@@ -478,6 +480,7 @@ A collection of purple themed desktop wallpapers.
 | <img src="2395 - Jurassic-dino.jpg" alt="2395 - Jurassic-dino" width="500"> | [2395 - Jurassic-dino.jpg](2395%20-%20Jurassic-dino.jpg) |
 | <img src="2397 - Pierre_Deschamps-3.png" alt="2397 - Pierre_Deschamps-3" width="500"> | [2397 - Pierre_Deschamps-3.png](2397%20-%20Pierre_Deschamps-3.png) |
 | <img src="2399 - a_mountain_range_with_trees_and_a_valley.jpg" alt="2399 - a_mountain_range_with_trees_and_a_valley" width="500"> | [2399 - a_mountain_range_with_trees_and_a_valley.jpg](2399%20-%20a_mountain_range_with_trees_and_a_valley.jpg) |
+| <img src="24 - Sea in my mind.png" alt="24 - Sea in my mind" width="500"> | [24 - Sea in my mind.png](24%20-%20Sea%20in%20my%20mind.png) |
 | <img src="2400 - whale.jpg" alt="2400 - whale" width="500"> | [2400 - whale.jpg](2400%20-%20whale.jpg) |
 | <img src="2401 - wallhaven-yqg6r7.jpg" alt="2401 - wallhaven-yqg6r7" width="500"> | [2401 - wallhaven-yqg6r7.jpg](2401%20-%20wallhaven-yqg6r7.jpg) |
 | <img src="2402 - rocky_land.jpg" alt="2402 - rocky_land" width="500"> | [2402 - rocky_land.jpg](2402%20-%20rocky_land.jpg) |
@@ -514,6 +517,7 @@ A collection of purple themed desktop wallpapers.
 | <img src="2487 - b-299.jpg" alt="2487 - b-299" width="500"> | [2487 - b-299.jpg](2487%20-%20b-299.jpg) |
 | <img src="2496 - zkdbfhf.jpg" alt="2496 - zkdbfhf" width="500"> | [2496 - zkdbfhf.jpg](2496%20-%20zkdbfhf.jpg) |
 | <img src="2498 - a_cartoon_of_a_woman_01.png" alt="2498 - a_cartoon_of_a_woman_01" width="500"> | [2498 - a_cartoon_of_a_woman_01.png](2498%20-%20a_cartoon_of_a_woman_01.png) |
+| <img src="25 - FB_IMG_1789447852443.jpg" alt="25 - FB_IMG_1789447852443" width="500"> | [25 - FB_IMG_1789447852443.jpg](25%20-%20FB_IMG_1789447852443.jpg) |
 | <img src="2500 - rain-house-tree.jpg" alt="2500 - rain-house-tree" width="500"> | [2500 - rain-house-tree.jpg](2500%20-%20rain-house-tree.jpg) |
 | <img src="2501 - ign_unsplash5.png" alt="2501 - ign_unsplash5" width="500"> | [2501 - ign_unsplash5.png](2501%20-%20ign_unsplash5.png) |
 | <img src="2503 - 470681456_27869924529319474_1758469708324410209_n.jpg" alt="2503 - 470681456_27869924529319474_1758469708324410209_n" width="500"> | [2503 - 470681456_27869924529319474_1758469708324410209_n.jpg](2503%20-%20470681456_27869924529319474_1758469708324410209_n.jpg) |
@@ -536,6 +540,7 @@ A collection of purple themed desktop wallpapers.
 | <img src="2565 - random_wallpaper_2.png" alt="2565 - random_wallpaper_2" width="500"> | [2565 - random_wallpaper_2.png](2565%20-%20random_wallpaper_2.png) |
 | <img src="2566 - wallhaven-je1535.jpg" alt="2566 - wallhaven-je1535" width="500"> | [2566 - wallhaven-je1535.jpg](2566%20-%20wallhaven-je1535.jpg) |
 | <img src="2572 - a_sword_with_flowers_on_it.jpg" alt="2572 - a_sword_with_flowers_on_it" width="500"> | [2572 - a_sword_with_flowers_on_it.jpg](2572%20-%20a_sword_with_flowers_on_it.jpg) |
+| <img src="26 - Smile.png" alt="26 - Smile" width="500"> | [26 - Smile.png](26%20-%20Smile.png) |
 | <img src="acrylic.jpg" alt="acrylic" width="500"> | [acrylic.jpg](acrylic.jpg) |
 | <img src="anime-pond.png" alt="anime-pond" width="500"> | [anime-pond.png](anime-pond.png) |
 | <img src="girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg" alt="girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145" width="500"> | [girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg](girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg) |

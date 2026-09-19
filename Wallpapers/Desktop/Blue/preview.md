@@ -428,6 +428,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1496 - w9dr43h.jpg" alt="1496 - w9dr43h" width="500"> | [1496 - w9dr43h.jpg](1496%20-%20w9dr43h.jpg) |
 | <img src="1497 - 0anime9.jpg" alt="1497 - 0anime9" width="500"> | [1497 - 0anime9.jpg](1497%20-%200anime9.jpg) |
 | <img src="1498 - koishi.jpg" alt="1498 - koishi" width="500"> | [1498 - koishi.jpg](1498%20-%20koishi.jpg) |
+| <img src="15 - boys abyss.png" alt="15 - boys abyss" width="500"> | [15 - boys abyss.png](15%20-%20boys%20abyss.png) |
 | <img src="1500 - harbor.jpg" alt="1500 - harbor" width="500"> | [1500 - harbor.jpg](1500%20-%20harbor.jpg) |
 | <img src="1501 - anime-girl-white-hair-4k.jpg" alt="1501 - anime-girl-white-hair-4k" width="500"> | [1501 - anime-girl-white-hair-4k.jpg](1501%20-%20anime-girl-white-hair-4k.jpg) |
 | <img src="1502 - red-city.png" alt="1502 - red-city" width="500"> | [1502 - red-city.png](1502%20-%20red-city.png) |
@@ -491,6 +492,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1595 - Konachan.com_-_401463_aqua_eyes_namacotan_original_polychromatic_short_hair_shorts_thighhighs_water_white_white_hair.jpg" alt="1595 - Konachan.com_-_401463_aqua_eyes_namacotan_original_polychromatic_short_hair_shorts_thighhighs_water_white_white_hair" width="500"> | [1595 - Konachan.com_-_401463_aqua_eyes_namacotan_original_polychromatic_short_hair_shorts_thighhighs_water_white_white_hair.jpg](1595%20-%20Konachan.com_-_401463_aqua_eyes_namacotan_original_polychromatic_short_hair_shorts_thighhighs_water_white_white_hair.jpg) |
 | <img src="1596 - IMG_0284.jpg" alt="1596 - IMG_0284" width="500"> | [1596 - IMG_0284.jpg](1596%20-%20IMG_0284.jpg) |
 | <img src="1599 - 9j3bddv.JPG" alt="1599 - 9j3bddv" width="500"> | [1599 - 9j3bddv.JPG](1599%20-%209j3bddv.JPG) |
+| <img src="16 - Ryo.png" alt="16 - Ryo" width="500"> | [16 - Ryo.png](16%20-%20Ryo.png) |
 | <img src="1600 - card_after_training79_converted.jpg" alt="1600 - card_after_training79_converted" width="500"> | [1600 - card_after_training79_converted.jpg](1600%20-%20card_after_training79_converted.jpg) |
 | <img src="1603 - a_group_of_airplanes_in_the_sky.png" alt="1603 - a_group_of_airplanes_in_the_sky" width="500"> | [1603 - a_group_of_airplanes_in_the_sky.png](1603%20-%20a_group_of_airplanes_in_the_sky.png) |
 | <img src="1605 - a_building_with_a_flag_on_the_roof.jpg" alt="1605 - a_building_with_a_flag_on_the_roof" width="500"> | [1605 - a_building_with_a_flag_on_the_roof.jpg](1605%20-%20a_building_with_a_flag_on_the_roof.jpg) |
@@ -556,6 +558,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1697 - b-759.jpg" alt="1697 - b-759" width="500"> | [1697 - b-759.jpg](1697%20-%20b-759.jpg) |
 | <img src="1698 - voyager-17.jpg" alt="1698 - voyager-17" width="500"> | [1698 - voyager-17.jpg](1698%20-%20voyager-17.jpg) |
 | <img src="1699 - desolate-city-2.jpg" alt="1699 - desolate-city-2" width="500"> | [1699 - desolate-city-2.jpg](1699%20-%20desolate-city-2.jpg) |
+| <img src="17 - Reze in my mind.png" alt="17 - Reze in my mind" width="500"> | [17 - Reze in my mind.png](17%20-%20Reze%20in%20my%20mind.png) |
 | <img src="1700 - wallhaven-lyz3d2.png" alt="1700 - wallhaven-lyz3d2" width="500"> | [1700 - wallhaven-lyz3d2.png](1700%20-%20wallhaven-lyz3d2.png) |
 | <img src="1701 - Fantasy-Snow-Valley.png" alt="1701 - Fantasy-Snow-Valley" width="500"> | [1701 - Fantasy-Snow-Valley.png](1701%20-%20Fantasy-Snow-Valley.png) |
 | <img src="1703 - 1363442.jpeg" alt="1703 - 1363442" width="500"> | [1703 - 1363442.jpeg](1703%20-%201363442.jpeg) |
@@ -612,6 +615,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1784 - Riverside-Dark.png" alt="1784 - Riverside-Dark" width="500"> | [1784 - Riverside-Dark.png](1784%20-%20Riverside-Dark.png) |
 | <img src="1785 - 9376413.jpg" alt="1785 - 9376413" width="500"> | [1785 - 9376413.jpg](1785%20-%209376413.jpg) |
 | <img src="1791 - house-art.webp" alt="1791 - house-art" width="500"> | [1791 - house-art.webp](1791%20-%20house-art.webp) |
+| <img src="18 - cool.mp3.png" alt="18 - cool.mp3" width="500"> | [18 - cool.mp3.png](18%20-%20cool.mp3.png) |
 | <img src="1803 - 1.jpg" alt="1803 - 1" width="500"> | [1803 - 1.jpg](1803%20-%201.jpg) |
 | <img src="1804 - a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png" alt="1804 - a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background" width="500"> | [1804 - a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png](1804%20-%20a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png) |
 | <img src="1805 - wallhaven-3q3wqv.jpg" alt="1805 - wallhaven-3q3wqv" width="500"> | [1805 - wallhaven-3q3wqv.jpg](1805%20-%20wallhaven-3q3wqv.jpg) |
@@ -635,6 +639,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1874 - grok.jpg" alt="1874 - grok" width="500"> | [1874 - grok.jpg](1874%20-%20grok.jpg) |
 | <img src="1888 - a_cartoon_of_a_group_of_children.jpg" alt="1888 - a_cartoon_of_a_group_of_children" width="500"> | [1888 - a_cartoon_of_a_group_of_children.jpg](1888%20-%20a_cartoon_of_a_group_of_children.jpg) |
 | <img src="1894 - a_moon_over_a_mountain.png" alt="1894 - a_moon_over_a_mountain" width="500"> | [1894 - a_moon_over_a_mountain.png](1894%20-%20a_moon_over_a_mountain.png) |
+| <img src="19 - makima in temepest.png" alt="19 - makima in temepest" width="500"> | [19 - makima in temepest.png](19%20-%20makima%20in%20temepest.png) |
 | <img src="1905 - Lofi-Computer.png" alt="1905 - Lofi-Computer" width="500"> | [1905 - Lofi-Computer.png](1905%20-%20Lofi-Computer.png) |
 | <img src="1908 - wallhaven-gw53o7.jpg" alt="1908 - wallhaven-gw53o7" width="500"> | [1908 - wallhaven-gw53o7.jpg](1908%20-%20wallhaven-gw53o7.jpg) |
 | <img src="1913 - wallhaven-28rjj6.png" alt="1913 - wallhaven-28rjj6" width="500"> | [1913 - wallhaven-28rjj6.png](1913%20-%20wallhaven-28rjj6.png) |
@@ -650,9 +655,11 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1937 - an_astronaut_standing_on_a_rock.png" alt="1937 - an_astronaut_standing_on_a_rock" width="500"> | [1937 - an_astronaut_standing_on_a_rock.png](1937%20-%20an_astronaut_standing_on_a_rock.png) |
 | <img src="1943 - 9376367.jpg" alt="1943 - 9376367" width="500"> | [1943 - 9376367.jpg](1943%20-%209376367.jpg) |
 | <img src="1949 - b-538.jpg" alt="1949 - b-538" width="500"> | [1949 - b-538.jpg](1949%20-%20b-538.jpg) |
+| <img src="20 - Void Horizon.png" alt="20 - Void Horizon" width="500"> | [20 - Void Horizon.png](20%20-%20Void%20Horizon.png) |
 | <img src="2059 - afterno0n.jpeg" alt="2059 - afterno0n" width="500"> | [2059 - afterno0n.jpeg](2059%20-%20afterno0n.jpeg) |
 | <img src="2061 - Under_Starlit_Sky.png" alt="2061 - Under_Starlit_Sky" width="500"> | [2061 - Under_Starlit_Sky.png](2061%20-%20Under_Starlit_Sky.png) |
 | <img src="2082 - Spacepaper.jpg" alt="2082 - Spacepaper" width="500"> | [2082 - Spacepaper.jpg](2082%20-%20Spacepaper.jpg) |
+| <img src="21 - 149678065_p0.png" alt="21 - 149678065_p0" width="500"> | [21 - 149678065_p0.png](21%20-%20149678065_p0.png) |
 | <img src="2231 - Fantasy-Japanese-Street.png" alt="2231 - Fantasy-Japanese-Street" width="500"> | [2231 - Fantasy-Japanese-Street.png](2231%20-%20Fantasy-Japanese-Street.png) |
 | <img src="2265 - Village-Dark.png" alt="2265 - Village-Dark" width="500"> | [2265 - Village-Dark.png](2265%20-%20Village-Dark.png) |
 | <img src="2270 - a_building_with_trees_in_the_background.jpg" alt="2270 - a_building_with_trees_in_the_background" width="500"> | [2270 - a_building_with_trees_in_the_background.jpg](2270%20-%20a_building_with_trees_in_the_background.jpg) |

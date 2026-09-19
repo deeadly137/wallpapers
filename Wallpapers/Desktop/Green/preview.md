@@ -223,12 +223,17 @@ A collection of green-themed desktop wallpapers.
 | <img src="0995 - a_close_up_of_a_flower_01.png" alt="0995 - a_close_up_of_a_flower_01" width="500"> | [0995 - a_close_up_of_a_flower_01.png](0995%20-%20a_close_up_of_a_flower_01.png) |
 | <img src="0996 - a_house_with_stairs_leading_to_the_front.png" alt="0996 - a_house_with_stairs_leading_to_the_front" width="500"> | [0996 - a_house_with_stairs_leading_to_the_front.png](0996%20-%20a_house_with_stairs_leading_to_the_front.png) |
 | <img src="0998 - nature.jpg" alt="0998 - nature" width="500"> | [0998 - nature.jpg](0998%20-%20nature.jpg) |
+| <img src="10 - green-yuri.png" alt="10 - green-yuri" width="500"> | [10 - green-yuri.png](10%20-%20green-yuri.png) |
 | <img src="1001 - 3f1e9c8eb389a9071f67a5b3f1d76246.gif" alt="1001 - 3f1e9c8eb389a9071f67a5b3f1d76246" width="500"> | [1001 - 3f1e9c8eb389a9071f67a5b3f1d76246.gif](1001%20-%203f1e9c8eb389a9071f67a5b3f1d76246.gif) |
 | <img src="1004 - a_white_picket_fence_with_flowers_and_a_bridge_over_water.jpg" alt="1004 - a_white_picket_fence_with_flowers_and_a_bridge_over_water" width="500"> | [1004 - a_white_picket_fence_with_flowers_and_a_bridge_over_water.jpg](1004%20-%20a_white_picket_fence_with_flowers_and_a_bridge_over_water.jpg) |
 | <img src="1010 - wallhaven-qrgqyq.jpg" alt="1010 - wallhaven-qrgqyq" width="500"> | [1010 - wallhaven-qrgqyq.jpg](1010%20-%20wallhaven-qrgqyq.jpg) |
 | <img src="1016 - a_foggy_landscape_with_trees_and_grass.jpg" alt="1016 - a_foggy_landscape_with_trees_and_grass" width="500"> | [1016 - a_foggy_landscape_with_trees_and_grass.jpg](1016%20-%20a_foggy_landscape_with_trees_and_grass.jpg) |
 | <img src="1041 - bliss-windows-xp-remastered-2025-5k-vt.jpg" alt="1041 - bliss-windows-xp-remastered-2025-5k-vt" width="500"> | [1041 - bliss-windows-xp-remastered-2025-5k-vt.jpg](1041%20-%20bliss-windows-xp-remastered-2025-5k-vt.jpg) |
 | <img src="1042 - 灯火阑珊.png" alt="1042 - 灯火阑珊" width="500"> | [1042 - 灯火阑珊.png](1042%20-%20灯火阑珊.png) |
+| <img src="11 - Peace.png" alt="11 - Peace" width="500"> | [11 - Peace.png](11%20-%20Peace.png) |
+| <img src="12 - grey-snowhut.png" alt="12 - grey-snowhut" width="500"> | [12 - grey-snowhut.png](12%20-%20grey-snowhut.png) |
+| <img src="13 - wallhaven-gw9pp7.jpg" alt="13 - wallhaven-gw9pp7" width="500"> | [13 - wallhaven-gw9pp7.jpg](13%20-%20wallhaven-gw9pp7.jpg) |
+| <img src="14 - blue-cozysmoke.png" alt="14 - blue-cozysmoke" width="500"> | [14 - blue-cozysmoke.png](14%20-%20blue-cozysmoke.png) |
 | <img src="blapples-11.png" alt="blapples-11" width="500"> | [blapples-11.png](blapples-11.png) |
 | <img src="lonelylodge.jpeg" alt="lonelylodge" width="500"> | [lonelylodge.jpeg](lonelylodge.jpeg) |
 | <img src="thelastofus.jpg" alt="thelastofus" width="500"> | [thelastofus.jpg](thelastofus.jpg) |
