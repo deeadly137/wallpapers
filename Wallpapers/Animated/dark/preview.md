@@ -8,6 +8,7 @@ A collection of dark themed desktop wallpapers.
 | *animated wallpaper* | [deltarune-forgotten-man-moewalls-com.mp4](deltarune-forgotten-man-moewalls-com.mp4) |
 | *animated wallpaper* | [dune-1.mp4](dune-1.mp4) |
 | *animated wallpaper* | [flare-sub-01.mp4](flare-sub-01.mp4) |
+| *animated wallpaper* | [frieren-minimal-art.3840x2160.mp4](frieren-minimal-art.3840x2160.mp4) |
 | *animated wallpaper* | [hacking-green-4k.mp4](hacking-green-4k.mp4) |
 | *animated wallpaper* | [matrix-rain-codes-3840x2160.mp4](matrix-rain-codes-3840x2160.mp4) |
 | *animated wallpaper* | [monochrome-death-animated.mp4](monochrome-death-animated.mp4) |
