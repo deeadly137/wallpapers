@@ -19,5 +19,4 @@ A collection of dark themed desktop wallpapers.
 | *animated wallpaper* | [scp-foundation-computer-terminal.mp4](scp-foundation-computer-terminal.mp4) |
 | *animated wallpaper* | [unknown-bleak-honeybadger.mp4](unknown-bleak-honeybadger.mp4) |
 | *animated wallpaper* | [video-1.mp4](video-1.mp4) |
-| *animated wallpaper* | [video.mp4](video.mp4) |
 | *animated wallpaper* | [wp4.mp4](wp4.mp4) |
