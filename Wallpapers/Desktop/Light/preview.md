@@ -129,6 +129,7 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="029 - Tree-Dark.png" alt="029 - Tree-Dark" width="500"> | [029 - Tree-Dark.png](029%20-%20Tree-Dark.png) |
 | <img src="0290 - wallhaven-2k2rmg.jpg" alt="0290 - wallhaven-2k2rmg" width="500"> | [0290 - wallhaven-2k2rmg.jpg](0290%20-%20wallhaven-2k2rmg.jpg) |
 | <img src="0292 - legend_heroes_03.jpg" alt="0292 - legend_heroes_03" width="500"> | [0292 - legend_heroes_03.jpg](0292%20-%20legend_heroes_03.jpg) |
+| <img src="0292.png" alt="0292" width="500"> | [0292.png](0292.png) |
 | <img src="030 - osage.jpg" alt="030 - osage" width="500"> | [030 - osage.jpg](030%20-%20osage.jpg) |
 | <img src="0307 - editoor.jpg" alt="0307 - editoor" width="500"> | [0307 - editoor.jpg](0307%20-%20editoor.jpg) |
 | <img src="0308 - Nekoma-white-landscape.png" alt="0308 - Nekoma-white-landscape" width="500"> | [0308 - Nekoma-white-landscape.png](0308%20-%20Nekoma-white-landscape.png) |
@@ -344,6 +345,9 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="528 - Girl-With-Headphones.jpg" alt="528 - Girl-With-Headphones" width="500"> | [528 - Girl-With-Headphones.jpg](528%20-%20Girl-With-Headphones.jpg) |
 | <img src="552 - Rabbit-Escape-JJK.jpg" alt="552 - Rabbit-Escape-JJK" width="500"> | [552 - Rabbit-Escape-JJK.jpg](552%20-%20Rabbit-Escape-JJK.jpg) |
 | <img src="die-twice.jpg" alt="die-twice" width="500"> | [die-twice.jpg](die-twice.jpg) |
+| <img src="HTKYoU0WIAAMXTd.jpg" alt="HTKYoU0WIAAMXTd" width="500"> | [HTKYoU0WIAAMXTd.jpg](HTKYoU0WIAAMXTd.jpg) |
 | <img src="japan2.jpg" alt="japan2" width="500"> | [japan2.jpg](japan2.jpg) |
+| <img src="omori22.jpg" alt="omori22" width="500"> | [omori22.jpg](omori22.jpg) |
+| <img src="undertale.png" alt="undertale" width="500"> | [undertale.png](undertale.png) |
 | <img src="wallhaven-6d7zew.jpg" alt="wallhaven-6d7zew" width="500"> | [wallhaven-6d7zew.jpg](wallhaven-6d7zew.jpg) |
 | <img src="wallhaven-gp1l97.jpg" alt="wallhaven-gp1l97" width="500"> | [wallhaven-gp1l97.jpg](wallhaven-gp1l97.jpg) |

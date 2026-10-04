@@ -7,6 +7,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="0065 - doh.jpg" alt="0065 - doh" width="500"> | [0065 - doh.jpg](0065%20-%20doh.jpg) |
 | <img src="0066 - jelol.jpg" alt="0066 - jelol" width="500"> | [0066 - jelol.jpg](0066%20-%20jelol.jpg) |
 | <img src="0264 - a_city_with_towers_and_towers.jpg" alt="0264 - a_city_with_towers_and_towers" width="500"> | [0264 - a_city_with_towers_and_towers.jpg](0264%20-%20a_city_with_towers_and_towers.jpg) |
+| <img src="0289.png" alt="0289" width="500"> | [0289.png](0289.png) |
 | <img src="0301 - a_house_on_an_island_by_water.jpg" alt="0301 - a_house_on_an_island_by_water" width="500"> | [0301 - a_house_on_an_island_by_water.jpg](0301%20-%20a_house_on_an_island_by_water.jpg) |
 | <img src="0402 - girl_walking_down_path_01.jpg" alt="0402 - girl_walking_down_path_01" width="500"> | [0402 - girl_walking_down_path_01.jpg](0402%20-%20girl_walking_down_path_01.jpg) |
 | <img src="0420 - girl_sitting_bench_city_01.jpg" alt="0420 - girl_sitting_bench_city_01" width="500"> | [0420 - girl_sitting_bench_city_01.jpg](0420%20-%20girl_sitting_bench_city_01.jpg) |

@@ -1241,6 +1241,7 @@ A collection of red and orange themed desktop wallpapers.
 | <img src="0797 - soteer0.jpg" alt="0797 - soteer0" width="500"> | [0797 - soteer0.jpg](0797%20-%20soteer0.jpg) |
 | <img src="0798 - pixelart_landscape.jpg" alt="0798 - pixelart_landscape" width="500"> | [0798 - pixelart_landscape.jpg](0798%20-%20pixelart_landscape.jpg) |
 | <img src="0799 - totmf.jpg" alt="0799 - totmf" width="500"> | [0799 - totmf.jpg](0799%20-%20totmf.jpg) |
+| <img src="07sm3571vhvh.jpg" alt="07sm3571vhvh" width="500"> | [07sm3571vhvh.jpg](07sm3571vhvh.jpg) |
 | <img src="080 - chainsawman_makima_eye.jpg" alt="080 - chainsawman_makima_eye" width="500"> | [080 - chainsawman_makima_eye.jpg](080%20-%20chainsawman_makima_eye.jpg) |
 | <img src="0800 - a_man_standing_next_to_a_car_with_a_surfboard.jpg" alt="0800 - a_man_standing_next_to_a_car_with_a_surfboard" width="500"> | [0800 - a_man_standing_next_to_a_car_with_a_surfboard.jpg](0800%20-%20a_man_standing_next_to_a_car_with_a_surfboard.jpg) |
 | <img src="0803 - ss000.jpg" alt="0803 - ss000" width="500"> | [0803 - ss000.jpg](0803%20-%20ss000.jpg) |

@@ -188,6 +188,7 @@ A collection of dark-themed desktop wallpapers.
 | <img src="0260 - Beer-Girl.png" alt="0260 - Beer-Girl" width="500"> | [0260 - Beer-Girl.png](0260%20-%20Beer-Girl.png) |
 | <img src="0271 - image17.png" alt="0271 - image17" width="500"> | [0271 - image17.png](0271%20-%20image17.png) |
 | <img src="0272 - b-505.jpg" alt="0272 - b-505" width="500"> | [0272 - b-505.jpg](0272%20-%20b-505.jpg) |
+| <img src="0283.png" alt="0283" width="500"> | [0283.png](0283.png) |
 | <img src="0285 - Cute-Pics-eodz9r_2560x1440.png" alt="0285 - Cute-Pics-eodz9r_2560x1440" width="500"> | [0285 - Cute-Pics-eodz9r_2560x1440.png](0285%20-%20Cute-Pics-eodz9r_2560x1440.png) |
 | <img src="0287 - a_trash_can_on_the_sidewalk.jpg" alt="0287 - a_trash_can_on_the_sidewalk" width="500"> | [0287 - a_trash_can_on_the_sidewalk.jpg](0287%20-%20a_trash_can_on_the_sidewalk.jpg) |
 | <img src="0297 - b-155.jpg" alt="0297 - b-155" width="500"> | [0297 - b-155.jpg](0297%20-%20b-155.jpg) |
@@ -759,3 +760,5 @@ A collection of dark-themed desktop wallpapers.
 | <img src="monochrome-death.png" alt="monochrome-death" width="500"> | [monochrome-death.png](monochrome-death.png) |
 | <img src="planets.png" alt="planets" width="500"> | [planets.png](planets.png) |
 | <img src="the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg" alt="the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145" width="500"> | [the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg](the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg) |
+| <img src="upscalemedia-transformed_1.png" alt="upscalemedia-transformed_1" width="500"> | [upscalemedia-transformed_1.png](upscalemedia-transformed_1.png) |
+| <img src="wallhaven-qz1glr.jpg" alt="wallhaven-qz1glr" width="500"> | [wallhaven-qz1glr.jpg](wallhaven-qz1glr.jpg) |
