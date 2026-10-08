@@ -750,7 +750,6 @@ A collection of dark-themed desktop wallpapers.
 | <img src="539 - Mimikyu-2.png" alt="539 - Mimikyu-2" width="500"> | [539 - Mimikyu-2.png](539%20-%20Mimikyu-2.png) |
 | <img src="559 - wallhaven-yqkqeg.png" alt="559 - wallhaven-yqkqeg" width="500"> | [559 - wallhaven-yqkqeg.png](559%20-%20wallhaven-yqkqeg.png) |
 | <img src="563 - Girl-Face-Resting-On-Hands.jpg" alt="563 - Girl-Face-Resting-On-Hands" width="500"> | [563 - Girl-Face-Resting-On-Hands.jpg](563%20-%20Girl-Face-Resting-On-Hands.jpg) |
-| <img src="92d4vm3.png" alt="92d4vm3" width="500"> | [92d4vm3.png](92d4vm3.png) |
 | <img src="abstract.jpg" alt="abstract" width="500"> | [abstract.jpg](abstract.jpg) |
 | <img src="Black_hole.jpg" alt="Black_hole" width="500"> | [Black_hole.jpg](Black_hole.jpg) |
 | <img src="blackhole.jpeg" alt="blackhole" width="500"> | [blackhole.jpeg](blackhole.jpeg) |

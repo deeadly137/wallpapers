@@ -1893,7 +1893,6 @@ A collection of blue-themed desktop wallpapers.
 | <img src="448 - spaceship.jpg" alt="448 - spaceship" width="500"> | [448 - spaceship.jpg](448%20-%20spaceship.jpg) |
 | <img src="449 - purple_sky_ai.jpg" alt="449 - purple_sky_ai" width="500"> | [449 - purple_sky_ai.jpg](449%20-%20purple_sky_ai.jpg) |
 | <img src="450 - rezero_rem_ai.jpg" alt="450 - rezero_rem_ai" width="500"> | [450 - rezero_rem_ai.jpg](450%20-%20rezero_rem_ai.jpg) |
-| <img src="470 - sunset0.jpg" alt="470 - sunset0" width="500"> | [470 - sunset0.jpg](470%20-%20sunset0.jpg) |
 | <img src="486 - outer_space.jpg" alt="486 - outer_space" width="500"> | [486 - outer_space.jpg](486%20-%20outer_space.jpg) |
 | <img src="5fn688z.jpg" alt="5fn688z" width="500"> | [5fn688z.jpg](5fn688z.jpg) |
 | <img src="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png" alt="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic" width="500"> | [ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png](ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png) |

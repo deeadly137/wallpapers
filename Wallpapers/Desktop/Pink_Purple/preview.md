@@ -399,7 +399,6 @@ A collection of purple themed desktop wallpapers.
 | <img src="2106 - skyline.png" alt="2106 - skyline" width="500"> | [2106 - skyline.png](2106%20-%20skyline.png) |
 | <img src="2107 - Fantasy-Autumn.png" alt="2107 - Fantasy-Autumn" width="500"> | [2107 - Fantasy-Autumn.png](2107%20-%20Fantasy-Autumn.png) |
 | <img src="2107 - IMG_0299.jpg" alt="2107 - IMG_0299" width="500"> | [2107 - IMG_0299.jpg](2107%20-%20IMG_0299.jpg) |
-| <img src="2108 - a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg" alt="2108 - a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background" width="500"> | [2108 - a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg](2108%20-%20a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg) |
 | <img src="2108 - yande.re 1255699 sample fishnets luminaria_pro maimiya_rinne mui_maru wallpaper_upscayl_2x_ultrasharp-4x.png" alt="2108 - yande.re 1255699 sample fishnets luminaria_pro maimiya_rinne mui_maru wallpaper_upscayl_2x_ultrasharp-4x" width="500"> | [2108 - yande.re 1255699 sample fishnets luminaria_pro maimiya_rinne mui_maru wallpaper_upscayl_2x_ultrasharp-4x.png](2108%20-%20yande.re%201255699%20sample%20fishnets%20luminaria_pro%20maimiya_rinne%20mui_maru%20wallpaper_upscayl_2x_ultrasharp-4x.png) |
 | <img src="2109 - spider-man-miles.jpg" alt="2109 - spider-man-miles" width="500"> | [2109 - spider-man-miles.jpg](2109%20-%20spider-man-miles.jpg) |
 | <img src="2110 - vo.jpg" alt="2110 - vo" width="500"> | [2110 - vo.jpg](2110%20-%20vo.jpg) |
@@ -1215,7 +1214,6 @@ A collection of purple themed desktop wallpapers.
 | <img src="acrylic.jpg" alt="acrylic" width="500"> | [acrylic.jpg](acrylic.jpg) |
 | <img src="anime-pond.png" alt="anime-pond" width="500"> | [anime-pond.png](anime-pond.png) |
 | <img src="biking-sunset.png" alt="biking-sunset" width="500"> | [biking-sunset.png](biking-sunset.png) |
-| <img src="cutee.png" alt="cutee" width="500"> | [cutee.png](cutee.png) |
 | <img src="db4003tw6dt9.jpg" alt="db4003tw6dt9" width="500"> | [db4003tw6dt9.jpg](db4003tw6dt9.jpg) |
 | <img src="girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg" alt="girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145" width="500"> | [girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg](girl-sitting-on-rooftop-edge-at-sunse-2s-1830x1145.jpg) |
 | <img src="naoyapunching.png" alt="naoyapunching" width="500"> | [naoyapunching.png](naoyapunching.png) |

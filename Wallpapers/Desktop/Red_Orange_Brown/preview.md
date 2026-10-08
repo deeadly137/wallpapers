@@ -1062,7 +1062,6 @@ A collection of red and orange themed desktop wallpapers.
 | <img src="0649 - GJL8CYmXMAADJMt.jpeg" alt="0649 - GJL8CYmXMAADJMt" width="500"> | [0649 - GJL8CYmXMAADJMt.jpeg](0649%20-%20GJL8CYmXMAADJMt.jpeg) |
 | <img src="0649 - owa.jpg" alt="0649 - owa" width="500"> | [0649 - owa.jpg](0649%20-%20owa.jpg) |
 | <img src="065 - car-1.jpg" alt="065 - car-1" width="500"> | [065 - car-1.jpg](065%20-%20car-1.jpg) |
-| <img src="0650 - ersote.jpg" alt="0650 - ersote" width="500"> | [0650 - ersote.jpg](0650%20-%20ersote.jpg) |
 | <img src="0650 - Resthouse.png" alt="0650 - Resthouse" width="500"> | [0650 - Resthouse.png](0650%20-%20Resthouse.png) |
 | <img src="0651 - dmn.jpg" alt="0651 - dmn" width="500"> | [0651 - dmn.jpg](0651%20-%20dmn.jpg) |
 | <img src="0651 - t5z86ph.png" alt="0651 - t5z86ph" width="500"> | [0651 - t5z86ph.png](0651%20-%20t5z86ph.png) |
