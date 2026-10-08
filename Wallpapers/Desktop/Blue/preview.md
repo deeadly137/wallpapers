@@ -1895,14 +1895,21 @@ A collection of blue-themed desktop wallpapers.
 | <img src="450 - rezero_rem_ai.jpg" alt="450 - rezero_rem_ai" width="500"> | [450 - rezero_rem_ai.jpg](450%20-%20rezero_rem_ai.jpg) |
 | <img src="470 - sunset0.jpg" alt="470 - sunset0" width="500"> | [470 - sunset0.jpg](470%20-%20sunset0.jpg) |
 | <img src="486 - outer_space.jpg" alt="486 - outer_space" width="500"> | [486 - outer_space.jpg](486%20-%20outer_space.jpg) |
+| <img src="5fn688z.jpg" alt="5fn688z" width="500"> | [5fn688z.jpg](5fn688z.jpg) |
 | <img src="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png" alt="ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic" width="500"> | [ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png](ANIME-PICTURES.NET_-_530947-1638x1166-original-nagishiromito-longhair-blush-lookingatviewer-lighterotic.png) |
 | <img src="astronautblue.png" alt="astronautblue" width="500"> | [astronautblue.png](astronautblue.png) |
+| <img src="blue-cloudssimple.png" alt="blue-cloudssimple" width="500"> | [blue-cloudssimple.png](blue-cloudssimple.png) |
 | <img src="bluespace.png" alt="bluespace" width="500"> | [bluespace.png](bluespace.png) |
 | <img src="clouds.jpg" alt="clouds" width="500"> | [clouds.jpg](clouds.jpg) |
 | <img src="emesteve.png" alt="emesteve" width="500"> | [emesteve.png](emesteve.png) |
 | <img src="gazing-upon-the-void.png" alt="gazing-upon-the-void" width="500"> | [gazing-upon-the-void.png](gazing-upon-the-void.png) |
+| <img src="Konachan.com_-_292319.png" alt="Konachan.com_-_292319" width="500"> | [Konachan.com_-_292319.png](Konachan.com_-_292319.png) |
 | <img src="reirebuild.jpg" alt="reirebuild" width="500"> | [reirebuild.jpg](reirebuild.jpg) |
 | <img src="rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg" alt="rider-on-horse-overlooking-green-valley-t7-1830x1145" width="500"> | [rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg](rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg) |
 | <img src="samuraistrike.jpg" alt="samuraistrike" width="500"> | [samuraistrike.jpg](samuraistrike.jpg) |
+| <img src="w0wjdd0.jpg" alt="w0wjdd0" width="500"> | [w0wjdd0.jpg](w0wjdd0.jpg) |
 | <img src="wallhaven-1pol63.png" alt="wallhaven-1pol63" width="500"> | [wallhaven-1pol63.png](wallhaven-1pol63.png) |
+| <img src="wallhaven-lygkmq_1920x1200.png" alt="wallhaven-lygkmq_1920x1200" width="500"> | [wallhaven-lygkmq_1920x1200.png](wallhaven-lygkmq_1920x1200.png) |
 | <img src="wallhaven-mlyoq8.jpg" alt="wallhaven-mlyoq8" width="500"> | [wallhaven-mlyoq8.jpg](wallhaven-mlyoq8.jpg) |
+| <img src="wallhaven-w5x2yq.png" alt="wallhaven-w5x2yq" width="500"> | [wallhaven-w5x2yq.png](wallhaven-w5x2yq.png) |
+| <img src="wallpaper-gw1dye.jpg" alt="wallpaper-gw1dye" width="500"> | [wallpaper-gw1dye.jpg](wallpaper-gw1dye.jpg) |

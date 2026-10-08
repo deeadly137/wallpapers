@@ -344,7 +344,10 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="527 - evangelion_asuka2.jpg" alt="527 - evangelion_asuka2" width="500"> | [527 - evangelion_asuka2.jpg](527%20-%20evangelion_asuka2.jpg) |
 | <img src="528 - Girl-With-Headphones.jpg" alt="528 - Girl-With-Headphones" width="500"> | [528 - Girl-With-Headphones.jpg](528%20-%20Girl-With-Headphones.jpg) |
 | <img src="552 - Rabbit-Escape-JJK.jpg" alt="552 - Rabbit-Escape-JJK" width="500"> | [552 - Rabbit-Escape-JJK.jpg](552%20-%20Rabbit-Escape-JJK.jpg) |
+| <img src="cutegirl.png" alt="cutegirl" width="500"> | [cutegirl.png](cutegirl.png) |
 | <img src="die-twice.jpg" alt="die-twice" width="500"> | [die-twice.jpg](die-twice.jpg) |
+| <img src="elf.png" alt="elf" width="500"> | [elf.png](elf.png) |
+| <img src="hashira.jpg" alt="hashira" width="500"> | [hashira.jpg](hashira.jpg) |
 | <img src="HTKYoU0WIAAMXTd.jpg" alt="HTKYoU0WIAAMXTd" width="500"> | [HTKYoU0WIAAMXTd.jpg](HTKYoU0WIAAMXTd.jpg) |
 | <img src="japan2.jpg" alt="japan2" width="500"> | [japan2.jpg](japan2.jpg) |
 | <img src="omori22.jpg" alt="omori22" width="500"> | [omori22.jpg](omori22.jpg) |

@@ -1588,7 +1588,14 @@ A collection of red and orange themed desktop wallpapers.
 | <img src="ANIME-PICTURES.NET_-_520645-986x704-touhou-hakureireimu-kirisamemarisa-piyokichi-longhair-blush.jpg" alt="ANIME-PICTURES.NET_-_520645-986x704-touhou-hakureireimu-kirisamemarisa-piyokichi-longhair-blush" width="500"> | [ANIME-PICTURES.NET_-_520645-986x704-touhou-hakureireimu-kirisamemarisa-piyokichi-longhair-blush.jpg](ANIME-PICTURES.NET_-_520645-986x704-touhou-hakureireimu-kirisamemarisa-piyokichi-longhair-blush.jpg) |
 | <img src="ANIME-PICTURES.NET_-_601629-2242x1261-hibikeeuphonium-kyotoanimation-oumaekumiko-hisaishikanade-shiratamamochi-blush.png" alt="ANIME-PICTURES.NET_-_601629-2242x1261-hibikeeuphonium-kyotoanimation-oumaekumiko-hisaishikanade-shiratamamochi-blush" width="500"> | [ANIME-PICTURES.NET_-_601629-2242x1261-hibikeeuphonium-kyotoanimation-oumaekumiko-hisaishikanade-shiratamamochi-blush.png](ANIME-PICTURES.NET_-_601629-2242x1261-hibikeeuphonium-kyotoanimation-oumaekumiko-hisaishikanade-shiratamamochi-blush.png) |
 | <img src="chosojjk.png" alt="chosojjk" width="500"> | [chosojjk.png](chosojjk.png) |
+| <img src="Ferrari_F40_Marlboro-1.jpg" alt="Ferrari_F40_Marlboro-1" width="500"> | [Ferrari_F40_Marlboro-1.jpg](Ferrari_F40_Marlboro-1.jpg) |
+| <img src="Ferrari_F40_Marlboro-2.jpg" alt="Ferrari_F40_Marlboro-2" width="500"> | [Ferrari_F40_Marlboro-2.jpg](Ferrari_F40_Marlboro-2.jpg) |
 | <img src="man-on-van-roof-string-lights-dusky-orange-sky-nn-1830x1145.jpg" alt="man-on-van-roof-string-lights-dusky-orange-sky-nn-1830x1145" width="500"> | [man-on-van-roof-string-lights-dusky-orange-sky-nn-1830x1145.jpg](man-on-van-roof-string-lights-dusky-orange-sky-nn-1830x1145.jpg) |
+| <img src="Muzan.jpg" alt="Muzan" width="500"> | [Muzan.jpg](Muzan.jpg) |
 | <img src="neon_goddess_of_victory_nikke__13e9750037947631aaee3782dee7901a.jpg" alt="neon_goddess_of_victory_nikke__13e9750037947631aaee3782dee7901a" width="500"> | [neon_goddess_of_victory_nikke__13e9750037947631aaee3782dee7901a.jpg](neon_goddess_of_victory_nikke__13e9750037947631aaee3782dee7901a.jpg) |
 | <img src="redevau1.jpg" alt="redevau1" width="500"> | [redevau1.jpg](redevau1.jpg) |
+| <img src="wallhaven-d6yrml_3840x2160.png" alt="wallhaven-d6yrml_3840x2160" width="500"> | [wallhaven-d6yrml_3840x2160.png](wallhaven-d6yrml_3840x2160.png) |
 | <img src="wallhaven-o31dk5.jpg" alt="wallhaven-o31dk5" width="500"> | [wallhaven-o31dk5.jpg](wallhaven-o31dk5.jpg) |
+| <img src="wallpaper-2166zm.jpg" alt="wallpaper-2166zm" width="500"> | [wallpaper-2166zm.jpg](wallpaper-2166zm.jpg) |
+| <img src="wallpaper-lyggjy.jpg" alt="wallpaper-lyggjy" width="500"> | [wallpaper-lyggjy.jpg](wallpaper-lyggjy.jpg) |
+| <img src="wbwt702.PNG" alt="wbwt702" width="500"> | [wbwt702.PNG](wbwt702.PNG) |

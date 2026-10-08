@@ -750,15 +750,31 @@ A collection of dark-themed desktop wallpapers.
 | <img src="539 - Mimikyu-2.png" alt="539 - Mimikyu-2" width="500"> | [539 - Mimikyu-2.png](539%20-%20Mimikyu-2.png) |
 | <img src="559 - wallhaven-yqkqeg.png" alt="559 - wallhaven-yqkqeg" width="500"> | [559 - wallhaven-yqkqeg.png](559%20-%20wallhaven-yqkqeg.png) |
 | <img src="563 - Girl-Face-Resting-On-Hands.jpg" alt="563 - Girl-Face-Resting-On-Hands" width="500"> | [563 - Girl-Face-Resting-On-Hands.jpg](563%20-%20Girl-Face-Resting-On-Hands.jpg) |
+| <img src="92d4vm3.png" alt="92d4vm3" width="500"> | [92d4vm3.png](92d4vm3.png) |
 | <img src="abstract.jpg" alt="abstract" width="500"> | [abstract.jpg](abstract.jpg) |
+| <img src="Black_hole.jpg" alt="Black_hole" width="500"> | [Black_hole.jpg](Black_hole.jpg) |
 | <img src="blackhole.jpeg" alt="blackhole" width="500"> | [blackhole.jpeg](blackhole.jpeg) |
 | <img src="blackholesun.png" alt="blackholesun" width="500"> | [blackholesun.png](blackholesun.png) |
 | <img src="camp-day.png" alt="camp-day" width="500"> | [camp-day.png](camp-day.png) |
 | <img src="dark-skulls.png" alt="dark-skulls" width="500"> | [dark-skulls.png](dark-skulls.png) |
+| <img src="dark.jpg" alt="dark" width="500"> | [dark.jpg](dark.jpg) |
+| <img src="Earth_Horizon.jpg" alt="Earth_Horizon" width="500"> | [Earth_Horizon.jpg](Earth_Horizon.jpg) |
+| <img src="eldenring5.jpeg" alt="eldenring5" width="500"> | [eldenring5.jpeg](eldenring5.jpeg) |
 | <img src="girl-on-black.png" alt="girl-on-black" width="500"> | [girl-on-black.png](girl-on-black.png) |
+| <img src="green.jpg" alt="green" width="500"> | [green.jpg](green.jpg) |
+| <img src="gruv-cargirl.png" alt="gruv-cargirl" width="500"> | [gruv-cargirl.png](gruv-cargirl.png) |
+| <img src="h7z8wdh.png" alt="h7z8wdh" width="500"> | [h7z8wdh.png](h7z8wdh.png) |
+| <img src="Ink-Katana.jpg" alt="Ink-Katana" width="500"> | [Ink-Katana.jpg](Ink-Katana.jpg) |
 | <img src="katana.jpg" alt="katana" width="500"> | [katana.jpg](katana.jpg) |
 | <img src="monochrome-death.png" alt="monochrome-death" width="500"> | [monochrome-death.png](monochrome-death.png) |
 | <img src="planets.png" alt="planets" width="500"> | [planets.png](planets.png) |
 | <img src="the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg" alt="the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145" width="500"> | [the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg](the-dark-giant-watcher-with-glowing-red-eyes-over-dark-lake-ms-1830x1145.jpg) |
 | <img src="upscalemedia-transformed_1.png" alt="upscalemedia-transformed_1" width="500"> | [upscalemedia-transformed_1.png](upscalemedia-transformed_1.png) |
+| <img src="wallhaven-e7jj6r_3800x1900.png" alt="wallhaven-e7jj6r_3800x1900" width="500"> | [wallhaven-e7jj6r_3800x1900.png](wallhaven-e7jj6r_3800x1900.png) |
 | <img src="wallhaven-qz1glr.jpg" alt="wallhaven-qz1glr" width="500"> | [wallhaven-qz1glr.jpg](wallhaven-qz1glr.jpg) |
+| <img src="wallpaper-d8vdj3.jpg" alt="wallpaper-d8vdj3" width="500"> | [wallpaper-d8vdj3.jpg](wallpaper-d8vdj3.jpg) |
+| <img src="wallpaper-k8jljm.jpg" alt="wallpaper-k8jljm" width="500"> | [wallpaper-k8jljm.jpg](wallpaper-k8jljm.jpg) |
+| <img src="wallpaper-lygg6r.jpg" alt="wallpaper-lygg6r" width="500"> | [wallpaper-lygg6r.jpg](wallpaper-lygg6r.jpg) |
+| <img src="wallpaper-rqee8q.jpg" alt="wallpaper-rqee8q" width="500"> | [wallpaper-rqee8q.jpg](wallpaper-rqee8q.jpg) |
+| <img src="z5vv9f40r5d0.jpg" alt="z5vv9f40r5d0" width="500"> | [z5vv9f40r5d0.jpg](z5vv9f40r5d0.jpg) |
+| <img src="z61bx9k.png" alt="z61bx9k" width="500"> | [z61bx9k.png](z61bx9k.png) |
