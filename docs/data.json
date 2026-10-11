@@ -3800,6 +3800,29 @@
       ]
     },
     {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Animated/dump/vertin.mp4",
+      "name": "vertin",
+      "category": [
+        "Animated",
+        "dump"
+      ],
+      "w": 2560,
+      "h": 1080,
+      "bytes": 32658965,
+      "color": "#736863",
+      "hue": 19,
+      "light": 42,
+      "animated": true,
+      "tags": [
+        "1440p",
+        "animated",
+        "dump",
+        "landscape",
+        "vertin",
+        "video"
+      ]
+    },
+    {
       "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Animated/dump/videoplayback.mp4",
       "name": "videoplayback",
       "category": [
@@ -14008,6 +14031,28 @@
         " myneighbortottoro",
         "1002 ",
         "1440p",
+        "blue",
+        "desktop",
+        "landscape"
+      ]
+    },
+    {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Blue/1002.png",
+      "name": "1002",
+      "category": [
+        "Desktop",
+        "Blue"
+      ],
+      "w": 5760,
+      "h": 3600,
+      "bytes": 20062349,
+      "color": "#3a2f3c",
+      "hue": 291,
+      "light": 20,
+      "animated": false,
+      "tags": [
+        "1002",
+        "4k",
         "blue",
         "desktop",
         "landscape"
@@ -82894,6 +82939,28 @@
       ]
     },
     {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Green/goon1.jpg",
+      "name": "goon1",
+      "category": [
+        "Desktop",
+        "Green"
+      ],
+      "w": 6000,
+      "h": 3375,
+      "bytes": 10287083,
+      "color": "#798e65",
+      "hue": 91,
+      "light": 53,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "goon1",
+        "green",
+        "landscape"
+      ]
+    },
+    {
       "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Green/lonelylodge.jpeg",
       "name": "lonelylodge",
       "category": [
@@ -85840,21 +85907,21 @@
       ]
     },
     {
-      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Light/0292.png",
-      "name": "0292",
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Light/02920.png",
+      "name": "02920",
       "category": [
         "Desktop",
         "Light"
       ],
       "w": 3840,
       "h": 2160,
-      "bytes": 1754982,
-      "color": "#a9a9ab",
+      "bytes": 1713347,
+      "color": "#ababac",
       "hue": 240,
-      "light": 66,
+      "light": 67,
       "animated": false,
       "tags": [
-        "0292",
+        "02920",
         "4k",
         "desktop",
         "landscape",
@@ -90861,6 +90928,28 @@
       ]
     },
     {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Light/775bbf7eacaef5574a0413111dfb1910.jpg",
+      "name": "775bbf7eacaef5574a0413111dfb1910",
+      "category": [
+        "Desktop",
+        "Light"
+      ],
+      "w": 3839,
+      "h": 1990,
+      "bytes": 426754,
+      "color": "#b7b1ca",
+      "hue": 254,
+      "light": 71,
+      "animated": false,
+      "tags": [
+        "1440p",
+        "775bbf7eacaef5574a0413111dfb1910",
+        "desktop",
+        "landscape",
+        "light"
+      ]
+    },
+    {
       "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Light/HTKYoU0WIAAMXTd.jpg",
       "name": "HTKYoU0WIAAMXTd",
       "category": [
@@ -90945,6 +91034,28 @@
         "4k",
         "desktop",
         "hashira",
+        "landscape",
+        "light"
+      ]
+    },
+    {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Light/image29.png",
+      "name": "image29",
+      "category": [
+        "Desktop",
+        "Light"
+      ],
+      "w": 3840,
+      "h": 2160,
+      "bytes": 3737469,
+      "color": "#8a8a8a",
+      "hue": 0,
+      "light": 54,
+      "animated": false,
+      "tags": [
+        "4k",
+        "desktop",
+        "image29",
         "landscape",
         "light"
       ]
@@ -156289,6 +156400,27 @@
       ]
     },
     {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Red_Orange_Brown/content2.png",
+      "name": "content2",
+      "category": [
+        "Desktop",
+        "Red_Orange_Brown"
+      ],
+      "w": 1672,
+      "h": 941,
+      "bytes": 2768224,
+      "color": "#645945",
+      "hue": 39,
+      "light": 35,
+      "animated": false,
+      "tags": [
+        "content2",
+        "desktop",
+        "landscape",
+        "red_orange_brown"
+      ]
+    },
+    {
       "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Red_Orange_Brown/man-on-van-roof-string-lights-dusky-orange-sky-nn-1830x1145.jpg",
       "name": "man-on-van-roof-string-lights-dusky-orange-sky-nn-1830x1145",
       "category": [
@@ -156362,6 +156494,28 @@
         "landscape",
         "red_orange_brown",
         "redevau1"
+      ]
+    },
+    {
+      "path": "https://media.githubusercontent.com/media/deeadly137/wallpapers/main/Wallpapers/Desktop/Red_Orange_Brown/shipps.jpeg",
+      "name": "shipps",
+      "category": [
+        "Desktop",
+        "Red_Orange_Brown"
+      ],
+      "w": 2560,
+      "h": 1440,
+      "bytes": 674514,
+      "color": "#685d48",
+      "hue": 39,
+      "light": 37,
+      "animated": false,
+      "tags": [
+        "1440p",
+        "desktop",
+        "landscape",
+        "red_orange_brown",
+        "shipps"
       ]
     },
     {
