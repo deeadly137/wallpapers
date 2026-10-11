@@ -142,6 +142,7 @@ A collection of dump themed desktop wallpapers.
 | *animated wallpaper* | [us.mp4](us.mp4) |
 | *animated wallpaper* | [uw.mp4](uw.mp4) |
 | *animated wallpaper* | [valorant-home-screen-changing-agents-live-wallpaper.mp4](valorant-home-screen-changing-agents-live-wallpaper.mp4) |
+| *animated wallpaper* | [vertin.mp4](vertin.mp4) |
 | *animated wallpaper* | [videoplayback.mp4](videoplayback.mp4) |
 | *animated wallpaper* | [vidssave.com Live Wallpaper Anime HD_4K - Samurai Autumn 1080P.mp4](vidssave.com%20Live%20Wallpaper%20Anime%20HD_4K%20-%20Samurai%20Autumn%201080P.mp4) |
 | *animated wallpaper* | [vinland-saga-chained-blade-moewalls-com.mp4](vinland-saga-chained-blade-moewalls-com.mp4) |

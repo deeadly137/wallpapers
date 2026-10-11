@@ -346,6 +346,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="0997 - a.jpg" alt="0997 - a" width="500"> | [0997 - a.jpg](0997%20-%20a.jpg) |
 | <img src="0999 - a_blue_and_black_pattern.png" alt="0999 - a_blue_and_black_pattern" width="500"> | [0999 - a_blue_and_black_pattern.png](0999%20-%20a_blue_and_black_pattern.png) |
 | <img src="1002 - myneighbortottoro.jpg" alt="1002 - myneighbortottoro" width="500"> | [1002 - myneighbortottoro.jpg](1002%20-%20myneighbortottoro.jpg) |
+| <img src="1002.png" alt="1002" width="500"> | [1002.png](1002.png) |
 | <img src="1003 - 408LR-Kozue-Otomune-Performer-bbDI7e.png" alt="1003 - 408LR-Kozue-Otomune-Performer-bbDI7e" width="500"> | [1003 - 408LR-Kozue-Otomune-Performer-bbDI7e.png](1003%20-%20408LR-Kozue-Otomune-Performer-bbDI7e.png) |
 | <img src="1012 - beautiful_sunrise_over_01.jpg" alt="1012 - beautiful_sunrise_over_01" width="500"> | [1012 - beautiful_sunrise_over_01.jpg](1012%20-%20beautiful_sunrise_over_01.jpg) |
 | <img src="1017 - a_body_of_water_with_rocks_and_a_cliff.jpg" alt="1017 - a_body_of_water_with_rocks_and_a_cliff" width="500"> | [1017 - a_body_of_water_with_rocks_and_a_cliff.jpg](1017%20-%20a_body_of_water_with_rocks_and_a_cliff.jpg) |
