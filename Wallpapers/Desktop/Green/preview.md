@@ -136,6 +136,7 @@ A collection of green-themed desktop wallpapers.
 | <img src="0492 - dwarf-saber.jpg" alt="0492 - dwarf-saber" width="500"> | [0492 - dwarf-saber.jpg](0492%20-%20dwarf-saber.jpg) |
 | <img src="0496 - genshin-landscape.png" alt="0496 - genshin-landscape" width="500"> | [0496 - genshin-landscape.png](0496%20-%20genshin-landscape.png) |
 | <img src="0506 - landscape_mountains_river_01.jpg" alt="0506 - landscape_mountains_river_01" width="500"> | [0506 - landscape_mountains_river_01.jpg](0506%20-%20landscape_mountains_river_01.jpg) |
+| <img src="05672F51-2EE1-4D9C-B84A-3BBF119DA42F.png" alt="05672F51-2EE1-4D9C-B84A-3BBF119DA42F" width="500"> | [05672F51-2EE1-4D9C-B84A-3BBF119DA42F.png](05672F51-2EE1-4D9C-B84A-3BBF119DA42F.png) |
 | <img src="0665 - journey.png" alt="0665 - journey" width="500"> | [0665 - journey.png](0665%20-%20journey.png) |
 | <img src="0666 - hyprlock.png" alt="0666 - hyprlock" width="500"> | [0666 - hyprlock.png](0666%20-%20hyprlock.png) |
 | <img src="0669 - a_group_of_trees_with_green_leaves.jpg" alt="0669 - a_group_of_trees_with_green_leaves" width="500"> | [0669 - a_group_of_trees_with_green_leaves.jpg](0669%20-%20a_group_of_trees_with_green_leaves.jpg) |
@@ -333,7 +334,6 @@ A collection of green-themed desktop wallpapers.
 | <img src="0879 - a_group_of_white_flowers_on_a_bush.jpg" alt="0879 - a_group_of_white_flowers_on_a_bush" width="500"> | [0879 - a_group_of_white_flowers_on_a_bush.jpg](0879%20-%20a_group_of_white_flowers_on_a_bush.jpg) |
 | <img src="0880 - a_white_flower_with_water_drops_on_it.jpg" alt="0880 - a_white_flower_with_water_drops_on_it" width="500"> | [0880 - a_white_flower_with_water_drops_on_it.jpg](0880%20-%20a_white_flower_with_water_drops_on_it.jpg) |
 | <img src="0881 - fva.jpg" alt="0881 - fva" width="500"> | [0881 - fva.jpg](0881%20-%20fva.jpg) |
-| <img src="0882 - a_painting_of_a_garden_with_a_house_and_trees.jpeg" alt="0882 - a_painting_of_a_garden_with_a_house_and_trees" width="500"> | [0882 - a_painting_of_a_garden_with_a_house_and_trees.jpeg](0882%20-%20a_painting_of_a_garden_with_a_house_and_trees.jpeg) |
 | <img src="0883 - a_close_up_of_white_flowers_01.jpg" alt="0883 - a_close_up_of_white_flowers_01" width="500"> | [0883 - a_close_up_of_white_flowers_01.jpg](0883%20-%20a_close_up_of_white_flowers_01.jpg) |
 | <img src="0884 - thumbnail40.jpg" alt="0884 - thumbnail40" width="500"> | [0884 - thumbnail40.jpg](0884%20-%20thumbnail40.jpg) |
 | <img src="0885 - wtloupii.jpg" alt="0885 - wtloupii" width="500"> | [0885 - wtloupii.jpg](0885%20-%20wtloupii.jpg) |
@@ -557,6 +557,8 @@ A collection of green-themed desktop wallpapers.
 | <img src="12 - grey-snowhut.png" alt="12 - grey-snowhut" width="500"> | [12 - grey-snowhut.png](12%20-%20grey-snowhut.png) |
 | <img src="13 - wallhaven-gw9pp7.jpg" alt="13 - wallhaven-gw9pp7" width="500"> | [13 - wallhaven-gw9pp7.jpg](13%20-%20wallhaven-gw9pp7.jpg) |
 | <img src="14 - blue-cozysmoke.png" alt="14 - blue-cozysmoke" width="500"> | [14 - blue-cozysmoke.png](14%20-%20blue-cozysmoke.png) |
+| <img src="14-Sonoma-Horizon-thumb.jpg" alt="14-Sonoma-Horizon-thumb" width="500"> | [14-Sonoma-Horizon-thumb.jpg](14-Sonoma-Horizon-thumb.jpg) |
+| <img src="15-Sequoia-Sunrise.png" alt="15-Sequoia-Sunrise" width="500"> | [15-Sequoia-Sunrise.png](15-Sequoia-Sunrise.png) |
 | <img src="195 - bleach.jpeg" alt="195 - bleach" width="500"> | [195 - bleach.jpeg](195%20-%20bleach.jpeg) |
 | <img src="198 - japan_street_ai.jpeg" alt="198 - japan_street_ai" width="500"> | [198 - japan_street_ai.jpeg](198%20-%20japan_street_ai.jpeg) |
 | <img src="200 - mailbox.png" alt="200 - mailbox" width="500"> | [200 - mailbox.png](200%20-%20mailbox.png) |
@@ -596,7 +598,15 @@ A collection of green-themed desktop wallpapers.
 | <img src="249 - Dark-window.png" alt="249 - Dark-window" width="500"> | [249 - Dark-window.png](249%20-%20Dark-window.png) |
 | <img src="250 - girl-with-dino.jpg" alt="250 - girl-with-dino" width="500"> | [250 - girl-with-dino.jpg](250%20-%20girl-with-dino.jpg) |
 | <img src="252 - nier_automata_minimal_ai.png" alt="252 - nier_automata_minimal_ai" width="500"> | [252 - nier_automata_minimal_ai.png](252%20-%20nier_automata_minimal_ai.png) |
+| <img src="4387B63E-F6C1-49F7-96FA-A78DEE9B6483.png" alt="4387B63E-F6C1-49F7-96FA-A78DEE9B6483" width="500"> | [4387B63E-F6C1-49F7-96FA-A78DEE9B6483.png](4387B63E-F6C1-49F7-96FA-A78DEE9B6483.png) |
+| <img src="76979200-4272-431F-B270-47B750448CA1.jpg" alt="76979200-4272-431F-B270-47B750448CA1" width="500"> | [76979200-4272-431F-B270-47B750448CA1.jpg](76979200-4272-431F-B270-47B750448CA1.jpg) |
 | <img src="blapples-11.png" alt="blapples-11" width="500"> | [blapples-11.png](blapples-11.png) |
+| <img src="C92E361F-D809-41EF-BC8C-D1C500BD3536.jpg" alt="C92E361F-D809-41EF-BC8C-D1C500BD3536" width="500"> | [C92E361F-D809-41EF-BC8C-D1C500BD3536.jpg](C92E361F-D809-41EF-BC8C-D1C500BD3536.jpg) |
+| <img src="D26D0BCF-2EE9-427C-891F-D2FF64377962.png" alt="D26D0BCF-2EE9-427C-891F-D2FF64377962" width="500"> | [D26D0BCF-2EE9-427C-891F-D2FF64377962.png](D26D0BCF-2EE9-427C-891F-D2FF64377962.png) |
+| <img src="F345CB17-1E1E-4D16-8CB7-B1DEC9AE14E5.png" alt="F345CB17-1E1E-4D16-8CB7-B1DEC9AE14E5" width="500"> | [F345CB17-1E1E-4D16-8CB7-B1DEC9AE14E5.png](F345CB17-1E1E-4D16-8CB7-B1DEC9AE14E5.png) |
+| <img src="forest-cabin.jpg" alt="forest-cabin" width="500"> | [forest-cabin.jpg](forest-cabin.jpg) |
 | <img src="goon1.jpg" alt="goon1" width="500"> | [goon1.jpg](goon1.jpg) |
 | <img src="lonelylodge.jpeg" alt="lonelylodge" width="500"> | [lonelylodge.jpeg](lonelylodge.jpeg) |
+| <img src="skeleton-using-pc.png" alt="skeleton-using-pc" width="500"> | [skeleton-using-pc.png](skeleton-using-pc.png) |
 | <img src="thelastofus.jpg" alt="thelastofus" width="500"> | [thelastofus.jpg](thelastofus.jpg) |
+| <img src="wallhaven-g77gpd_1920x1080.png" alt="wallhaven-g77gpd_1920x1080" width="500"> | [wallhaven-g77gpd_1920x1080.png](wallhaven-g77gpd_1920x1080.png) |

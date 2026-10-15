@@ -345,6 +345,9 @@ A collection of blue-themed desktop wallpapers.
 | <img src="0995 - girl_standing_front_wall_01.jpg" alt="0995 - girl_standing_front_wall_01" width="500"> | [0995 - girl_standing_front_wall_01.jpg](0995%20-%20girl_standing_front_wall_01.jpg) |
 | <img src="0997 - a.jpg" alt="0997 - a" width="500"> | [0997 - a.jpg](0997%20-%20a.jpg) |
 | <img src="0999 - a_blue_and_black_pattern.png" alt="0999 - a_blue_and_black_pattern" width="500"> | [0999 - a_blue_and_black_pattern.png](0999%20-%20a_blue_and_black_pattern.png) |
+| <img src="10-7--thumb.png" alt="10-7--thumb" width="500"> | [10-7--thumb.png](10-7--thumb.png) |
+| <img src="10-8--thumb.jpg" alt="10-8--thumb" width="500"> | [10-8--thumb.jpg](10-8--thumb.jpg) |
+| <img src="10-9--thumb.jpg" alt="10-9--thumb" width="500"> | [10-9--thumb.jpg](10-9--thumb.jpg) |
 | <img src="1002 - myneighbortottoro.jpg" alt="1002 - myneighbortottoro" width="500"> | [1002 - myneighbortottoro.jpg](1002%20-%20myneighbortottoro.jpg) |
 | <img src="1002.png" alt="1002" width="500"> | [1002.png](1002.png) |
 | <img src="1003 - 408LR-Kozue-Otomune-Performer-bbDI7e.png" alt="1003 - 408LR-Kozue-Otomune-Performer-bbDI7e" width="500"> | [1003 - 408LR-Kozue-Otomune-Performer-bbDI7e.png](1003%20-%20408LR-Kozue-Otomune-Performer-bbDI7e.png) |
@@ -435,6 +438,7 @@ A collection of blue-themed desktop wallpapers.
 | <img src="1097 - wp14812150-vincent-van-gogh-wallpapers.jpg" alt="1097 - wp14812150-vincent-van-gogh-wallpapers" width="500"> | [1097 - wp14812150-vincent-van-gogh-wallpapers.jpg](1097%20-%20wp14812150-vincent-van-gogh-wallpapers.jpg) |
 | <img src="1098 - Az-Lol-Wallpaper.png" alt="1098 - Az-Lol-Wallpaper" width="500"> | [1098 - Az-Lol-Wallpaper.png](1098%20-%20Az-Lol-Wallpaper.png) |
 | <img src="1099 - nhn.jpg" alt="1099 - nhn" width="500"> | [1099 - nhn.jpg](1099%20-%20nhn.jpg) |
+| <img src="11-0-Day-thumbnail.jpg" alt="11-0-Day-thumbnail" width="500"> | [11-0-Day-thumbnail.jpg](11-0-Day-thumbnail.jpg) |
 | <img src="1100 - a_beach_with_a_bridge_and_trees_01.jpg" alt="1100 - a_beach_with_a_bridge_and_trees_01" width="500"> | [1100 - a_beach_with_a_bridge_and_trees_01.jpg](1100%20-%20a_beach_with_a_bridge_and_trees_01.jpg) |
 | <img src="1100 - a_close_up_of_a_person_with_wings.jpg" alt="1100 - a_close_up_of_a_person_with_wings" width="500"> | [1100 - a_close_up_of_a_person_with_wings.jpg](1100%20-%20a_close_up_of_a_person_with_wings.jpg) |
 | <img src="1101 - a_road_with_traffic_barriers_on_the_side_of_the_road.jpg" alt="1101 - a_road_with_traffic_barriers_on_the_side_of_the_road" width="500"> | [1101 - a_road_with_traffic_barriers_on_the_side_of_the_road.jpg](1101%20-%20a_road_with_traffic_barriers_on_the_side_of_the_road.jpg) |
@@ -1751,6 +1755,8 @@ A collection of blue-themed desktop wallpapers.
 | <img src="256 - Choso.jpg" alt="256 - Choso" width="500"> | [256 - Choso.jpg](256%20-%20Choso.jpg) |
 | <img src="257 - green_sword_ai.jpg" alt="257 - green_sword_ai" width="500"> | [257 - green_sword_ai.jpg](257%20-%20green_sword_ai.jpg) |
 | <img src="258 - hyprland_2.jpg" alt="258 - hyprland_2" width="500"> | [258 - hyprland_2.jpg](258%20-%20hyprland_2.jpg) |
+| <img src="26-Tahoe-Beach-Day-thumb.jpg" alt="26-Tahoe-Beach-Day-thumb" width="500"> | [26-Tahoe-Beach-Day-thumb.jpg](26-Tahoe-Beach-Day-thumb.jpg) |
+| <img src="26-Tahoe-Beach-Dusk-thumb.jpg" alt="26-Tahoe-Beach-Dusk-thumb" width="500"> | [26-Tahoe-Beach-Dusk-thumb.jpg](26-Tahoe-Beach-Dusk-thumb.jpg) |
 | <img src="262 - torii-gate.jpg" alt="262 - torii-gate" width="500"> | [262 - torii-gate.jpg](262%20-%20torii-gate.jpg) |
 | <img src="264 - Miku-4.jpg" alt="264 - Miku-4" width="500"> | [264 - Miku-4.jpg](264%20-%20Miku-4.jpg) |
 | <img src="2641 - fhsr1.jpg" alt="2641 - fhsr1" width="500"> | [2641 - fhsr1.jpg](2641%20-%20fhsr1.jpg) |
@@ -1904,6 +1910,8 @@ A collection of blue-themed desktop wallpapers.
 | <img src="emesteve.png" alt="emesteve" width="500"> | [emesteve.png](emesteve.png) |
 | <img src="gazing-upon-the-void.png" alt="gazing-upon-the-void" width="500"> | [gazing-upon-the-void.png](gazing-upon-the-void.png) |
 | <img src="Konachan.com_-_292319.png" alt="Konachan.com_-_292319" width="500"> | [Konachan.com_-_292319.png](Konachan.com_-_292319.png) |
+| <img src="Nephis.png" alt="Nephis" width="500"> | [Nephis.png](Nephis.png) |
+| <img src="oshinoko12.jpg" alt="oshinoko12" width="500"> | [oshinoko12.jpg](oshinoko12.jpg) |
 | <img src="reirebuild.jpg" alt="reirebuild" width="500"> | [reirebuild.jpg](reirebuild.jpg) |
 | <img src="rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg" alt="rider-on-horse-overlooking-green-valley-t7-1830x1145" width="500"> | [rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg](rider-on-horse-overlooking-green-valley-t7-1830x1145.jpg) |
 | <img src="samuraistrike.jpg" alt="samuraistrike" width="500"> | [samuraistrike.jpg](samuraistrike.jpg) |

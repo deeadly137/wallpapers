@@ -288,6 +288,7 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="196 - fog-forest-everforest.png" alt="196 - fog-forest-everforest" width="500"> | [196 - fog-forest-everforest.png](196%20-%20fog-forest-everforest.png) |
 | <img src="1974 - paper.png" alt="1974 - paper" width="500"> | [1974 - paper.png](1974%20-%20paper.png) |
 | <img src="199 - totoro-1.png" alt="199 - totoro-1" width="500"> | [199 - totoro-1.png](199%20-%20totoro-1.png) |
+| <img src="1A024492-87ED-4AA1-BE9D-6818A5679AEE.jpg" alt="1A024492-87ED-4AA1-BE9D-6818A5679AEE" width="500"> | [1A024492-87ED-4AA1-BE9D-6818A5679AEE.jpg](1A024492-87ED-4AA1-BE9D-6818A5679AEE.jpg) |
 | <img src="2017 - 55.jpg" alt="2017 - 55" width="500"> | [2017 - 55.jpg](2017%20-%2055.jpg) |
 | <img src="204 - power.jpg" alt="204 - power" width="500"> | [204 - power.jpg](204%20-%20power.jpg) |
 | <img src="2046 - emilia_and_puck_re_zero_kara_hajimeru_isekai_seikatsu_drawn_by_tanaka_kazuma__645905efca3e8e731ef30193eb964c93.jpg" alt="2046 - emilia_and_puck_re_zero_kara_hajimeru_isekai_seikatsu_drawn_by_tanaka_kazuma__645905efca3e8e731ef30193eb964c93" width="500"> | [2046 - emilia_and_puck_re_zero_kara_hajimeru_isekai_seikatsu_drawn_by_tanaka_kazuma__645905efca3e8e731ef30193eb964c93.jpg](2046%20-%20emilia_and_puck_re_zero_kara_hajimeru_isekai_seikatsu_drawn_by_tanaka_kazuma__645905efca3e8e731ef30193eb964c93.jpg) |
@@ -355,3 +356,4 @@ A collection of gray and white themed desktop wallpapers.
 | <img src="undertale.png" alt="undertale" width="500"> | [undertale.png](undertale.png) |
 | <img src="wallhaven-6d7zew.jpg" alt="wallhaven-6d7zew" width="500"> | [wallhaven-6d7zew.jpg](wallhaven-6d7zew.jpg) |
 | <img src="wallhaven-gp1l97.jpg" alt="wallhaven-gp1l97" width="500"> | [wallhaven-gp1l97.jpg](wallhaven-gp1l97.jpg) |
+| <img src="wallpaper-zpv8ry.jpg" alt="wallpaper-zpv8ry" width="500"> | [wallpaper-zpv8ry.jpg](wallpaper-zpv8ry.jpg) |
